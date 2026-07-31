@@ -1,0 +1,4183 @@
+{
+
+    "products":[
+        {
+            "name":"redme note 11",
+            "price":"29000",
+            "category":"mi mobiles",
+            "id":1,
+            "image":"https://tse2.mm.bing.net/th?id=OIP.mRMfajQGbPo2S1-VkZovdAHaGa&pid=Api&P=0&h=180"
+        
+        },{
+            "name":"vivo v20",
+            "price":"20000",
+            "category":"vivo mobiles",
+            "id":2,
+            "image":"https://tse2.mm.bing.net/th?id=OIP.jVmRCKCYJu8WN0ugv1zA5QHaHa&pid=Api&P=0&h=180"
+        },{
+            "name":"Mac book Air",
+            "price":"100000",
+            "category":"Apple mobiles",
+            "id":3,
+            "image":"https://tse1.mm.bing.net/th?id=OIP.J7hDpWlfzEtjdN_ATSbWhwHaE8&pid=Api&P=0&h=180"
+        },{
+            "name":"Lenovo",
+            "price":"55000",
+            "category":"Lenovo mobiles",
+            "id":4,
+            "image":"https://tse3.mm.bing.net/th?id=OIP.FfOWV96hDX-jfE5_-ydNlgHaHa&pid=Api&P=0&h=180"
+    },
+    {
+        "name":"iphone",
+        "price":"66000",
+        "category":"Apple mobiles",
+        "id":5,
+        "image":"https://tse1.mm.bing.net/th?id=OIP.Z1U_m8YdHHrKnoZ2gZgfKQHaFl&pid=Api&P=0&h=180"
+    },
+    {
+
+     "name":"Real me",
+     "price":"20000",
+     "category":"realme mobiles",
+     "id":6,
+     "image":"https://tse3.mm.bing.net/th?id=OIP.eaSmuxkW433ddqfZgQUsIQHaHa&pid=Api&P=0&h=180"
+
+     
+     },
+     
+      {
+       "id":8 ,
+       "price": 2400,
+       "category":"Men's T Shirts",
+       "name":" Mens Casual Premium Slim Fit T-Shirts",
+       "image":" https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg"
+      },
+     {
+       "id":9 ,
+       "price":5500 ,
+       "category": " Men's Jackets",
+       "name":"Mens Cotton Jacket ",
+       "image":" https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg"
+      },
+      {
+       "id":10 ,
+       "price":1500 ,
+       "category": "Men's T Shirts",
+       "name":"Mens Casual Slim Fit",
+       "image":" https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg"
+      },
+      {
+       "id":11 ,
+       "price":65700 ,
+       "category": "jewelery ",
+       "name":"John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet ",
+       "image":" https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg"
+      },
+      {
+       "id":12,
+       "price":16000 ,
+       "category": "jewelery ",
+       "name":" Solid Gold Petite Micropave",
+       "image":"https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg "
+      },
+      {
+       "id":13 ,
+       "price":999 ,
+       "category": "jewelery ",
+       "name":"White Gold Plated Princess ",
+       "image":"https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg "
+      },
+      {
+       "id":14 ,
+       "price":10000 ,
+       "category": "jewelery",
+       "name":"Pierced Owl Rose Gold Plated Stainless Steel Double ",
+       "image":"https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg "
+      },
+     
+      {
+       "id":15 ,
+       "price":10999 ,
+       "category": " electronics",
+       "name":"SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s ",
+       "image":" https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg"
+      },
+      {
+       "id":16 ,
+       "price":10999 ,
+       "category": "electronics ",
+       "name":"Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5 ",
+       "image":"https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg "
+      },
+      {
+       "id":17 ,
+       "price":14699 ,
+       "category": "electronics ",
+       "name":"WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive ",
+       "image":"https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg "
+      },
+        {
+       "id":18,
+       "price":5999 ,
+       "category": " electronics",
+       "name":"Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin ",
+       "image":"https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg "
+      },
+       {
+       "id":19 ,
+       "price":9999 ,
+       "category": "electronics ",
+       "name":"Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ",
+       "image":"https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg "
+      },
+      {
+       "id":20 ,
+       "price":5679 ,
+       "category": " women's clothing",
+       "name":" BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
+       "image":"https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg "
+      },
+      {
+       "id":21 ,
+       "price": 2999,
+       "category": "women's clothing ",
+       "name":" Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
+       "image":"https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg "
+      },
+      {
+       "id":22 ,
+       "price": 3999,
+       "category": " women's clothing",
+       "name":"Rain Jacket Women Windbreaker Striped Climbing Raincoats ",
+       "image":"https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg "
+      },
+      {
+       "id":23 ,
+       "price":999,
+       "category": "women's clothing ",
+       "name":"MBJ Women's Solid Short Sleeve Boat Neck V  ",
+       "image":"https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg "
+      },
+      {
+       "id":24 ,
+       "price":899 ,
+       "category": " women's clothing",
+       "name":"Opna Women's Short Sleeve Moisture ",
+       "image":"https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg "
+      },
+      {
+       "id":25 ,
+       "price":1299 ,
+       "category": "women's clothing ",
+       "name":"DANVOUY Womens T Shirt Casual Cotton Short ",
+       "image":" https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg"
+      },
+      {
+        "id":26 ,
+        "price":18999,
+        "category": "Home furnitures ",
+        "name":" Perfect Homes Sofia Fabric 6 Seater Sofa",
+        "image":"https://tse4.mm.bing.net/th?id=OIP.P1ZOI6L8H8C64CIptPTL3QHaEK&pid=Api&P=0&h=180 "
+  },
+  {
+        "id":27 ,
+        "price":11326 ,
+        "category": "Home furnitures ",
+        "name":"Wakefit Taurus Engineered Wood Queen Box Bed ",
+        "image":"https://tse1.mm.bing.net/th?id=OIP.lfBFga8WdjyvrO6gqI2kvwHaHa&pid=Api&P=0&h=180 "
+  },
+  {
+        "id": 28,
+        "price": 2400,
+        "category": "Home furnitures  ",
+        "name":"Studio Kook Abba Engineered Wood 6 Seater Dining Table ",
+        "image":"https://tse2.mm.bing.net/th?id=OIP.tnMPoppE3K-R5urbyh0zAwHaHa&pid=Api&P=0&h=180 "
+  },
+  {
+        "id": 29,
+        "price":2999 ,
+        "category": "Home furnitures  ",
+        "name":" Ereteken ART Round Modern 2 Tier Coffee Table with Storage Center Tea Table Engineered Wood Coffee Table ",
+        "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/coffee-table/0/g/j/52-mdf-57-5-bct-wt2-ereteken-art-57-white-original-imagtfvxszgz2m4f.jpeg?q=70"
+  },
+  {
+        "id":30 ,
+        "price":1549 ,
+        "category": "Home furnitures  ",
+        "name":" Homes Studio Metal Open Book Shelf ",
+        "image":"https://rukminim2.flixcart.com/image/832/832/k5h2jrk0/book-shelf/t/6/q/galvanised-steel-sj030405-flipkart-perfect-homes-studio-grey-original-imafz5e3pet6sfpf.jpeg?q=70&crop=false "
+  },
+  {
+        "id":31 ,
+        "price":10999 ,
+        "category": " Home furnitures ",
+        "name":"Julian Engineered Wood 3 Door Wardrobe ",
+        "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/wardrobe-closet/b/s/3/-original-imagp8tqdaakfzdj.jpeg?q=70 "
+  },
+  {
+        "id":32 ,
+        "price": 2599,
+        "category": "Home furnitures ",
+        "name":" ANIKAA Mavis Dressing Wall Mirror with Shelves/Wall Hanging Dressing Mirrors with Shelf for Living Room Bedroom/Wall Mounted Dressing Mirror for Wall Decor (White) Engineered Wood Dressing Table ",
+        "image":"https://rukminim2.flixcart.com/image/612/612/kxgfzbk0/dressing-table/c/p/6/1200-3600-particle-board-6100-mavis-white-anikaa-8000-white-original-imag9wnzw2puwjbg.jpeg?q=70 "
+  },
+  {
+        "id":33 ,
+        "price": 5899,
+        "category": " Home furnitures",
+        "name":"StarWooden Solid Wood Bedside Table ",
+        "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/side-table/y/x/0/45-rosewood-sheesham-54-9-12-jasper-deluxe-solid-wood-rattan-original-imagwmbhhgqfvkqf.jpeg?q=70 "
+  },
+  {
+        "id": 34,
+        "price": 3299,
+        "category": "Home furnitures",
+        "name":" Ebee Engineered Wood Computer Desk  ",
+        "image":"https://rukminim2.flixcart.com/image/612/612/l4n2oi80/computer-table/d/a/f/-original-imagfhzyvapdqgy3.jpeg?q=70 "
+  },
+  {
+        "id": 35,
+        "price": 13459,
+        "category": "Home furnitures ",
+        "name":"ERGOCRAFT ERGOCRAFT BALCONY/GARDEN/TERRACE/ COFFEE TABLE CHAIR SET D-12 Metal Outdoor Chair ",
+        "image":"https://rukminim2.flixcart.com/image/612/612/l5jxt3k0/outdoor-set/w/k/b/0-black-4-1-wicker-610-d-12-black-candid-home-762-black-original-imagg7mfgbfkxz6s.jpeg?q=70 "
+  },
+  {
+        "id":36 ,
+        "price":869 ,
+        "category": "Home furnitures ",
+        "name":" wooden luxury Fabric Pouf",
+        "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/ottoman-pouffe/m/j/y/blue-foam-opr-1616-wooden-luxury-original-imagphwzhyhdrrgu.jpeg?q=70 "
+  },
+  {
+        "id":37 ,
+        "price": 18699,
+        "category": "Home furnitures ",
+        "name":" Bharat Lifestyle Nano L Shape Fabric 6 Seater Sofa",
+        "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/sofa-sectional/i/f/y/-original-imagg7z59gcmhsrb.jpeg?q=70 "
+  },
+  {
+        "id":38 ,
+        "price":5140 ,
+        "category": "Home furnitures ",
+        "name":" PRITI Engineered Wood Console Table",
+        "image":"https://rukminim2.flixcart.com/image/832/832/kx3l0nk0/side-table/v/m/x/29-97-100-07-mdf-12-34-pi-spt-5009-console-table-priti-74-93-original-imag9mqruvtpzdgx.jpeg?q=70&crop=false "
+  },
+  {
+        "id": 39,
+        "price": 1199,
+        "category": "Home furnitures ",
+        "name":"enerex Multipurpose Storage Rack - SpaceSaving StorageOrganizer Rack Shelf with Wheels Plastic Free Standing Chest of Drawers ",
+        "image":"https://rukminim2.flixcart.com/image/612/612/kziqvm80/cabinet-drawer/8/m/f/pc-multipurpose-storage-rack-space-saving-storage-organizer-rack-original-imagbg9wfuzbfahv.jpeg?q=70 "
+  },
+  {
+        "id":40 ,
+        "price":31020 ,
+        "category": "Home furnitures ",
+        "name":" duroflex Zivo Plus Interchangeable Lounger (Chaise) Set Fabric 2 Seater Sofa  (Finish Color - Twilight Blue, Knock Down)",
+        "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/sofa-sectional/x/b/3/symmetrical-89-twilight-blue-137-9982-polyester-no-35-6-original-imaggc6wxd2fvyp5.jpeg?q=70 "
+  },
+  {
+        "id":41 ,
+        "price": 1905,
+        "category": "Home furnitures ",
+        "name":" myrvdecor Metal Bar Stool",
+        "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/bar-stool-chair/l/i/m/1-brown-carbon-steel-290-4-1-metal-legs-stool-breakfast-kitchen-original-imagn3cyhnkz4rbe.jpeg?q=70 "
+  },
+  {
+        "id":42 ,
+        "price":770 ,
+        "category": "Home furnitures ",
+        "name":"Minato Tokyo Buffet Lunch Box Leakproof Reusable Microwave Freezer Safe Stainless Steel 4 Containers Lunch Box   ",
+        "image":"https://rukminim2.flixcart.com/image/832/832/l4yi7bk0/lunch-box/z/n/w/1200-tokyo-buffet-lunch-box-leakproof-reusable-microwave-freezer-original-imagfqm9ttb8kz5q.jpeg?q=70&crop=false "
+  },
+  {
+        "id":43 ,
+        "price": 11700,
+        "category": "Home furnitures ",
+        "name":"Auxiliary Metal Bunk Bed  ",
+        "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/bunk-loft-bed/j/j/b/na-cast-iron-auxbunkbed003-auxiliary-137-16-white-original-imaggrhvyvwcnhex.jpeg?q=70 "
+  },
+  {
+        "id": 44,
+        "price":8899 ,
+        "category": " Home furnitures",
+        "name":"ARRA Galaxy Living Room Accent Chair Solid Wood Living Room Chair ",
+        "image":" https://rukminim2.flixcart.com/image/612/612/xif0q/living-room-chair/k/o/d/73-66-yellow-plywood-68-58-15-galaxy-arra2541-arra-76-2-yellow-original-imagw3zx4yexfbrk.jpeg?q=70"
+  },
+  {
+        "id": 45,
+        "price": 1199,
+        "category": " Home furnitures",
+        "name":"Firebees wooden home decor table,bedside table,coffe table,nightstand, nesting table Engineered Wood End Table   ",
+        "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/side-table/j/j/n/25-mdf-43-5-76747546-end-table-firebees-53-brown-original-imagtbww4pqgqhkq.jpeg?q=70&crop=false "
+  },
+  {
+        "id":46 ,
+        "price":12112 ,
+        "category": "Home furnitures ",
+        "name":"Wopno Furniture 5 Chest Drawer Storage Cabinet for Home Solid Wood Free Standing Chest of Drawers ",
+        "image":"https://rukminim2.flixcart.com/image/612/612/l572ufk0/cabinet-drawer/d/h/q/40-rosewood-sheesham-90-55-wooden-maple-finish-5-chest-drawer-original-imagfxdbfmp9mmzr.jpeg?q=70 "
+  },
+  {
+        "id": 47,
+        "price": 1110,
+        "category": "Home furnitures ",
+        "name":" SKC ARMOIRE PP Collapsible Wardrobe ",
+        "image":"https://rukminim2.flixcart.com/image/612/612/ks243gw0/collapsible-wardrobe/t/h/t/pp-skc-320nb-skc-armoire-navy-blue-original-imag5pry3bvfyd4q.jpeg?q=70 "
+  },
+  {
+        "id":48 ,
+        "price": 299,
+        "category": " Home furnitures",
+        "name":"rawpockets 200 cm Blue Tree with Birds and Cage Self Adhesive Sticker ",
+        "image":"https://rukminim2.flixcart.com/image/832/832/l5cslu80/sticker/7/g/o/large-blue-tree-with-birds-and-cage-1-200-rpc2064t50-rawpockets-original-imaggfsz9uvbsdnh.jpeg?q=70&crop=false "
+  },
+  {
+        "id":49 ,
+        "price": 13259,
+        "category": "Home furnitures ",
+        "name":"Artistic Interior Crafts Wood Rocking Chair Relax chair Rolling Chair Arm Rest Chair Brown Cushion Solid Wood 1 Seater Rocking Chairs ",
+        "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/rocking-chair/j/i/s/60-1-seater-rosewood-sheesham-128-18-rockingh469-grey-soul-light-original-imagz63fyupbq66e.jpeg?q=70 "
+  },
+  {
+        "id":50,
+        "price":2899 ,
+        "category": "Home furnitures ",
+        "name":"SLOVIC Home Gym | Full Body Workout | Weight Training Bench Multipurpose Fitness Bench ",
+        "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/fitness-bench/j/z/j/41-200-fitness-bench-for-home-gym-7-adjustable-positions-full-original-imagxyxnu8qvhnb6.jpeg?q=70 "
+  },
+  {
+        "id":51,
+        "price":1804 ,
+        "category": " Home furnitures",
+        "name":"PepperWood Engineered Wood TV Entertainment Unit  ",
+        "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/tv-entertainment-unit/s/p/j/20-76-particle-board-7-2-pw-090-pepperwood-78-42-oak-white-original-imagm7ymhfehsz3p.jpeg?q=70 "
+  },
+  {
+      "id":52 ,
+      "price":22999 ,
+      "category": "mi mobiles",
+      "name":"Xiaomi 11i 5G (Purple Mist, 128 GB)  (8 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/312/312/ky7lci80/mobile/e/j/x/-original-imagag2gatsxzcuv.jpeg?q=70 "
+},
+{
+      "id":53 ,
+      "price":25999 ,
+      "category": "mi mobiles",
+      "name":"Mi 10T Pro (Lunar Silver, 128 GB)  (8 GB RAM) ",
+      "image":" https://rukminim2.flixcart.com/image/312/312/kg6vfrk0/mobile/h/v/j/mi-10t-pro-mzb07zein-original-imafwhb86qsrbgsj.jpeg?q=70"
+},
+{
+      "id":54 ,
+      "price":84999 ,
+      "category": "mi mobiles",
+      "name":"Xiaomi 12 Pro 5G (Noir Black, 256 GB)  (12 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/7/y/u/-original-imagqmtfu8gt62yv.jpeg?q=70&crop=false "
+},
+{
+      "id":55 ,
+      "price": 21989,
+      "category": "mi mobiles",
+      "name":"Mi 11X (Cosmic Black, 128 GB)  (6 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/g/q/q/-original-imaggcz6fyt9yayh.jpeg?q=70&crop=false "
+},
+{
+      "id":56 ,
+      "price":13299 ,
+      "category": "mi mobiles",
+      "name":"Redmi Note 9 Pro (Glacier White, 128 GB)  (6 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/312/312/kcdp5zk0/mobile/6/e/k/mi-redmi-note-9-pro-mzb9105in-original-imaftgy6gwe9vnqr.jpeg?q=70 "
+},
+{
+      "id":57 ,
+      "price":10638 ,
+      "category": "mi mobiles",
+      "name":" REDMI 10 Power (Power Black, 128 GB)  (8 GB RAM)",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/e/y/b/-original-imageftfzx8gfkys.jpeg?q=70&crop=false "
+},
+{
+      "id":58 ,
+      "price":21999 ,
+      "category": "mi mobiles",
+      "name":"Mi 10T (Cosmic Black, 128 GB)  (8 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/i/a/6/10t-5g-mzb07zain-mi-original-imagregtwqymre6u.jpeg?q=70&crop=false "
+},
+{
+      "id":59 ,
+      "price": 20999,
+      "category": "mi mobiles",
+      "name":"Mi 10i (Pacific Sunrise, 128 GB)  (6 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/kjlrb0w0-0/mobile/c/0/q/10i-m10ix02-mi-original-imafz4rnzbetadrk.jpeg?q=70&crop=false "
+},
+{
+      "id":60 ,
+      "price":22999 ,
+      "category": "mi mobiles",
+      "name":"Xiaomi 11i 5G (Stealth Black, 128 GB)  (8 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/ky7lci80/mobile/4/n/d/-original-imagag2gdzpdfsdf.jpeg?q=70&crop=false "
+},
+{
+      "id":61 ,
+      "price":15999 ,
+      "category": "mi mobiles",
+      "name":" Mi 11 Lite (Jazz Blue, 128 GB)  (8 GB RAM)",
+      "image":"https://rukminim2.flixcart.com/image/832/832/kq6yefk0/mobile/i/w/m/11-lite-m2101k9ai-mi-original-imag496gkgqjrvvg.jpeg?q=70&crop=false "
+},
+{
+      "id":62 ,
+      "price":7160 ,
+      "category": "mi mobiles",
+      "name":" Redmi 9A Sport (Coral Green, 32 GB)  (2 GB RAM)",
+      "image":" https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/x/i/8/-original-imag7chxqqu7h5hs.jpeg?q=70&crop=false"
+},
+{
+      "id":63 ,
+      "price": 11364,
+      "category": "mi mobiles",
+      "name":"REDMI 10 Power (Sporty Orange, 128 GB)  (8 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/p/g/k/-original-imageyuud3bey9hh.jpeg?q=70&crop=false "
+},
+{
+      "id":64 ,
+      "price":24599 ,
+      "category": "mi mobiles",
+      "name":" Xiaomi 11i 5G (Camo Green, 128 GB)  (6 GB RAM)",
+      "image":"https://rukminim2.flixcart.com/image/312/312/ky7lci80/mobile/i/w/n/-original-imagag2gugrdkbwu.jpeg?q=70 "
+},
+{
+      "id":65 ,
+      "price":18999 ,
+      "category": "mi mobiles",
+      "name":"REDMI Note 11 Pro (Star blue, 128 GB)  (6 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/k/7/p/-original-imagcvhfpjq25hdr.jpeg?q=70 "
+},
+{
+      "id":66 ,
+      "price":11999 ,
+      "category": "mi mobiles",
+      "name":"Redmi 10 Prime (Bifrost Blue, 64 GB)  (4 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/ktbu6q80/mobile/v/p/i/10-prime-10-redmi-original-imag6pb4qf7yxgrg.jpeg?q=70&crop=false "
+},
+{
+      "id":67 ,
+      "price":12618 ,
+      "category": "mi mobiles",
+      "name":" REDMI NOTE 10 LITE (Glacier White, 128 GB)  (4 GB RAM)",
+      "image":"https://rukminim2.flixcart.com/image/832/832/kua4r680/mobile/n/o/b/m2002f4lg-m1910f4g-redmi-note-10-lite-redmi-original-imag7f7fqkuma9rf.jpeg?q=70&crop=false "
+},
+{
+      "id":68 ,
+      "price":16890 ,
+      "category": "mi mobiles",
+      "name":" REDMI Note 11 Pro (Phantom White, 128 GB)  (6 GB RAM)",
+      "image":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/z/d/c/-original-imagcvhxubttxe7r.jpeg?q=70 "
+},
+{
+      "id":69 ,
+      "price":25499 ,
+      "category": "mi mobiles",
+      "name":"Mi 10T Pro (Cosmic Black, 128 GB)  (8 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/kg6vfrk0/mobile/e/s/6/mi-10t-pro-mzb07zdin-original-imafwhbrythgcddt.jpeg?q=70&crop=false "
+},
+{
+      "id":70 ,
+      "price":37999 ,
+      "category": "mi mobiles",
+      "name":"Mi 10T (Cosmic Black, 128 GB)  (8 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/kg6vfrk0/mobile/h/m/z/mi-10t-mzb07zain-original-imafwhbyyvhd3g9v.jpeg?q=70&crop=false "
+},
+{
+      "id":71 ,
+      "price":22790 ,
+      "category": "mi mobiles",
+      "name":"Xiaomi 11i Hypercharge 5G (Purple Mist, 128 GB)  (8 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/312/312/ky7lci80/mobile/k/b/g/-original-imagagf6fzbhuhny.jpeg?q=70 "
+},
+{
+      "id":72 ,
+      "price":11999 ,
+      "category": "mi mobiles",
+      "name":" Redmi Note 7S (Moonlight White, 64 GB)  (4 GB RAM)",
+      "image":"https://rukminim2.flixcart.com/image/312/312/k51cpe80pkrrdj/mobile/y/p/w/mi-redmi-note-7s-mzb8007in-original-imafj36gn3qw2kvt.jpeg?q=70 "
+},
+{
+      "id":73 ,
+      "price": 21999,
+      "category": "realme mobiles",
+      "name":"realme 11 Pro 5G (Sunrise Beige, 128 GB)  (8 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/l/8/d/-original-imagqadpnygfnn2v.jpeg?q=70&crop=false "
+},
+{
+      "id":74 ,
+      "price":10999 ,
+      "category": "realme mobiles",
+      "name":"realme C53 (Champion Gold, 128 GB)  (6 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/h/h/d/-original-imags487gaqqhcea.jpeg?q=70&crop=false "
+},
+{
+      "id":75 ,
+      "price":8999 ,
+      "category": "realme mobiles",
+      "name":"realme C51 (Mint Green, 64 GB)  (4 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/b/i/x/-original-imagt4qptrkzwmxa.jpeg?q=70&crop=false "
+},
+{
+      "id":76 ,
+      "price":25999 ,
+      "category": "realme mobiles",
+      "name":"realme 11 Pro+ 5G (Sunrise Beige, 256 GB)  (8 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/t/k/m/11-pro-5g-rmx3741-realme-original-imagq6asfa6hg5eu.jpeg?q=70&crop=false "
+},
+{
+      "id":77 ,
+      "price": 14999,
+      "category": "realme mobiles",
+      "name":"realme 11x 5G (Purple Dawn, 128 GB)  (6 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/e/q/g/-original-imagtqqd4vcdzqdg.jpeg?q=70&crop=false "
+},
+{
+      "id":78 ,
+      "price":16999 ,
+      "category": "realme mobiles",
+      "name":"realme 11 5G (Glory Gold, 128 GB)  (8 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/g/j/d/-original-imagtqqddnkayg4x.jpeg?q=70&crop=false "
+},
+{
+      "id":79 ,
+      "price": 13999,
+      "category": "realme mobiles",
+      "name":"realme C55 (Rainforest, 128 GB)  (8 GB RAM) ",
+      "image":" https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/8/d/b/-original-imagp9s9wfzp8ghf.jpeg?q=70&crop=false"
+},
+{
+      "id":80 ,
+      "price": 14599,
+      "category": "realme mobiles",
+      "name":"realme 11x 5G (Midnight Black, 128 GB)  (6 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/w/s/3/-original-imagtqqdw4tnwjbh.jpeg?q=70&crop=false "
+},
+{
+      "id":81 ,
+      "price":12999 ,
+      "category": "realme mobiles",
+      "name":"realme C67 5G (Sunny Oasis, 128 GB)  (4 GB RAM) ",
+      "image":" https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/x/a/8/c67-5g-rmx3782-realme-original-imagvzwbfgergg2f.jpeg?q=70&crop=false"
+},
+{
+      "id":82 ,
+      "price":9999 ,
+      "category": "realme mobiles",
+      "name":" realme C53 (Champion Gold, 128 GB)  (4 GB RAM)",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/h/h/d/-original-imags487gaqqhcea.jpeg?q=70&crop=false "
+},
+{
+      "id":83 ,
+      "price":8999 ,
+      "category": "realme mobiles",
+      "name":"realme C51 (Carbon Black, 64 GB)  (4 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/t/5/5/-original-imagt4qzhsrnpyhb.jpeg?q=70&crop=false "
+},
+{
+      "id":84 ,
+      "price":24999 ,
+      "category": "realme mobiles",
+      "name":"realme 10 Pro+ 5G (Hyperspace, 128 GB)  (6 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/3/q/k/-original-imagkp8f9vrfqtfg.jpeg?q=70&crop=false "
+},
+{
+      "id":85 ,
+      "price":16999 ,
+      "category": "realme mobiles",
+      "name":"realme 11 5G (Glory Black, 128 GB)  (8 GB RAM) ",
+      "image":" https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/n/o/r/-original-imagtqqdkzfspfmu.jpeg?q=70&crop=false"
+},
+{
+      "id":86 ,
+      "price":15999 ,
+      "category": "realme mobiles",
+      "name":"realme 11x 5G (Purple Dawn, 128 GB)  (8 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/e/q/g/-original-imagtqqd4vcdzqdg.jpeg?q=70&crop=false "
+},
+{
+      "id":87 ,
+      "price":33999 ,
+      "category": "realme mobiles",
+      "name":"realme GT Neo 3T (Drifting White, 256 GB)  (8 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/s/r/c/-original-imaghyc7gkgg6qzf.jpeg?q=70&crop=false "
+},
+{
+      "id":88 ,
+      "price":29999 ,
+      "category": "realme mobiles",
+      "name":"realme GT Neo 3T (Shade Black, 128 GB)  (6 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/2/9/c/-original-imaghzfgbgyafbgq.jpeg?q=70&crop=false "
+},
+{
+      "id":89 ,
+      "price":17294 ,
+      "category": "realme mobiles",
+      "name":" realme Narzo 60 5G (Mars Orange, 128 GB)  (8 GB RAM)",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/b/f/a/narzo-60-5g-rmx3750-realme-original-imagrhsyynghwkjg.jpeg?q=70&crop=false "
+},
+{
+      "id":90 ,
+      "price":10290 ,
+      "category": "realme mobiles",
+      "name":"realme NARZO 50A PRIME (FLASH BLUE, 64 GB)  (4 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/w/n/y/narzo-50a-prime-rmx3513-realme-original-imaggqhdzzybktht.jpeg?q=70&crop=false "
+},
+{
+      "id":91 ,
+      "price":17999 ,
+      "category": "realme mobiles",
+      "name":"realme Narzo 20 Pro (Black Ninja, 128 GB)  (8 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/kfbfr0w0/mobile/z/x/a/realme-narzo-20-pro-rmx2161-original-imafvswzqcfztugg.jpeg?q=70&crop=false "
+},
+{
+      "id":92 ,
+      "price":9999 ,
+      "category": "realme mobiles",
+      "name":"realme Narzo 20A (Glory Silver, 64 GB)  (4 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/kfbfr0w0/mobile/y/f/s/realme-narzo-20a-rmx2050-original-imafvswuehda4esc.jpeg?q=70&crop=false "
+},
+{
+      "id":93 ,
+      "price":22999 ,
+      "category": "realme mobiles",
+      "name":" realme 7 Pro (Mirror Silver, 128 GB)  (8 GB RAM)",
+      "image":"https://rukminim2.flixcart.com/image/832/832/kekadu80/mobile/z/z/v/realme-7-pro-rmx2170-original-imafv73vwh36pscq.jpeg?q=70&crop=false "
+},
+{
+      "id":94 ,
+      "price":24990 ,
+      "category": "realme mobiles",
+      "name":"realme X2 Pro (Neptune Blue, 256 GB)  (12 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/k391w280/mobile/z/c/m/realme-x2-pro-rmx1931-original-imafmf597chy5p8u.jpeg?q=70&crop=false "
+},
+{
+      "id":95 ,
+      "price":24999 ,
+      "category": "samsung mobiles",
+      "name":"SAMSUNG Galaxy F54 5G (Meteor Blue, 256 GB)  (8 GB RAM) ",
+      "image":" https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/y/2/b/galaxy-f54-5g-sm-e546bdbhins-samsung-original-imagq79fjhhcb6u2.jpeg?q=70"
+},
+{
+      "id":96 ,
+      "price":31999 ,
+      "category": "samsung mobiles",
+      "name":" Samsung Galaxy S21 FE 5G with Snapdragon 888 (Navy, 128 GB)  (8 GB RAM)",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/4/x/0/-original-imagtnqjjfgxzpz4.jpeg?q=70&crop=false "
+},
+{
+      "id":97 ,
+      "price":15999 ,
+      "category": "samsung mobiles",
+      "name":"SAMSUNG Galaxy F34 5G (Electric Black, 128 GB)  (6 GB RAM) ",
+      "image":" https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/v/r/8/-original-imagtywatxffk3yh.jpeg?q=70&crop=false"
+},
+{
+      "id":98 ,
+      "price": 10990,
+      "category": "samsung mobiles",
+      "name":" SAMSUNG Galaxy F14 5G (GOAT Green, 128 GB)  (6 GB RAM)",
+      "image":" https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/g/n/k/-original-imagtyxb86ddjhzh.jpeg?q=70&crop=false"
+},
+{
+      "id":99 ,
+      "price":24999 ,
+      "category": "samsung mobiles",
+      "name":"SAMSUNG Galaxy F54 5G (Stardust Silver, 256 GB)  (8 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/q/t/h/galaxy-f54-5g-sm-e546bzshins-samsung-original-imagq79f82pfyzvh.jpeg?q=70&crop=false "
+},
+{
+      "id":100 ,
+      "price":54999 ,
+      "category": "samsung mobiles",
+      "name":"SAMSUNG Galaxy S23 FE (Mint, 128 GB)  (8 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/l/r/o/galaxy-s23-fe-sm-s711blgbins-samsung-original-imagw6ypkzgvcbgz.jpeg?q=70&crop=false "
+},
+{
+      "id":101 ,
+      "price":19999 ,
+      "category": "samsung mobiles",
+      "name":"SAMSUNG Galaxy A15 5G (Blue Black, 128 GB)  (8 GB RAM) ",
+      "image":" https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/k/b/x/galaxy-a15-5g-sm-a156ezknins-samsung-original-imagwkgyvgfsza34.jpeg?q=70&crop=false"
+},
+{
+      "id":102 ,
+      "price":33999 ,
+      "category": "samsung mobiles",
+      "name":"Samsung Galaxy S21 FE 5G with Snapdragon 888 (Lavender, 256 GB)  (8 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/y/s/l/-original-imagtnqjjuc6dh6v.jpeg?q=70&crop=false "
+},
+{
+      "id":103 ,
+      "price":64999 ,
+      "category": "samsung mobiles",
+      "name":"SAMSUNG Galaxy S23 5G (Green, 128 GB)  (8 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/s/j/p/-original-imagmg6gmq9kzq9j.jpeg?q=70&crop=false "
+},
+{
+      "id":104 ,
+      "price":99999 ,
+      "category": "samsung mobiles",
+      "name":"SAMSUNG Galaxy Z Flip5 (Mint, 256 GB)  (8 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/t/o/b/galaxy-flip5-sm-f731blgains-samsung-original-imagru5pcagms7me.jpeg?q=70&crop=false "
+},
+{
+      "id":105 ,
+      "price":109999 ,
+      "category": "samsung mobiles",
+      "name":"SAMSUNG Galaxy Z Flip5 (Cream, 512 GB)  (8 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/7/v/j/galaxy-flip5-sm-f731bzeains-samsung-original-imagru5prpgcragb.jpeg?q=70&crop=false "
+},
+{
+      "id":106 ,
+      "price":14000 ,
+      "category": "samsung mobiles",
+      "name":"SAMSUNG Galaxy A14 (Light Green, 128 GB)  (4 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/e/e/c/galaxy-a14-sm-a145flgdins-samsung-original-imagq6czvb7qgbmc.jpeg?q=70&crop=false "
+},
+{
+      "id":107 ,
+      "price":9990 ,
+      "category": "samsung mobiles",
+      "name":"SAMSUNG Galaxy F14 5G (GOAT Green, 128 GB)  (4 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/z/v/e/-original-imagtyxbptwcpjta.jpeg?q=70&crop=false "
+},
+{
+      "id":108 ,
+      "price":19999 ,
+      "category": "samsung mobiles",
+      "name":"SAMSUNG Galaxy A15 5G (Light Blue, 128 GB)  (8 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/s/i/c/galaxy-a15-5g-sm-a156elbnins-samsung-original-imagwkgykezdha6z.jpeg?q=70&crop=false "
+},
+{
+      "id":109 ,
+      "price":10990 ,
+      "category": "samsung mobiles",
+      "name":"SAMSUNG Galaxy F14 5G (B.A.E. Purple, 128 GB)  (6 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/k/2/x/-original-imagtyxg7mdjhfqm.jpeg?q=70&crop=false "
+},
+{
+      "id":110 ,
+      "price": 15499,
+      "category": "samsung mobiles",
+      "name":"SAMSUNG Galaxy F34 5G (Orchid Violet, 128 GB)  (6 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/r/k/x/-original-imagtrrqkxprtd4n.jpeg?q=70&crop=false "
+},
+{
+      "id":111 ,
+      "price":13799 ,
+      "category": "samsung mobiles",
+      "name":"SAMSUNG Galaxy A05s (Light Green, 128 GB)  (4 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/u/g/r/galaxy-a05s-sm-a057flggins-samsung-original-imagvcwmzsf3zhwq.jpeg?q=70&crop=false "
+},
+{
+      "id":112 ,
+      "price":54999 ,
+      "category": "samsung mobiles",
+      "name":"SAMSUNG Galaxy S23 FE (Graphite, 128 GB)  (8 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/y/q/t/galaxy-s23-fe-sm-s711bzabins-samsung-original-imagw6yhxqqkcqzh.jpeg?q=70&crop=false "
+},
+{
+      "id":113 ,
+      "price":154999 ,
+      "category": "samsung mobiles",
+      "name":"SAMSUNG Galaxy Z Fold5 (Cream, 256 GB)  (12 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/g/k/a/galaxy-fold5-sm-f946bzegins-samsung-original-imagru5udkewyvyn.jpeg?q=70&crop=false "
+},
+{
+      "id":114 ,
+      "price":9990 ,
+      "category": "samsung mobiles",
+      "name":"SAMSUNG Galaxy F14 5G (OMG Black, 128 GB)  (4 GB RAM) ",
+      "image":" https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/n/r/i/-original-imagtyxhuehakdc4.jpeg?q=70&crop=false"
+},
+{
+      "id":115 ,
+      "price":17999 ,
+      "category": "samsung mobiles",
+      "name":"SAMSUNG Galaxy F34 5G (Orchid Violet, 128 GB)  (8 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/r/k/x/-original-imagtrrqkxprtd4n.jpeg?q=70&crop=false "
+},
+{
+      "id":116 ,
+      "price":164999 ,
+      "category": "samsung mobiles",
+      "name":" SAMSUNG Galaxy Z Fold5 (Cream, 512 GB)  (12 GB RAM)",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/g/k/a/galaxy-fold5-sm-f946bzegins-samsung-original-imagru5udkewyvyn.jpeg?q=70&crop=false "
+},
+{
+      "id":117 ,
+      "price":10990 ,
+      "category": "samsung mobiles",
+      "name":"SAMSUNG Galaxy F14 5G (OMG Black, 128 GB)  (6 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/r/8/k/-original-imagtyxcgmgvtm7y.jpeg?q=70&crop=false "
+},
+{
+      "id":118 ,
+      "price":15999 ,
+      "category": "samsung mobiles",
+      "name":"SAMSUNG Galaxy F34 5G (Mystic Green, 128 GB)  (6 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/n/w/e/-original-imagtyw9fdfnsune.jpeg?q=70&crop=false "
+},
+{
+      "id":119 ,
+      "price": 27499,
+      "category": "samsung mobiles",
+      "name":"SAMSUNG Galaxy A34 5G (Awesome Graphite, 128 GB)  (8 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/a/a/v/galaxy-a34-5g-sm-a346ezkeins-samsung-original-imagnpz4h7xg6pgg.jpeg?q=70&crop=false "
+},
+{
+      "id":120 ,
+      "price":29499 ,
+      "category": "samsung mobiles",
+      "name":"SAMSUNG Galaxy A34 5G (Awesome Graphite, 256 GB)  (8 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/a/a/v/galaxy-a34-5g-sm-a346ezkeins-samsung-original-imagnpz4h7xg6pgg.jpeg?q=70&crop=false "
+},
+{
+      "id":121 ,
+      "price":27499 ,
+      "category": "samsung mobiles",
+      "name":"SAMSUNG Galaxy A34 5G (Awesome Silver, 128 GB)  (8 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/e/l/l/galaxy-a34-5g-sm-a346ezseins-samsung-original-imagnpz4fqyfqzqq.jpeg?q=70&crop=false "
+},
+{
+      "id":122 ,
+      "price":29499 ,
+      "category": "samsung mobiles",
+      "name":"SAMSUNG Galaxy A34 5G (Awesome Violet, 256 GB)  (8 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/7/j/y/galaxy-a34-5g-sm-a346elvcins-samsung-original-imagnpz5dhysxrgw.jpeg?q=70&crop=false "
+},
+{
+      "id":123 ,
+      "price":35499 ,
+      "category": "samsung mobiles",
+      "name":"SAMSUNG Galaxy A54 5G (Awesome Violet, 128 GB)  (8 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/t/h/6/-original-imagnrhk2jpnnajr.jpeg?q=70&crop=false "
+},
+{
+      "id":124 ,
+      "price":37499 ,
+      "category": "samsung mobiles",
+      "name":"SAMSUNG Galaxy A54 5G (Awesome Graphite, 256 GB)  (8 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/2/a/t/-original-imagnrhknw9pbg3t.jpeg?q=70&crop=false "
+},
+{
+      "id":125 ,
+      "price":125499 ,
+      "category": "samsung mobiles",
+      "name":"SAMSUNG Galaxy S23 Ultra 5G (Green, 256 GB)  (12 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/2/s/7/-original-imagmg6gktts6sfy.jpeg?q=70&crop=false "
+},
+{
+      "id":126 ,
+      "price":125499 ,
+      "category": "samsung mobiles",
+      "name":"SAMSUNG Galaxy S23 Ultra 5G (Cream, 256 GB)  (12 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/k/1/o/-original-imagmg6gz3bsgan7.jpeg?q=70&crop=false "
+},
+{
+      "id":127 ,
+      "price":69999 ,
+      "category": "samsung mobiles",
+      "name":"SAMSUNG Galaxy S23 5G (Phantom Black, 256 GB)  (8 GB RAM) ",
+      "image":" https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/t/7/r/-original-imagmg6gyxbn4md9.jpeg?q=70&crop=false"
+},
+{
+      "id":128 ,
+      "price": 134999,
+      "category": "samsung mobiles",
+      "name":"SAMSUNG Galaxy S23 Ultra 5G (Cream, 512 GB)  (12 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/k/1/o/-original-imagmg6gz3bsgan7.jpeg?q=70 "
+},
+{
+      "id":129 ,
+      "price": 94999,
+      "category": "samsung mobiles",
+      "name":" SAMSUNG Galaxy S23 Plus 5G (Phantom Black, 512 GB)  (8 GB RAM)",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/c/1/h/-original-imagmg6gcjyuvzvn.jpeg?q=70&crop=false "
+},
+{
+      "id":596 ,
+      "price":23999 ,
+      "category": "Infinix mobiles",
+      "name":"Infinix Zero 30 5G (Rome Green, 256 GB)  (12 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/w/x/0/-original-imagszg3qxqgdx9c.jpeg?q=70&crop=false "
+},
+{
+      "id":130 ,
+      "price":29999 ,
+      "category": "Infinix mobiles",
+      "name":"Infinix Zero Ultra (Genesis Noir, 256 GB)  (8 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/j/u/t/-original-imagh2jqy8pkhdhz.jpeg?q=70&crop=false "
+},
+{
+      "id":131 ,
+      "price":12999 ,
+      "category": "Infinix mobiles",
+      "name":" Infinix HOT 30 5G (Aurora Blue, 128 GB)  (8 GB RAM)",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/6/j/b/-original-imagrgp2dbb77av2.jpeg?q=70&crop=false "
+},
+{
+      "id":132 ,
+      "price":17999 ,
+      "category": "Infinix mobiles",
+      "name":"Infinix Zero 5G 2023 TURBO (Pearly White, 256 GB)  (8 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/p/z/f/-original-imagmhszmch497en.jpeg?q=70&crop=false "
+},
+{
+      "id":133 ,
+      "price": 14999,
+      "category": "Infinix mobiles",
+      "name":" Infinix Note 30 5G (Sunset Gold, 256 GB)  (8 GB RAM)",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/u/t/k/note-30-5g-x6711-infinix-original-imagqdvvw4pwdtmk.jpeg?q=70&crop=false "
+},
+{
+      "id":134 ,
+      "price":6299 ,
+      "category": "Infinix mobiles",
+      "name":"Infinix SMART 8 HD (Shiny Gold, 64 GB)  (3 GB RAM) ",
+      "image":" https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/z/9/6/-original-imagwfffndz6tfhk.jpeg?q=70&crop=false"
+},
+{
+      "id":135 ,
+      "price":6299 ,
+      "category": "Infinix mobiles",
+      "name":"Infinix SMART 8 HD (Timber Black, 64 GB)  (3 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/i/y/g/-original-imagwfffdrfjj2pg.jpeg?q=70&crop=false "
+},
+{
+      "id":136 ,
+      "price":14999 ,
+      "category": "Infinix mobiles",
+      "name":"Infinix Note 30 5G (Interstellar Blue, 256 GB)  (8 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/a/x/6/-original-imagqhyfh7ykyjby.jpeg?q=70&crop=false "
+},
+{
+      "id":137 ,
+      "price":8299 ,
+      "category": "Infinix mobiles",
+      "name":"Infinix HOT 30i (Marigold, 128 GB)  (8 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/d/w/x/hot-30i-x669c-infinix-original-imagzyfawjmmcgpg.jpeg?q=70&crop=false "
+},
+{
+      "id":138 ,
+      "price":12999 ,
+      "category": "Infinix mobiles",
+      "name":"Infinix Note 12 TURBO (Jewel Blue, 128 GB)  (8 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/l3929ow0/mobile/w/w/y/-original-imageezmzbtshmgd.jpeg?q=70&crop=false "
+},
+{
+      "id":139 ,
+      "price":6299 ,
+      "category": "Infinix mobiles",
+      "name":" Infinix SMART 8 HD (Galaxy White, 64 GB)  (3 GB RAM)",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/1/h/3/-original-imagwfffzjftbg27.jpeg?q=70&crop=false "
+},
+{
+      "id":140 ,
+      "price":14999 ,
+      "category": "Infinix mobiles",
+      "name":"Infinix Note 30 5G (Magic Black, 256 GB)  (8 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/c/p/h/-original-imagqhyftnseqttk.jpeg?q=70&crop=false "
+},
+{
+      "id":141 ,
+      "price":7299 ,
+      "category": "Infinix mobiles",
+      "name":"Infinix SMART 7 (Emerald Green, 128 GB)  (4 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/6/a/d/-original-imagrqg4uruhwuza.jpeg?q=70&crop=false "
+},
+{
+      "id":142 ,
+      "price":6299 ,
+      "category": "Infinix mobiles",
+      "name":"Infinix SMART 8 HD (Crystal Green, 64 GB)  (3 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/q/k/r/-original-imagwfffv4dj3x4y.jpeg?q=70&crop=false "
+},
+{
+      "id":143 ,
+      "price":22999 ,
+      "category": "Infinix mobiles",
+      "name":"Infinix Zero 30 5G (Rome Green, 256 GB)  (8 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/w/x/0/-original-imagszg3qxqgdx9c.jpeg?q=70&crop=false "
+},
+{
+      "id":144 ,
+      "price":5999 ,
+      "category": "Infinix mobiles",
+      "name":"Infinix Smart 7 HD (Silk Blue, 64 GB)  (2 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/e/s/o/-original-imagp2794bmhdrhf.jpeg?q=70&crop=false "
+},
+{
+      "id":145 ,
+      "price":8299 ,
+      "category": "Infinix mobiles",
+      "name":"Infinix HOT 30i (Mirror Black, 128 GB)  (8 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/4/q/v/-original-imagz3curry7jhsy.jpeg?q=70&crop=false "
+},
+{
+      "id":146 ,
+      "price":12999 ,
+      "category": "Infinix mobiles",
+      "name":"Infinix HOT 30 5G (Miami Orange, 128 GB)  (8 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/b/k/d/-original-imagrgpkyyrjzdxz.jpeg?q=70&crop=false "
+},
+{
+      "id":147,
+      "price":17999 ,
+      "category": "Infinix mobiles",
+      "name":"Infinix Zero 5G 2023 TURBO (Submariner Black, 256 GB)  (8 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/t/7/j/-original-imagmhszyfsbqfth.jpeg?q=70&crop=false "
+},
+{
+      "id":148 ,
+      "price": 8299,
+      "category": "Infinix mobiles",
+      "name":" Infinix HOT 30i (Diamond White, 128 GB)  (8 GB RAM)",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/0/3/4/-original-imagz3cuyhmc45pc.jpeg?q=70&crop=false "
+},
+{
+      "id":149 ,
+      "price": 17999,
+      "category": "Infinix mobiles",
+      "name":" Infinix Zero 20 (Green Fantasy, 128 GB)  (8 GB RAM)",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/d/9/s/-original-imagh2jqkuehwwpf.jpeg?q=70&crop=false "
+},
+{
+      "id":150 ,
+      "price":7499 ,
+      "category": "Infinix mobiles",
+      "name":" Infinix HOT 20 Play (Aurora Green, 64 GB)  (4 GB RAM)",
+      "image":" https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/s/b/e/-original-imagkgrxdzzjuguw.jpeg?q=70&crop=false"
+},
+{
+      "id":151 ,
+      "price": 23999,
+      "category": "Infinix mobiles",
+      "name":"Infinix Zero 30 5G (Fantasy Purple, 256 GB)  (12 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/l/x/g/-original-imagszg2vxntfpeb.jpeg?q=70&crop=false "
+},
+{
+      "id":152 ,
+      "price":10999 ,
+      "category": "Infinix mobiles",
+      "name":"Infinix Hot 12 Pro (Lightsaber Green, 128 GB)  (8 GB RAM) ",
+      "image":" https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/5/x/x/-original-imaggt7cx43jqzpj.jpeg?q=70&crop=false"
+},
+{
+      "id":153 ,
+      "price":10999 ,
+      "category": "Infinix mobiles",
+      "name":"Infinix Note 10 (95° Black, 64 GB)  (4 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/kpodocw0/mobile/z/e/7/note-10-x693-128-6-infinix-original-imag3uy5yuwayfz2.jpeg?q=70&crop=false "
+},
+{
+      "id":154 ,
+      "price":8499 ,
+      "category": "Infinix mobiles",
+      "name":"Infinix NOTE 12i (Alpine White, 64 GB)  (4 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/n/x/c/-original-imagm7mzjpzughft.jpeg?q=70&crop=false "
+},
+{
+      "id":155 ,
+      "price":17999 ,
+      "category": "Infinix mobiles",
+      "name":"Infinix Zero 20 (Glitter Gold, 128 GB)  (8 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/r/c/6/-original-imagh2jqcr7ekkzz.jpeg?q=70&crop=false "
+},
+{
+      "id":156 ,
+      "price":13999 ,
+      "category": "Infinix mobiles",
+      "name":"Infinix Note 11s (Symphony Cyan, 64 GB)  (6 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/ky90scw0/mobile/e/l/p/-original-imagaghy9ggy2fps.jpeg?q=70&crop=false "
+},
+{
+      "id":157 ,
+      "price":12999 ,
+      "category": "Infinix mobiles",
+      "name":"Infinix S5 Pro (Sea Blue, 64 GB)  (4 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/kbtp0280/mobile/d/s/s/infinix-s5-pro-x660-original-imaft3a3ng9gf9jf.jpeg?q=70&crop=false "
+},
+{
+      "id":158 ,
+      "price": 10990,
+      "category": "Infinix mobiles",
+      "name":"Infinix Hot 9 Pro (Quetzal Cyan, 64 GB)  (4 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/kehfi4w0/mobile/g/z/s/infinix-hot-9-pro-x655f-original-imafv5gzjqacmgsd.jpeg?q=70&crop=false "
+},
+{
+      "id":159 ,
+      "price":11999 ,
+      "category": "Infinix mobiles",
+      "name":"Infinix S5 Pro (Violet, 64 GB)  (4 GB RAM) ",
+      "image":" https://rukminim2.flixcart.com/image/832/832/k66sh3k0/mobile/q/z/y/infinix-s5-pro-x660-original-imafzp64gayfspjv.jpeg?q=70&crop=false"
+},
+{
+      "id":160 ,
+      "price": 12899,
+      "category": "Infinix mobiles",
+      "name":"Infinix Note 11s (Mithril Grey, 64 GB)  (6 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/kx3l0nk0/mobile/k/p/p/-original-imag9hzqdkyeh5fh.jpeg?q=70&crop=false "
+},
+{
+      "id":161 ,
+      "price":9999 ,
+      "category": "oppo mobiles",
+      "name":"OPPO A17 (Lake Blue, 64 GB)  (4 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/h/h/f/-original-imagnfqybfcdzeye.jpeg?q=70&crop=false "
+},
+{
+      "id":162,
+      "price":9999 ,
+      "category": "oppo mobiles",
+      "name":"OPPO A17 (Midnight Black, 64 GB)  (4 GB RAM) ",
+      "image":" https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/1/s/n/-original-imaggkzxfgweseym.jpeg?q=70&crop=false"
+},
+{
+      "id":163 ,
+      "price": 39999,
+      "category": "oppo mobiles",
+      "name":"OPPO Reno 11 Pro 5G (Pearl White, 256 GB)  (12 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/t/v/2/-original-imagwxvryg2hzd9n.jpeg?q=70&crop=false "
+},
+{
+      "id":164 ,
+      "price":29999 ,
+      "category": "oppo mobiles",
+      "name":"OPPO Reno 11 5G (Wave Green, 128 GB)  (8 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/g/u/d/reno-11-5g-cph2599-oppo-original-imagwxdsh2zjfpdt.jpeg?q=70&crop=false "
+},
+{
+      "id":165 ,
+      "price":16450 ,
+      "category": "oppo mobiles",
+      "name":"OPPO A77 (Sky Blue, 128 GB)  (4 GB RAM) ",
+      "image":" https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/u/r/8/-original-imaggwj9axhycrf2.jpeg?q=70&crop=false"
+},
+{
+      "id":166 ,
+      "price": 32999,
+      "category": "oppo mobiles",
+      "name":" OPPO Reno10 5G (Ice Blue, 256 GB)  (8 GB RAM)",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/3/u/w/-original-imagtcrvzrqnnxpc.jpeg?q=70&crop=false "
+},
+{
+      "id":167 ,
+      "price":18999 ,
+      "category": "oppo mobiles",
+      "name":"OPPO A78 5G (Glowing Blue, 128 GB)  (8 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/i/s/p/a78-5g-cph2495-oppo-original-imagrwbz6mqddemh.jpeg?q=70&crop=false "
+},
+{
+      "id":168 ,
+      "price":15499 ,
+      "category": "oppo mobiles",
+      "name":"OPPO A78 (Aqua Green, 128 GB)  (8 GB RAM) ",
+      "image":" https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/h/s/q/-original-imags7tjfcmdzzvb.jpeg?q=70&crop=false"
+},
+{
+      "id":169 ,
+      "price":17490 ,
+      "category": "oppo mobiles",
+      "name":"OPPO F21s Pro (Starlight Black, 128 GB)  (8 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/c/h/j/f21s-pro-cph2461-oppo-original-imagrwbnbwbfvxtz.jpeg?q=70&crop=false "
+},
+{
+      "id":170 ,
+      "price": 15099,
+      "category": "oppo mobiles",
+      "name":" OPPO A58 (Glowing Black, 128 GB)  (6 GB RAM)",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/d/j/v/-original-imags7tyxfjhvz2h.jpeg?q=70&crop=false "
+},
+{
+      "id":171 ,
+      "price":94999 ,
+      "category": "oppo mobiles",
+      "name":"OPPO Find N3 Flip (Sleek Black, 256 GB)  (12 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/3/4/i/-original-imagu8h9snemswmc.jpeg?q=70&crop=false "
+},
+{
+      "id":172 ,
+      "price":29999 ,
+      "category": "oppo mobiles",
+      "name":"OPPO Reno 11 5G (Rock Grey, 128 GB)  (8 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/6/4/r/-original-imagwxvqs6f88zjh.jpeg?q=70&crop=false "
+},
+{
+      "id":173 ,
+      "price":18999 ,
+      "category": "oppo mobiles",
+      "name":"OPPO A78 5G (Glowing Black, 128 GB)  (8 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/h/x/a/-original-imagrxbufb6tqzjc.jpeg?q=70&crop=false "
+},
+{
+      "id":174 ,
+      "price":27999 ,
+      "category": "oppo mobiles",
+      "name":"OPPO F21 Pro (Sunset Orange, 128 GB)  (8 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/l1zc6fk0/mobile/u/7/w/f21-pro-cph2363-oppo-original-imagdf4jphscz9jz.jpeg?q=70&crop=false "
+},
+{
+      "id":175 ,
+      "price":54999 ,
+      "category": "oppo mobiles",
+      "name":"OPPO Reno10 Pro+ 5G (Silvery Grey, 256 GB)  (12 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/7/h/s/-original-imagtcrvzwjay4zd.jpeg?q=70&crop=false "
+},
+{
+      "id":176 ,
+      "price":72990 ,
+      "category": "Apple mobiles",
+      "name":" Apple iPhone 15 (Blue, 128 GB)",
+      "image":" https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/k/l/l/-original-imagtc5fz9spysyk.jpeg?q=70&crop=false"
+},
+{
+      "id":177 ,
+      "price":58999 ,
+      "category": "Apple mobiles",
+      "name":"Apple iPhone 14 (Blue, 128 GB) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/3/5/l/-original-imaghx9qmgqsk9s4.jpeg?q=70&crop=false "
+},
+{
+      "id":178 ,
+      "price":48999 ,
+      "category": "Apple mobiles",
+      "name":"Apple iPhone 12 (Blue, 128 GB) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/kg8avm80/mobile/y/7/n/apple-iphone-12-dummyapplefsn-original-imafwg8dpyjvgg3j.jpeg?q=70&crop=false "
+},
+{
+      "id":179 ,
+      "price":72990 ,
+      "category": "Apple mobiles",
+      "name":"Apple iPhone 15 (Pink, 128 GB) ",
+      "image":" https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/a/c/k/-original-imagtc5fuzkvczr7.jpeg?q=70&crop=false"
+},
+{
+      "id":180 ,
+      "price": 57999,
+      "category": "Apple mobiles",
+      "name":" Apple iPhone 14 (Midnight, 128 GB)",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/9/e/e/-original-imaghx9q5rvcdghy.jpeg?q=70&crop=false "
+},
+{
+      "id":181 ,
+      "price":58999 ,
+      "category": "Apple mobiles",
+      "name":"Apple iPhone 14 ((PRODUCT)RED, 128 GB) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/r/k/o/-original-imaghx9qtwbnhwvy.jpeg?q=70&crop=false "
+},
+{
+      "id":182 ,
+      "price":156900 ,
+      "category": "Apple mobiles",
+      "name":" Apple iPhone 15 Pro Max (Natural Titanium, 256 GB)",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/p/q/i/-original-imagtc3kfyhgfcvr.jpeg?q=70&crop=false "
+},
+{
+      "id":183 ,
+      "price": 73999,
+      "category": "Apple mobiles",
+      "name":"Apple iPhone 15 (Green, 128 GB) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/j/z/3/-original-imagtc5fqyz8tu4c.jpeg?q=70&crop=false "
+},
+{
+      "id":184 ,
+      "price": 73999,
+      "category": "Apple mobiles",
+      "name":"Apple iPhone 15 (Black, 128 GB) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/h/d/9/-original-imagtc2qzgnnuhxh.jpeg?q=70&crop=false "
+},
+{
+      "id":185 ,
+      "price":68999 ,
+      "category": "Apple mobiles",
+      "name":"Apple iPhone 14 (Blue, 256 GB) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/3/5/l/-original-imaghx9qmgqsk9s4.jpeg?q=70&crop=false "
+},
+{
+      "id":186 ,
+      "price":42999 ,
+      "category": "Apple mobiles",
+      "name":"Apple iPhone 12 (Black, 64 GB) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/kg8avm80/mobile/r/h/z/apple-iphone-12-dummyapplefsn-original-imafwg8duby8qbn4.jpeg?q=70&crop=false "
+},
+{
+      "id":187 ,
+      "price":58999 ,
+      "category": "Apple mobiles",
+      "name":"Apple iPhone 14 (Purple, 128 GB) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/b/u/f/-original-imaghxa5hvapbfds.jpeg?q=70&crop=false "
+},
+{
+      "id":188 ,
+      "price": 52999,
+      "category": "Apple mobiles",
+      "name":"Apple iPhone 13 (Pink, 128 GB) ",
+      "image":" https://rukminim2.flixcart.com/image/832/832/ktketu80/mobile/8/z/w/iphone-13-mlph3hn-a-apple-original-imag6vzzhrxgazsg.jpeg?q=70&crop=false"
+},
+{
+      "id":189 ,
+      "price":42999 ,
+      "category": "Apple mobiles",
+      "name":"Apple iPhone 12 (Blue, 64 GB) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/kg8avm80/mobile/y/7/n/apple-iphone-12-dummyapplefsn-original-imafwg8dpyjvgg3j.jpeg?q=70&crop=false "
+},
+{
+      "id":190 ,
+      "price":68999 ,
+      "category": "Apple mobiles",
+      "name":"Apple iPhone 14 (Purple, 256 GB) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/b/u/f/-original-imaghxa5hvapbfds.jpeg?q=70&crop=false "
+},
+{
+      "id":191 ,
+      "price":58999 ,
+      "category": "Apple mobiles",
+      "name":"Apple iPhone 14 (Starlight, 128 GB) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/m/o/b/-original-imaghx9qkugtbfrn.jpeg?q=70&crop=false "
+},
+{
+      "id":192 ,
+      "price":179900 ,
+      "category": "Apple mobiles",
+      "name":" Apple iPhone 13 Pro Max (Gold, 1 TB)",
+      "image":"https://rukminim2.flixcart.com/image/832/832/ktketu80/mobile/6/v/c/iphone-13-pro-max-mllh3hn-a-apple-original-imag6vpgpycue85h.jpeg?q=70&crop=false "
+},
+{
+      "id":193 ,
+      "price":161990 ,
+      "category": "Apple mobiles",
+      "name":" Apple iPhone 15 Pro (Natural Titanium, 512 GB)",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/9/u/a/-original-imagtc4hsx9mzfra.jpeg?q=70&crop=false "
+},
+{
+      "id":194 ,
+      "price":82990 ,
+      "category": "Apple mobiles",
+      "name":"Apple iPhone 15 Plus (Black, 128 GB) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/8/9/n/-original-imagtc6fyrstd4jm.jpeg?q=70&crop=false "
+},
+{
+      "id":195 ,
+      "price":12999 ,
+      "category": "vivo mobiles",
+      "name":"vivo T2x 5G (Aurora Gold, 128 GB)  (6 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/c/s/x/-original-imagzjhwaaewgj8r.jpeg?q=70&crop=false "
+},
+{
+      "id":196 ,
+      "price":24999 ,
+      "category": "vivo mobiles",
+      "name":" vivo T2 Pro 5G (Dune Gold, 256 GB)  (8 GB RAM)",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/5/y/8/-original-imagtt4mhqrzjs9r.jpeg?q=70&crop=false "
+},
+{
+      "id":197 ,
+      "price":11999 ,
+      "category": "vivo mobiles",
+      "name":"vivo T2x 5G (Marine Blue, 128 GB)  (4 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/k/u/n/-original-imagzjhwtfthcmzz.jpeg?q=70&crop=false "
+},
+{
+      "id": 198,
+      "price": 26999,
+      "category": "vivo mobiles",
+      "name":"vivo V29e 5G (Artistic Red, 128 GB)  (8 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/h/o/e/-original-imagstfsbhaaxbeb.jpeg?q=70&crop=false "
+},
+{
+      "id": 199,
+      "price":32999 ,
+      "category": "vivo mobiles",
+      "name":"vivo V29 5G (Red, 128 GB)  (8 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/u/q/f/-original-imagtyw2vfzzwzgs.jpeg?q=70&crop=false "
+},
+{
+      "id":200 ,
+      "price":16999 ,
+      "category": "vivo mobiles",
+      "name":"vivo T2 5G (Nitro Blaze, 128 GB)  (6 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/u/1/h/-original-imagpfbvfu4p55n4.jpeg?q=70&crop=false "
+},
+{
+      "id":201 ,
+      "price":12999 ,
+      "category": "vivo mobiles",
+      "name":"vivo T2x 5G (Marine Blue, 128 GB)  (6 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/k/u/n/-original-imagzjhwtfthcmzz.jpeg?q=70&crop=false "
+},
+{
+      "id":202 ,
+      "price": 17999,
+      "category": "vivo mobiles",
+      "name":"vivo Y56 5G (Orange Shimmer, 128 GB)  (8 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/t/j/z/-original-imagwcg4xkuqqsvg.jpeg?q=70&crop=false "
+},
+{
+      "id":203 ,
+      "price":23999 ,
+      "category": "vivo mobiles",
+      "name":"vivo T2 Pro 5G (Dune Gold, 128 GB)  (8 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/5/y/8/-original-imagtt4mhqrzjs9r.jpeg?q=70&crop=false "
+},
+{
+      "id":204 ,
+      "price":17999 ,
+      "category": "vivo mobiles",
+      "name":"vivo Y56 5G (Black Engine, 128 GB)  (8 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/3/w/a/-original-imagwcg5xkwj7fun.jpeg?q=70&crop=false "
+},
+{
+      "id":205 ,
+      "price": 10375,
+      "category": "vivo mobiles",
+      "name":"vivo Y17s (Glitter Purple, 64 GB)  (4 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/w/1/p/-original-imagu8wbamw9eu94.jpeg?q=70&crop=false "
+},
+{
+      "id": 595,
+      "price":12999 ,
+      "category": "vivo mobiles",
+      "name":"vivo T2x 5G (Glimmer Black, 128 GB)  (6 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/4/h/e/-original-imagzjhwmsamexfk.jpeg?q=70&crop=false "
+},
+{
+      "id": 206,
+      "price":28700 ,
+      "category": "Honor mobiles",
+      "name":"Honor 90 5G (Emerald Green, 512 GB)  (12 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/u/t/f/90-emerald-green-12gb-512gb-rea-nx9-honor-original-imagtsdduza9rb5h.jpeg?q=70&crop=false "
+},
+{
+      "id": 207 ,
+      "price":27949 ,
+      "category": "Honor mobiles",
+      "name":"Honor 90 5G (Emerald Green, 256 GB)  (8 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/u/8/h/90-emerald-green-8gb-256gb-rea-nx9-honor-original-imagtsb7zffkzgbh.jpeg?q=70&crop=false "
+},
+{
+      "id": 208,
+      "price": 36999,
+      "category": "Honor mobiles",
+      "name":"Honor 90 5G (Midnight Black, 512 GB)  (12 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/u/h/b/90-midnight-black-12gb-512gb-rea-nx9-honor-original-imagtsd3uhxefkga.jpeg?q=70&crop=false "
+},
+{
+      "id": 209,
+      "price":34989 ,
+      "category": "Honor mobiles",
+      "name":"Honor 90 5G (Diamond Silver, 256 GB)  (8 GB RAM) ",
+      "image":" https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/b/5/k/90-diamond-silver-8gb-256gb-rea-nx9-honor-original-imagtscvyr8gju44.jpeg?q=70&crop=false"
+},
+{
+      "id":210 ,
+      "price":15999 ,
+      "category": "Honor mobiles",
+      "name":" Honor 9N (Sapphire Blue, 64 GB)  (4 GB RAM)",
+      "image":"https://rukminim2.flixcart.com/image/832/832/jpvihzk0/mobile/x/b/g/honor-9n-lld-al20-original-imafcysuxztcr4gz.jpeg?q=70&crop=false "
+},
+{
+      "id": 211,
+      "price":14999 ,
+      "category": "Honor mobiles",
+      "name":"Honor 9N (Midnight Black, 64 GB)  (4 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/jpvihzk0/mobile/n/y/a/honor-9n-lld-al20-original-imafcysuqxfgvknv.jpeg?q=70&crop=false "
+},
+{
+      "id": 212,
+      "price":14999 ,
+      "category": "Honor mobiles",
+      "name":"Honor 9i (Prestige Gold, 64 GB)  (4 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/j8rnpu80/mobile/k/5/3/honor-9i-rne-l22-original-imaeyhqcgbhzdfvu.jpeg?q=70&crop=false "
+},
+{
+      "id":213 ,
+      "price":13999 ,
+      "category": "Honor mobiles",
+      "name":" Honor 9 Lite (Sapphire Blue, 32 GB)  (3 GB RAM)",
+      "image":"https://rukminim2.flixcart.com/image/832/832/jcgjo280/mobile/v/g/z/honor-9-lite-na-original-imaffh2q2p9jbzhf.jpeg?q=70&crop=false "
+},
+{
+      "id":214 ,
+      "price":19999 ,
+      "category": "Honor mobiles",
+      "name":"Honor 9N (Midnight Black, 128 GB)  (4 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/jpvihzk0/mobile/n/y/a/honor-9n-lld-al20-original-imafcysuqxfgvknv.jpeg?q=70&crop=false "
+},
+{
+      "id":215 ,
+      "price":19999 ,
+      "category": "Honor mobiles",
+      "name":"Honor 9i (Aurora Blue, 64 GB)  (4 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/ja73ki80/mobile/k/h/b/honor-9i-rne-l22-original-imaeztvhvyyuw3yz.jpeg?q=70&crop=false "
+},
+{
+      "id": 216,
+      "price":13999 ,
+      "category": "Honor mobiles",
+      "name":" Honor 9N (Robin Egg Blue, 32 GB)  (3 GB RAM)",
+      "image":"https://rukminim2.flixcart.com/image/832/832/jnhs2vk0/mobile/y/b/6/honor-9n-lld-al20-original-imafa66thevemuhs.jpeg?q=70&crop=false "
+},
+{
+      "id":217 ,
+      "price":9999 ,
+      "category": "Honor mobiles",
+      "name":" Honor 7A (Blue, 32 GB)  (3 GB RAM)",
+      "image":"https://rukminim2.flixcart.com/image/832/832/jhgl5e80/mobile/g/h/x/honor-7a-v100r001-aum-al20-original-imaf5h4amdhbzxtz.jpeg?q=70&crop=false "
+},
+{
+      "id": 218,
+      "price":34999 ,
+      "category": "Honor mobiles",
+      "name":"Honor 90 5G (Midnight Black, 256 GB)  (8 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/u/h/b/90-midnight-black-12gb-512gb-rea-nx9-honor-original-imagtsd3uhxefkga.jpeg?q=70&crop=false "
+},
+{
+      "id": 219,
+      "price":22999 ,
+      "category": "Asus mobiles ",
+      "name":"ASUS Zenfone 2 ZE551ML (Silver, 64 GB)  (4 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/jjolt3k0/mobile-refurbished/f/d/5/zenfone-2-ze551ml-32-u-ze551ml6j437ww-asus-4-original-imae6qastqasywgy.jpeg?q=70&crop=false "
+},
+
+{
+      "id":220 ,
+      "price":6499 ,
+      "category": "Asus mobiles ",
+      "name":"ASUS Zenfone 4 (Black, 8 GB)  (1 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/mobile/z/3/j/asus-zenfone-4-a400cg-original-imadxzddfyyerwyr.jpeg?q=70&crop=false "
+},
+{
+      "id":221 ,
+      "price":19999 ,
+      "category": "Asus mobiles ",
+      "name":"ASUS Zenfone 2 ZE551ML (Gold, 32 GB)  (4 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/mobile/e/v/h/asus-zenfone-2-ze551ml-6g480ww-original-imae8ars2h9rkw2x.jpeg?q=70&crop=false "
+},
+{
+      "id":222 ,
+      "price":17999 ,
+      "category": "Asus mobiles ",
+      "name":"ASUS Zenfone Selfie (Grey, 32 GB)  (3 GB RAM) ",
+      "image":" https://rukminim2.flixcart.com/image/832/832/mobile/z/d/c/asus-zenfone-selfie-zd551kl-6j205ww-original-imaecpgszausvqwz.jpeg?q=70&crop=false"
+},
+{
+      "id":223 ,
+      "price":63999 ,
+      "category": "Asus mobiles ",
+      "name":"ASUS ROG 5s (Phantom Black, 256 GB)  (12 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/ky7lci80/mobile/l/w/z/-original-imagahvnzfgdg8jy.jpeg?q=70&crop=false "
+},
+{
+      "id":224 ,
+      "price":10499 ,
+      "category": "Asus mobiles ",
+      "name":"ASUS Zenfone 5 A501CG (White, 8 GB)  (2 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/mobile/m/t/g/asus-zenfone-5-a501cg-original-imadxzddr5cyryvd.jpeg?q=70&crop=false "
+},
+{
+      "id":225 ,
+      "price":19999 ,
+      "category": "Asus mobiles ",
+      "name":"ASUS Zenfone 2 ZE551ML (Black, 32 GB)  (4 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/mobile/6/2/m/asus-zenfone-2-ze551ml-ze551ml-6a478ww-original-imae9ytmjtfyvuxt.jpeg?q=70&crop=false "
+},
+{
+      "id":226 ,
+      "price":19999 ,
+      "category": "Asus mobiles ",
+      "name":"ASUS ZenFone Max Pro M2 (Blue, 64 GB)  (6 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/jpbic280/mobile/n/8/3/asus-zenfone-max-pro-m2-zb630kl-4d001in-original-imafbcbry5syfwf9.jpeg?q=70&crop=false "
+},
+{
+      "id":227 ,
+      "price":38999 ,
+      "category": "Asus mobiles ",
+      "name":"ASUS 6Z (Black, 128 GB)  (6 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/jx0prbk0/mobile/y/t/v/asus-6z-zs630kl-2a014ww-original-imafhkqythzfmjp8.jpeg?q=70&crop=false "
+},
+{
+      "id": 228,
+      "price":49999 ,
+      "category": "Asus mobiles ",
+      "name":"ASUS ROG Phone 3 (Black, 128 GB)  (12 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/kcuug7k0/mobile/g/h/e/asus-rog-phone-3-zs661ks-6a006in-original-imaftwc6nmyuyekd.jpeg?q=70&crop=false "
+},
+{
+      "id":229 ,
+      "price":17999 ,
+      "category": "Poco X2 mobiles ",
+      "name":"POCO X2 (Phoenix Red, 64 GB)  (6 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/k65d18w0/mobile/g/7/3/poco-x2-na-original-imafzz2hjssyrsha.jpeg?q=70&crop=false "
+},
+{
+      "id":230 ,
+      "price":17999 ,
+      "category": "Poco X2 mobiles ",
+      "name":"POCO X2 (Matrix Purple, 64 GB)  (6 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/k65d18w0/mobile/w/u/h/poco-x2-mzb9013in-original-imafzz2hdysz9njg.jpeg?q=70&crop=false "
+},
+{
+      "id":231 ,
+      "price":18999 ,
+      "category": "Poco X2 mobiles ",
+      "name":"POCO X2 (Matrix Purple, 128 GB)  (6 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/k65d18w0/mobile/w/u/h/poco-x2-mzb9013in-original-imafzz2hdysz9njg.jpeg?q=70&crop=false "
+},
+{
+      "id":232 ,
+      "price":17990 ,
+      "category": "Poco X2 mobiles ",
+      "name":"POCO X2 (Phoenix Red, 128 GB)  (6 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/k65d18w0/mobile/g/7/3/poco-x2-na-original-imafzz2hjssyrsha.jpeg?q=70&crop=false "
+},
+{
+      "id":233 ,
+      "price":21999 ,
+      "category": "Poco X2 mobiles ",
+      "name":" POCO X6 5G (Snowstorm White, 256 GB)  (8 GB RAM)",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/y/a/m/-original-imagwzrj7tytaakg.jpeg?q=70&crop=false "
+},
+{
+      "id":234 ,
+      "price":24999 ,
+      "category": "Poco X2 mobiles ",
+      "name":"POCO X6 5G (Snowstorm White, 512 GB)  (12 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/y/a/m/-original-imagwzrj7tytaakg.jpeg?q=70&crop=false "
+},
+{
+      "id":235 ,
+      "price": 13999,
+      "category": "Poco X2 mobiles ",
+      "name":" POCO M6 Pro 5G (Power Black, 256 GB)  (8 GB RAM)",
+      "image":" https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/d/h/q/m6-pro-5g-mzb0eprin-poco-original-imags3e7vewsafst.jpeg?q=70&crop=false"
+},
+{
+      "id":236 ,
+      "price":7499 ,
+      "category": "Poco X2 mobiles ",
+      "name":"POCO C55 (Cool Blue, 128 GB)  (6 GB RAM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/y/9/g/-original-imagnfzyhh8gz8sd.jpeg?q=70&crop=false "
+},
+{
+      "id": 237,
+      "price": 5499,
+      "category": "Poco X2 mobiles ",
+      "name":"POCO C51 - Locked with Airtel Prepaid (Royal Blue, 64 GB)  (4 GB RAM) ",
+      "image":" https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/9/i/h/-original-imagt4tdvvhyag9j.jpeg?q=70&crop=false"
+},
+{
+      "id":238 ,
+      "price":6499 ,
+      "category": "Home Audio Speakers",
+      "name":"ZEBRONICS Juke bar 4000 100 W Bluetooth Soundbar  (Black, 2.1 Channel) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/k7f34i80/speaker/soundbar/4/q/z/zebronics-zeb-juke-bar-4000-original-imafpntgzjaygmtb.jpeg?q=70&crop=false "
+},
+{
+      "id":239 ,
+      "price":1462 ,
+      "category": "Home Audio Speakers",
+      "name":"I Kall IK51 40 W Bluetooth Home Audio Speaker  (Black, 2.1 Channel) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/speaker/home-audio-speaker/l/y/a/ik51-i-kall-original-imagjyahyjvhh3hg.jpeg?q=70&crop=false "
+},
+{
+      "id":240 ,
+      "price":6499 ,
+      "category": "Home Audio Speakers",
+      "name":"boAt Aavante Bar 2050 with Wireless Subwoofer 160 W Bluetooth Soundbar  (Premium Black, 2.1 Channel) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/speaker/c/s/j/-original-imaghb5cb86bjhgs.jpeg?q=70&crop=false "
+},
+{
+      "id":241 ,
+      "price":399 ,
+      "category": "Home Audio Speakers",
+      "name":"TERABYTE 015 1 W Laptop/Desktop Speaker  (Black, 2.0 Channel) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/jgcktjk0/speaker/laptop-desktop-speaker/n/x/q/gadget-deals-eliptic-usb-powered-colors-may-vary-original-imaf26yxygretnnz.jpeg?q=70&crop=false "
+},
+{
+      "id":242 ,
+      "price":8240 ,
+      "category": "Home Audio Speakers",
+      "name":"F&D T 200X 140 W Bluetooth Soundbar  (Black, 2.1 Channel) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/jmux18w0/speaker/home-audio-speaker/y/h/z/f-d-t-200x-original-imaf9z8qyyjsa6cg.jpeg?q=70&crop=false "
+},
+{
+      "id":243 ,
+      "price":12999 ,
+      "category": "Home Audio Speakers",
+      "name":"Mivi Fort S440 Soundbar With Sub woofer and 2 Satellite Speakers, 440W Surround Sound 440 W Bluetooth Soundbar  (Black, 5.1 Channel) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/speaker/z/1/x/-original-imagsywg5ydhmhkh.jpeg?q=70&crop=false "
+},
+{
+      "id":244 ,
+      "price":999 ,
+      "category": "Home Audio Speakers",
+      "name":"TECH-LOBBY Vintage Shape 5 W Bluetooth Home Audio Speaker  (Brown, Mono Channel) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/speaker/home-audio-speaker/z/l/8/tl-x2-tech-lobby-original-imagws37fxffvpxz.jpeg?q=70&crop=false "
+},
+{
+      "id":245 ,
+      "price":649 ,
+      "category": "Home Audio Speakers",
+      "name":"Make Ur Wish Multimedia Sound Bass Speakers with Colourful LED Modes System for PC Laptop 30 W Laptop/Desktop Speaker  (Black, 2.0 Channel) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/speaker/laptop-desktop-speaker/d/o/2/cs-601-color-full-rgb-light-make-ur-wish-original-imaggz3fgsqg47rh.jpeg?q=70&crop=false "
+},
+{
+      "id":246 ,
+      "price":7499 ,
+      "category": "Home Audio Speakers",
+      "name":" boAt PartyPal 185 Speaker with 50 W boAt Signature Sound & Up to 6 hrs Playtime 50 W Bluetooth Laptop/Desktop Speaker  (Midnight Black, Stereo Channel)",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/speaker/1/h/4/-original-imagtjc6yhzhdht9.jpeg?q=70&crop=false "
+},
+{
+      "id":247,
+      "price":5446 ,
+      "category": "Home Theatres",
+      "name":"Bencley FRIDOBLE 120 W Bluetooth Tower Speaker  (Black, 4.1 Channel) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/l1s6z680/speaker/tower-speaker/b/v/j/fridoble-bencley-original-imagd93feyprzyhb.jpeg?q=70&crop=false "
+},
+{
+      "id":248,
+      "price":2588 ,
+      "category": "Home Theatres",
+      "name":"UIC 5103 80 W Bluetooth Tower Speaker  (Black, 2.0 Channel) ",
+      "image":" https://rukminim2.flixcart.com/image/832/832/xif0q/speaker/tower-speaker/o/c/k/5103-uic-original-imagr2hh7jagvtpb.jpeg?q=70&crop=false"
+},
+{
+      "id":249,
+      "price":999 ,
+      "category": "Home Theatres",
+      "name":"etmax NANO PLUS 30 W Bluetooth Home Theatre  (Black, Stereo Channel) ",
+      "image":" https://rukminim2.flixcart.com/image/832/832/kkcwo7k0/speaker/home-theatre/g/t/n/nano-plus-et-1414-bluetooth-etmax-original-imafzqcfkyx2ppps.jpeg?q=70&crop=false"
+},
+{
+      "id":250,
+      "price":2599 ,
+      "category": "Home Theatres",
+      "name":"I Kall IK-2222 Bluetooth Tower Speaker  (Black, 7.1 Channel) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/kdxfc7k0pkrrdj-0/speaker/tower-speaker/u/m/b/ik-2222-i-kall-original-imafuuz3cvrtxkz4.jpeg?q=70&crop=false "
+},
+{
+      "id":251,
+      "price":15990 ,
+      "category": "Home Theatres",
+      "name":"SONY HT-S20R 5.1ch Home Theatre with Dolby Digital, Subwoofer, Rear Speakers, 400 W Bluetooth Soundbar  (Black, 5.1 Channel) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/k687wy80/speaker/soundbar/p/j/d/sony-ht-s20r-original-imafzqfswaz5eamz.jpeg?q=70&crop=false "
+},
+{
+      "id":252,
+      "price":2499 ,
+      "category": "Home Theatres",
+      "name":"ZEBRONICS BT4440 RUCF 60 Watt Bluetooth Home Theatre  (Black, 4.1 Channel) ",
+      "image":" https://rukminim2.flixcart.com/image/832/832/jydaqa80/speaker/home-audio-speaker/n/s/c/zebronics-bt4440rucf-original-imaeafwzccgtczx8.jpeg?q=70&crop=false"
+},
+{
+      "id":253,
+      "price":1649 ,
+      "category": "Home Theatres",
+      "name":"ME&U Partybox 30 W Bluetooth Tower Speaker  (Red, 2.0 Channel) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/speaker/tower-speaker/m/d/h/the-musical-powerhouse-40-watts-powerful-tower-party-speaker-me-original-imagvkg7rhjbyz9m.jpeg?q=70&crop=false "
+},
+{
+      "id":254,
+      "price": 14999,
+      "category": "Home Theatres",
+      "name":"JBL Cinema SB270 2.1, Dolby digital, Wireless Subwoofer,HDMI 220 W Bluetooth Soundbar  (Black, Stereo Channel) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/speaker/y/i/m/-original-imagtgwmt5hjyaqy.jpeg?q=70&crop=false "
+},
+{
+      "id":255,
+      "price":2399 ,
+      "category": "Home Theatres",
+      "name":"I Kall IK666 80 W Bluetooth Home Theatre  (Black, 5.1 Channel) ",
+      "image":" https://rukminim2.flixcart.com/image/832/832/km0x5zk0/speaker/home-theatre/l/a/e/ik-666-bluetooth-i-kall-original-imagfytz3agszwxd.jpeg?q=70&crop=false"
+},
+{
+      "id":256,
+      "price":3555 ,
+      "category": "Home Theatres",
+      "name":"Dotsun My Dj 3400 W Bluetooth Home Theatre  (Black, Stereo Channel) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/speaker/home-theatre/a/i/f/my-dj-home-music-system-with-6inch-woofer-bluetooth-dotsun-original-imaghbnhngg2hzj8.jpeg?q=70&crop=false "
+},
+{
+      "id":257 ,
+      "price":6499 ,
+      "category": "Soundbars",
+      "name":"ZEBRONICS Juke bar 4000 100 W Bluetooth Soundbar  (Black, 2.1 Channel) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/k7f34i80/speaker/soundbar/4/q/z/zebronics-zeb-juke-bar-4000-original-imafpntgzjaygmtb.jpeg?q=70&crop=false "
+},
+{
+      "id":258 ,
+      "price":12499 ,
+      "category": "Soundbars",
+      "name":"Mivi Fort S440 Soundbar With Sub woofer and 2 Satellite Speakers, 440W Surround Sound 440 W Bluetooth Soundbar  (Black, 5.1 Channel) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/speaker/z/1/x/-original-imagsywg5ydhmhkh.jpeg?q=70&crop=false "
+},
+{
+      "id":259 ,
+      "price":12999 ,
+      "category": "Soundbars",
+      "name":"boAt Aavante Bar 3500 with Bass & Treble Controls, EQ Modes & Master Remote Control 500 W Bluetooth Soundbar  (Premium Black, 5.1 Channel) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/speaker/j/q/v/-original-imagtnpuctjgnzrx.jpeg?q=70&crop=false "
+},
+{
+      "id":260 ,
+      "price":9999 ,
+      "category": "Soundbars",
+      "name":"JBL Cinema SB240 2.1 with Remote, Dolby Digital Sound, HDMI 110 W Bluetooth Soundbar  (Black, Stereo Channel) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/speaker/e/n/d/-original-imagtgwmurbag4wh.jpeg?q=70&crop=false "
+},
+{
+      "id":261 ,
+      "price":6999 ,
+      "category": "Soundbars",
+      "name":"GOVO GOSURROUND 930 | 250W Bluetooth Soundbar| 2.1 Channel with 6.5'' Wired Subwoofer 250 W Bluetooth Soundbar  (Platinum Black, 2.1 Channel) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/speaker/b/n/e/-original-imagtcgqrar9gugb.jpeg?q=70&crop=false "
+},
+{
+      "id":262 ,
+      "price":5999 ,
+      "category": "Soundbars",
+      "name":"Mivi Fort S180 Soundbar With Sub woofer, 180W, Surround Sound, Made In India 180 W Bluetooth Soundbar  (Black, 2.1 Channel) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/speaker/w/x/v/-original-imagtajvnpfwczkp.jpeg?q=70&crop=false "
+},
+{
+      "id":263 ,
+      "price":8240 ,
+      "category": "Soundbars",
+      "name":"F&D T 200X 140 W Bluetooth Soundbar  (Black, 2.1 Channel) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/jmux18w0/speaker/home-audio-speaker/y/h/z/f-d-t-200x-original-imaf9z8qyyjsa6cg.jpeg?q=70&crop=false "
+},
+{
+      "id":264 ,
+      "price":478 ,
+      "category": "Soundbars",
+      "name":" POZUB PZUB-TG113 SPEAKER WITH CARING BAG CASE COVER For Protecting speaker Crystal Clear sound premium Super deep Bass Splashproof Wireless Bluetooth Speaker Soundbar thunder Sound Speaker mini Home theatre DJ Multimedia with TF CARD/FM/USB DRIVE & AUX SUPPORTED IDEAL FOR CAR/LAPTOP/HOME AUDIO/GAMING SPEAKER/indoor/outdoor mini sub-woofer, 10 W Bluetooth Soundbar  (ARMY PRINT, Stereo Channel)",
+      "image":"https://rukminim2.flixcart.com/image/832/832/ksyz8280/speaker/soundbar/9/a/q/pzub-tg113-speaker-with-caring-bag-case-cover-for-protecting-original-imag6f6ppdeugyty.jpeg?q=70&crop=false "
+},
+{
+      "id":265 ,
+      "price":1299 ,
+      "category": "Soundbars",
+      "name":"nxntron MZ M31 big soundbar portable Dynamic Thunder Sound 2400mAh Battery 16 w 0.5 W Bluetooth Soundbar  (Black, Yellow, Blue, 2.0 Channel) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/speaker/soundbar/3/k/7/mz-m31-big-soundbar-portable-dynamic-thunder-sound-2400mah-original-imaghcx3xmfzuc9k.jpeg?q=70&crop=false "
+},
+{
+      "id":266 ,
+      "price": 386,
+      "category": "Bluetooth Speakers",
+      "name":" F FERONS TG-113 Ultra 3D Dynamic Thunder Sound With High Bass Wireless Portable 9 W Bluetooth Speaker  (Blue, Stereo Channel)",
+      "image":"https://rukminim2.flixcart.com/image/832/832/k9bo9e80/speaker/mobile-tablet-speaker/y/x/u/best-buy-ultra-dj-sound-blast-with-super-deep-bass-wireless-original-imafr4j5hyxurnfg.jpeg?q=70&crop=false "
+},
+{
+      "id":267 ,
+      "price":25999 ,
+      "category": "Bluetooth Speakers",
+      "name":"JBL Partybox 110 with,Dynamic Light Show,Upto 12Hr Playtime,JBL PartyBox App 160 W Bluetooth Party Speaker  (Black, Stereo Channel) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/speaker/w/s/j/-original-imagj2jvdnfywpad.jpeg?q=70&crop=false "
+},
+{
+      "id":268 ,
+      "price":1699 ,
+      "category": "Bluetooth Speakers",
+      "name":"boAt Stone 350 10 W Bluetooth Speaker  (Black, Mono Channel) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/kingqkw0-0/speaker/mobile-tablet-speaker/s/8/i/stone-350-boat-original-imafyebfuaumdezs.jpeg?q=70&crop=false "
+},
+{
+      "id":269 ,
+      "price":539 ,
+      "category": "Bluetooth Speakers",
+      "name":"Sulfur Best Buy Ultra DJ Sound Blast Portable BestSuper deep Bass Wireless Rechargeable 10 W Bluetooth Car Speaker  (Black, Stereo Channel) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/kqe3low0/speaker/mobile-tablet-speaker/6/w/p/best-buy-bo-at-ultra-dj-sound-blast-portable-best-bluetoothwith-original-imag4ezezwn3hf5j.jpeg?q=70&crop=false "
+},
+{
+      "id":270 ,
+      "price":1999 ,
+      "category": "Bluetooth Speakers",
+      "name":"Mivi Fort S24 Soundbar with FM Mode and 2 full range drivers, Made in India 24 W Bluetooth Soundbar  (Black, 2.0 Channel) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/speaker/6/e/1/-original-imaggrf8dp3ntnyg.jpeg?q=70&crop=false "
+},
+{
+      "id":271 ,
+      "price":15990 ,
+      "category": "Bluetooth Speakers",
+      "name":" SONY HT-S20R 5.1ch Home Theatre with Dolby Digital, Subwoofer, Rear Speakers, 400 W Bluetooth Soundbar  (Black, 5.1 Channel)",
+      "image":"https://rukminim2.flixcart.com/image/832/832/k687wy80/speaker/soundbar/p/j/d/sony-ht-s20r-original-imafzqfswaz5eamz.jpeg?q=70&crop=false "
+},
+{
+      "id": 272,
+      "price":395 ,
+      "category": "Bluetooth Speakers",
+      "name":"F FERONS Powerpact bass & stereo audio color changIng led Light wireless portable FRK-162 3 W Bluetooth Speaker  (Black, 5.0 Channel) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/speaker/mobile-tablet-speaker/f/g/3/powerpact-bass-stereo-audio-color-changing-led-light-wireless-original-imagrwmfzupf3pfe.jpeg?q=70&crop=false "
+},
+{
+      "id":273 ,
+      "price":1699 ,
+      "category": "Bluetooth Speakers",
+      "name":"JBL Go Essential with Rich Bass, 5 Hrs Playtime, IPX7 Waterproof, Ultra Portable 3.1 W Bluetooth Speaker  (Black, Mono Channel) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/l27wtjk0/speaker/i/4/e/-original-imagdhhg2f7zjbt7.jpeg?q=70&crop=false "
+},
+{
+      "id":274 ,
+      "price":499 ,
+      "category": "Bluetooth Speakers",
+      "name":"TARECON 8Hours Playing Time Portable BT Speaker WITH 10 W Bluetooth Party Speaker  (Black, Stereo Channel) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/speaker/party-speaker/c/n/d/8hours-playing-time-portable-bt-speaker-with-tarecon-original-imaguvyhsnncbqeh.jpeg?q=70&crop=false "
+},
+{
+      "id":275 ,
+      "price":10490 ,
+      "category": "Lens",
+      "name":" Canon EF 50 mm f/1.8 STM Standard Prime Lens  (Black, 50 mm)",
+      "image":"https://rukminim2.flixcart.com/image/832/832/jtiz0cw0/lens/c/y/z/canon-ef-50-mm-f-1-8-stm-original-imafeupuadrnzmyy.jpeg?q=70&crop=false "
+},
+{
+      "id":276 ,
+      "price":659 ,
+      "category": "Lens",
+      "name":"Cubonic 0.45x UV Wide angle + Macro Photography set Fisheye Prime Lens  (Black, 50 mm) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/lens/mobile-lens-for-camera/6/r/h/0-45x-wide-angle-macro-uv-lens-photography-set-cubonic-original-imaghbhyamfebvs9.jpeg?q=70&crop=false "
+},
+{
+      "id":277 ,
+      "price":19129 ,
+      "category": "Lens",
+      "name":"SONY SEL50F18F Standard Prime Lens  (Black, 50 mm) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/lens/n/o/f/-original-imagjsavqkdmfneq.jpeg?q=70&crop=false "
+},
+{
+      "id":278 ,
+      "price":15999 ,
+      "category": "Lens",
+      "name":"NIKON AF-S NIKKOR 50mm f/1.8G Standard Prime Lens  (Black, 90 mm) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/lens/prime/h/d/f/nikon-standard-af-s-nikkor-50mm-f-1-8g-original-imady4t42jpv9tvt.jpeg?q=70&crop=false "
+},
+{
+      "id":279 ,
+      "price":18639 ,
+      "category": "Lens",
+      "name":" SONY SEL55210/BQ Telephoto Zoom Lens  (Black, 315 mm)",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/lens/f/p/y/-original-imaghg5kstvhtpry.jpeg?q=70&crop=false "
+},
+{
+      "id": 280,
+      "price":11500 ,
+      "category": "Lens",
+      "name":" 7Artisans 55mm f1.4 lensfor Canon Standard Prime Lens  (Black, 55 mm)",
+      "image":"https://rukminim2.flixcart.com/image/832/832/k0cqqvk0/lens/x/k/q/7artisans-55mm-f1-4-lensfor-canon-original-imafk5zgw5xsjm9t.jpeg?q=70&crop=false "
+},
+{
+      "id":281 ,
+      "price":232990 ,
+      "category": "Lens",
+      "name":"Canon EF 100-400mm L IS II USM f/4.5 - 5.6 Telephoto Zoom Lens  (White & Black, 100 - 400mm mm) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/lens/77/v/w/c/canon-ef-100-400mm-l-is-ii-usm-f-4-5-5-6-original-imae8btwqqg8ezgk.jpeg?q=70&crop=false "
+},
+{
+      "id":282 ,
+      "price":74990 ,
+      "category": "Lens",
+      "name":"SIGMA 50mm f/1.4 DG DN Art For Sony E Standard Prime Lens  (Black, 50 mm) ",
+      "image":" https://rukminim2.flixcart.com/image/832/832/xif0q/lens/h/x/r/50mm-f-1-4-dg-dn-art-lens-for-sony-e-sigma-original-imagq9dgzczszdq6.jpeg?q=70&crop=false"
+},
+{
+      "id":283 ,
+      "price":9199 ,
+      "category": "Lens",
+      "name":"Yongnuo 35mm f2.0 Nikon Standard Prime Lens  (Black, 14 mm) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/krdtlzk0/lens/camera-lens/j/m/z/35mm-f2-0-nikon-yongnuo-original-imag56pz3xqw8yuv.jpeg?q=70&crop=false "
+},
+{
+      "id": 284,
+      "price":329 ,
+      "category": "Tripods",
+      "name":"Tygot Lightweight & Portable 7 Feet Aluminum Alloy Studio Light Stand with Mobile Holder | for Videos | Portrait | Photography Lighting | Ideal for Outdoor & Indoor Shoots Tripod  (Black, Supports Up to 5000 g) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/tripod/tripod/8/0/k/7-feet-tripod-stand-with-adjustable-mobile-clip-holder-for-all-original-imag4898dtjax8m4.jpeg?q=70&crop=false "
+},
+{
+      "id":285 ,
+      "price":799 ,
+      "category": "Tripods",
+      "name":"Syvo WT-3130 Tripod, Tripod Kit  (Brown/Black, Supports Up to 5000 g) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/k76ihe80/tripod/tripod/y/d/p/syvo-wt-3130-aluminum-tripod-50-inch-original-imafph2ghvxaqv3s.jpeg?q=70&crop=false "
+},
+{
+      "id":286 ,
+      "price":289 ,
+      "category": "Tripods",
+      "name":"DAUMI R1S Wireless 360 Degree Selfie Stick LED Fill light, Tripod with Bluetooth Tripod  (Black, Supports Up to 1000 g) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/kz4gh3k0/selfie-stick/7/e/i/1042-led-selfie-stick-with-tripod-500-hold-up-original-imagb6zfmyzmquuz.jpeg?q=70&crop=false "
+},
+{
+      "id":287 ,
+      "price":547 ,
+      "category": "Tripods",
+      "name":"HLMOBILE AY XT-02 3 in 1 Extendable Bluetooth Selfie Stick Lightweight All Smartphone Tripod, Tripod Kit, Tripod Ball Head  (Black, Supports Up to 450 g) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/tripod/tripod/z/3/y/new-sale-xt-02-3-in-1-bluetooth-selfie-stick-wireless-shutter-original-imagghxtbzh5muxj.jpeg?q=70&crop=false "
+},
+{
+      "id":288 ,
+      "price":210 ,
+      "category": "Tripods",
+      "name":" somprise Portable Bluetooth selfie stick with wireless remote and extendable tripod Tripod  (Black, Supports Up to 500 g)",
+      "image":"https://rukminim2.flixcart.com/image/832/832/l251xu80/gimbal/h/g/x/multycalour-100-bluetooth-extendable-selfie-stick-with-led-light-original-imagdk42z7sktjjq.jpeg?q=70&crop=false "
+},
+{
+      "id":289 ,
+      "price":299 ,
+      "category": "Tripods",
+      "name":"Kubra 3110 for Mobile, DSLR, Mirrorless, Sports & Action Portable Lightweight Aluminum Tripod  (Black, Supports Up to 1500 g) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/tripod/l/b/r/-original-imagrevane46szka.jpeg?q=70&crop=false "
+},
+{
+      "id":290 ,
+      "price":189 ,
+      "category": "Tripods",
+      "name":" G2L NEW ARRIVAL UNIVERSAL WIRED HANDHELD MONOPOD FOR PHONE HOLDER Tripod Kit  (Black, Supports Up to 600 g)",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/selfie-stick/q/v/c/600-top-selling-wired-handheld-mobile-holder-photography-youtube-original-imagghbqzpj4trrs.jpeg?q=70&crop=false "
+},
+{
+      "id":291 ,
+      "price":580 ,
+      "category": "Tripods",
+      "name":" Smars Mobile Vlogging Kit with Microphone Tripod for recording videos Stand Monopod Kit, Tripod Kit  (Black, Supports Up to 1500 g)",
+      "image":" https://rukminim2.flixcart.com/image/832/832/l0pm3680/tripod/monopod-kit/3/o/i/mobile-vlogging-kit-with-microphone-tripod-for-recording-videos-original-imagcfpjbfqzszdt.jpeg?q=70&crop=false"
+},
+{
+      "id":292 ,
+      "price":649 ,
+      "category": "Tripods",
+      "name":"Tygot 10 Inches LED Ring Light for Camera, Phone with 7 Feet Long Foldable Lightweight Tripod Kit, Tripod  (Black, Supports Up to 5000 g) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/tripod/b/a/l/-original-imagrs3etammawze.jpeg?q=70&crop=false "
+},
+
+{
+      "id":293 ,
+      "price":7299 ,
+      "category": "Smart Watches",
+      "name":"Fire-Boltt Dream WristPhone - 4G SIM/LTE/WiFi, Android OS, Play store unlimited apps, GPS Smartwatch  (Midnight Grace Strap, Free Size) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/smartwatch/y/t/x/-original-imagwytwzgkb8pgh.jpeg?q=70&crop=false "
+},
+{
+      "id":294 ,
+      "price":1099 ,
+      "category": "Smart Watches",
+      "name":"Boult Drift BT Calling 1.69 HD Display, 140+ Watchfaces, Complete Health Monitoring Smartwatch  (Sand Black Strap, Free Size) ",
+      "image":" https://rukminim2.flixcart.com/image/832/832/xif0q/smartwatch/v/m/o/-original-imagwu7frngsggtx.jpeg?q=70&crop=false"
+},
+{
+      "id":295 ,
+      "price":1299 ,
+      "category": "Smart Watches",
+      "name":" beatXP Marv Neo 1.85'' HD Display Bluetooth Calling Smart Watch, Health Tracking & IP68 Smartwatch  (Ice Silver Strap, Free Size)",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/smartwatch/n/9/n/4-6-bxio2003-bxsm2003-bxsm2001-android-ios-beatxp-yes-original-imaguyghgmfvmgup.jpeg?q=70&crop=false "
+},
+{
+      "id":296 ,
+      "price":1499 ,
+      "category": "Smart Watches",
+      "name":"Noise Colorfit Icon 2 1.8'' Display with Bluetooth Calling, AI Voice Assistant Smartwatch  (Black Strap, Regular) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/l5ld8y80/smartwatch/r/q/t/-original-imagg8dksgct9hxg.jpeg?q=70&crop=false "
+},
+{
+      "id":297 ,
+      "price":1299 ,
+      "category": "Smart Watches",
+      "name":"Fire-Boltt Hurricane 1.3 Curved Glass Display with 360 Health Training, 100+ Sports Modes Smartwatch  (Grey Strap, Free Size) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/smartwatch/h/m/e/-original-imagkfm8fgvwjy8y.jpeg?q=70&crop=false "
+},
+{
+      "id":298 ,
+      "price":1299 ,
+      "category": "Smart Watches",
+      "name":"Boult Crown 1.95'' Screen, BT Calling, Working Crown, Zinc Alloy Frame, 900 Nits, SpO2 Smartwatch  (Orange Strap, Free Size) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/smartwatch/q/q/u/-original-imagx8trzhvz9ftt.jpeg?q=70&crop=false "
+},
+{
+      "id":299 ,
+      "price": 1499,
+      "category": "Smart Watches",
+      "name":"boAt Wave Connect with Bluetooth Calling, Voice Assistant and 1.69 HD Display Smartwatch  (Black Strap, Free Size) ",
+      "image":" https://rukminim2.flixcart.com/image/832/832/l41n2q80/smartwatch/2/x/b/-original-imagffyzwny73vuy.jpeg?q=70&crop=false"
+},
+{
+      "id":300 ,
+      "price": 9995,
+      "category": "Smart Watches",
+      "name":"Titan Talk with 1.39 AMOLED Display, BT Calling & Music Storage with TWS Connect Smartwatch  (Grey Strap, Free Size) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/smartwatch/y/a/g/1-39-90156ap03-android-ios-titan-yes-original-imagjt4er5avwhhz.jpeg?q=70&crop=false "
+},
+{
+      "id":301 ,
+      "price":6999 ,
+      "category": "Smart Watches",
+      "name":"Fire-Boltt Dream WristPhone - 4G SIM/LTE/WiFi, Android OS, Play store unlimited apps, GPS Smartwatch  (Forest Fringe Strap, Free Size) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/smartwatch/l/o/j/-original-imagwyu4dyzhhf7p.jpeg?q=70&crop=false "
+},
+{
+      "id":302 ,
+      "price": 54990,
+      "category": "Hp Laptops ",
+      "name":"HP Victus AMD Ryzen 5 Hexa Core 7535HS - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX 2050) 15-fb1016AX Gaming Laptop  (15.6 Inch, Performance Blue, 2.37 kg, With MS Office) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/computer/p/4/o/15-fb1016ax-gaming-laptop-hp-original-imagt2szk5gxr7qg.jpeg?q=70&crop=false "
+},
+{
+      "id":303 ,
+      "price":48990 ,
+      "category": "Hp Laptops ",
+      "name":"HP Victus Gaming AMD Ryzen 5 Hexa Core 5600H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce GTX 1650/144 Hz) 15-fb0131AX Gaming Laptop  (15.6 Inch, Mica Silver, 2.37 Kg) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/computer/k/f/a/-original-imagsnzbvumjadck.jpeg?q=70&crop=false "
+},
+{
+      "id":304 ,
+      "price":49990 ,
+      "category": "Hp Laptops ",
+      "name":"HP Victus AMD Ryzen 5 Hexa Core 5600H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/AMD Radeon RX 6500M/60 Hz) 15-fb0147AX Gaming Laptop  (15.6 Inch, Performance Blue, 2.37 Kg) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/computer/8/i/j/-original-imagthcbgurdzwuc.jpeg?q=70&crop=false "
+},
+{
+      "id":305 ,
+      "price":51990 ,
+      "category": "Hp Laptops ",
+      "name":"HP Victus AMD Ryzen 5 Hexa Core 7535HS - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX 2050) 15-fb1015AX Gaming Laptop  (15.6 Inch, Mica Silver, 2.37 Kg) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/computer/f/e/d/-original-imagud83gf3wkzh9.jpeg?q=70&crop=false "
+},
+{
+      "id":306 ,
+      "price":67989 ,
+      "category": "Hp Laptops ",
+      "name":" HP Victus Intel Core i5 12th Gen 12450H - (16 GB/1 TB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX 2050/50 TGP) fa1145TX Gaming Laptop  (15.6 inch, Performance Blue, 2.37 Kg, With MS Office)",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/computer/8/i/j/-original-imagthcbgurdzwuc.jpeg?q=70&crop=false "
+},
+{
+      "id":307 ,
+      "price":80890 ,
+      "category": "Hp Laptops ",
+      "name":"HP Victus AMD Ryzen 7 Octa Core 7840HS - (16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RTX 3050) 16-s0095AX Gaming Laptop  (16.1 Inch, Performance Blue, 2.29 kg, With MS Office) ",
+      "image":" https://rukminim2.flixcart.com/image/832/832/xif0q/computer/b/0/s/16-s0095ax-gaming-laptop-hp-original-imagsn4eepm7trbu.jpeg?q=70&crop=false"
+},
+{
+      "id":308 ,
+      "price":56990 ,
+      "category": "Hp Laptops ",
+      "name":"HP Victus AMD Ryzen 5 Hexa Core 5600H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/AMD Radeon RX 6500M) 15-fb0134AX Gaming Laptop  (15.6 Inch, Performance Blue, 2.37 Kg) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/computer/8/i/j/-original-imagthcbgurdzwuc.jpeg?q=70&crop=false "
+},
+{
+      "id":309 ,
+      "price":21500 ,
+      "category": "Hp Laptops ",
+      "name":"HP 14a Intel Celeron Dual Core N4500 - (4 GB/64 GB EMMC Storage/Chrome OS) 14a- na1004TU Chromebook  (14 Inch, Mineral Silver, 1.46 kg) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/computer/v/j/5/-original-imagwzwcztgdchgz.jpeg?q=70&crop=false "
+},
+{
+      "id":310 ,
+      "price":30999 ,
+      "category": "Hp Laptops ",
+      "name":"HP 2023 AMD Ryzen 3 Dual Core 3250U - (8 GB/512 GB SSD/Windows 11 Home) 15s- eq1580AU Thin and Light Laptop  (15.6 Inch, Natural Silver, 1.69 Kg, With MS Office) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/computer/g/b/m/-original-imagwzwczuhp7ybu.jpeg?q=70&crop=false "
+},
+{
+      "id":311 ,
+      "price":74560 ,
+      "category": "Hp Laptops ",
+      "name":"HP Pavilion Intel Core i5 13th Gen 1335U - (16 GB/1 TB SSD/Windows 11 Home) 15-eg3018TU Thin and Light Laptop  (15.6 Inch, Natural Silver, 1.75 Kg, With MS Office) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/computer/n/7/m/-original-imagwy8djqdwrwjf.jpeg?q=70&crop=false "
+},
+{
+      "id": 312,
+      "price":50400 ,
+      "category": "Acer Laptops ",
+      "name":"Acer Aspire 7 Intel Core i5 10th Gen - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GTX 1650) A715-75G-50TA/ A715-75G-41G/ A715-75G-52AA Gaming Laptop  (15.6 inch, Black, 2.15 Kg) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/kp1imq80/computer/u/b/z/na-gaming-laptop-acer-original-imag3d63hk3h8nm2.jpeg?q=70&crop=false "
+},
+{
+      "id":313 ,
+      "price":52990 ,
+      "category": "Acer Laptops ",
+      "name":"Acer Aspire 7 Intel Core i5 12th Gen 12450H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX 2050) A715-76G-59WG Gaming Laptop  (15.6 Inch, Charcoal Black, 2.1 Kg) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/computer/e/d/w/-original-imagu3kwas7j6g6a.jpeg?q=70&crop=false "
+},
+{
+      "id":314 ,
+      "price":54800 ,
+      "category": "Acer Laptops ",
+      "name":"Acer Aspire 7 Intel Core i5 12th Gen 1240P - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce GTX 1650) A715-51G, A715-51G-527C Gaming Laptop  (15.6 inch, Black, 2.1 Kg) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/l4oi4cw0/computer/i/n/e/a715-5g-gaming-laptop-acer-original-imagfj2g954wfdyz.jpeg?q=70&crop=false "
+},
+{
+      "id":315 ,
+      "price":54990 ,
+      "category": "Acer Laptops ",
+      "name":"Acer Aspire 7 (2023) Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce GTX 1650/60 Hz) A715-76G Gaming Laptop  (15.6 Inch, Charcoal Black, 2.1 Kg) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/computer/e/d/d/-original-imagu3kwj2mgetuk.jpeg?q=70&crop=false "
+},
+{
+      "id":316 ,
+      "price":54990 ,
+      "category": "Acer Laptops ",
+      "name":"Acer Aspire 5 gaming Intel Core i5 12th Gen 1240P - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX RTX 2050) A515-57G Gaming Laptop  (15.6 inch, Steel Gray, 1.8 Kg) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/computer/i/q/k/-original-imagr922hmx4hkzk.jpeg?q=70&crop=false "
+},
+{
+      "id":317 ,
+      "price":55390 ,
+      "category": "Acer Laptops ",
+      "name":"Acer Aspire 7 Intel Core i5 9th Gen 9300H - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GTX 1650/60 Hz) A715-75G-50SA Gaming Laptop  (15.6 inch, Charcoal Black, 2.15 kg) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/kamtsi80/computer/m/8/y/acer-na-gaming-laptop-original-imafs5prytwgrcyf.jpeg?q=70&crop=false "
+},
+{
+      "id":318 ,
+      "price":55500 ,
+      "category": "Acer Laptops ",
+      "name":"Acer Aspire 7 AMD Ryzen 5 Hexa Core 5500U - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce GTX 1650) A715-42G Gaming Laptop  (15.6 Inch, Black, 2.15 kg) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/computer/b/e/h/-original-imagjyc69gh3a8wu.jpeg?q=70&crop=false "
+},
+{
+      "id":319 ,
+      "price":56990 ,
+      "category": "Acer Laptops ",
+      "name":"Acer Aspire 5 Gaming Intel Core i5 13th Gen 1335U - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX 2050) A515-58GM Gaming Laptop  (15.6 inch, Steel Grey, 1.78 Kg) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/computer/x/u/t/-original-imagttdggwbzgedf.jpeg?q=70&crop=false "
+},
+{
+      "id":320 ,
+      "price":57990 ,
+      "category": "Acer Laptops ",
+      "name":"Acer Aspire 7 (2023) Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX 3050/144 Hz) A715-76G Gaming Laptop  (15.6 Inch, Charcoal Black, 2.1 Kg) ",
+      "image":" https://rukminim2.flixcart.com/image/832/832/xif0q/computer/h/n/f/-original-imagu3kw4jhnaqgm.jpeg?q=70&crop=false"
+},
+{
+      "id":321 ,
+      "price":45990 ,
+      "category": "Lenovo Laptops ",
+      "name":"Lenovo IdeaPad Gaming 3 AMD Ryzen 5 Hexa Core 5500H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX 2050) 15ACH6 Gaming Laptop  (39.62 cm, Shadow Black, 2.25 Kg) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/computer/b/g/f/-original-imagufyhvwswufvm.jpeg?q=70&crop=false "
+},
+{
+      "id":322 ,
+      "price":47490 ,
+      "category": "Lenovo Laptops ",
+      "name":"Lenovo IdeaPad Gaming 3 Intel Intel Core i5 11th Gen 11320H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce GTX 1650) 15IHU6 Gaming Laptop  (15.6 Inch, Shadow Black, 2.25 kg) ",
+      "image":" https://rukminim2.flixcart.com/image/832/832/xif0q/computer/n/n/q/-original-imagu3kmvtfdy5hk.jpeg?q=70&crop=false"
+},
+{
+      "id":323 ,
+      "price":47990 ,
+      "category": "Lenovo Laptops ",
+      "name":"Lenovo IdeaPad Gaming 3 AMD Ryzen 5 Hexa Core 5500H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX 2050) 15ACH6 Gaming Laptop  (15.6 Inch, Black, 2.25 Kg) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/computer/j/k/h/-original-imagufyhp8btjhjc.jpeg?q=70&crop=false "
+},
+{
+      "id":324 ,
+      "price": 67890,
+      "category": "Lenovo Laptops ",
+      "name":"Lenovo IdeaPad Gaming 3 AMD Ryzen 5 Hexa Core 6600H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX 3050) 15ARH7 Gaming Laptop  (15.6 inch, Onyx Grey, 2.32 kg, With MS Office) ",
+      "image":" https://rukminim2.flixcart.com/image/832/832/xif0q/computer/t/v/2/-original-imagufyhznq26vpn.jpeg?q=70&crop=false"
+},
+{
+      "id":325 ,
+      "price":47990 ,
+      "category": "Lenovo Laptops ",
+      "name":"Lenovo IdeaPad Gaming 3 Intel Core i5 11th Gen 11300H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce GTX 1650/120 Hz) 15IHU6 Gaming Laptop  (15.6 Inch, Shadow Black, 2.25 kg) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/computer/n/n/q/-original-imagu3kmvtfdy5hk.jpeg?q=70&crop=false "
+},
+{
+      "id":326 ,
+      "price":64990 ,
+      "category": "Lenovo Laptops ",
+      "name":" Lenovo Ideapad Gaming 3 AMD Ryzen 5 Hexa Core AMD R5-5600H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX 3050/120 Hz) 15ACH6 Gaming Laptop  (15.6 inch, Shadow Black, 2.25 kg, With MS Office)",
+      "image":" https://rukminim2.flixcart.com/image/832/832/xif0q/computer/l/r/d/-original-imagufyhn6mrrmrj.jpeg?q=70&crop=false"
+},
+{
+      "id":327 ,
+      "price":39990 ,
+      "category": "Lenovo Laptops ",
+      "name":"Lenovo IdeaPad Slim 3 Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) 15IAU7 Thin and Light Laptop  (15.6 Inch, Arctic Grey, 1.63 Kg, With MS Office) ",
+      "image":" https://rukminim2.flixcart.com/image/832/832/xif0q/computer/0/f/v/-original-imaguyhzwj4tqwqu.jpeg?q=70&crop=false"
+},
+{
+      "id":328 ,
+      "price":49990 ,
+      "category": "Lenovo Laptops ",
+      "name":"Lenovo Intel Core i7 12th Gen 1255U - (16 GB/512 GB SSD/Windows 11 Home) V15 G3 IAP Thin and Light Laptop  (15.6 Inch, Iron Grey, 1.7 Kg) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/computer/d/t/c/v15-g2-alc-laptop-lenovo-original-imaghq2ffspmtfuh.jpeg?q=70&crop=false "
+},
+{
+      "id": 329,
+      "price":64990 ,
+      "category": "Lenovo Laptops ",
+      "name":"Lenovo LOQ Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX 2050) 15IRH8 Gaming Laptop  (15.6 inch, Storm Grey, 2.4 Kg, With MS Office) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/computer/7/m/c/-original-imagtvudctd8grxy.jpeg?q=70&crop=false "
+},
+{
+      "id":330 ,
+      "price": 60990,
+      "category": "Asus Laptops ",
+      "name":"ASUS Vivobook Pro 15 OLED For Creator AMD Ryzen 5 Hexa Core 5600HS - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX 2050) M6500QFB-LK541WS Gaming Laptop  (15.6 Inch, Quiet Blue, 1.80 Kg, With MS Office) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/computer/p/p/2/-original-imagsz6y3gn9phfd.jpeg?q=70&crop=false "
+},
+{
+      "id":331 ,
+      "price":99990 ,
+      "category": "Asus Laptops ",
+      "name":"ASUS ROG Strix G16 (2023), Intel Intel Core i5 13th Gen 13450HX - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RTX 3050) G614JJ-N3088WS Gaming Laptop  (16 Inch, Gray, 2.50 Kg, With MS Office) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/computer/n/2/n/-original-imagqfxrg76yafrr.jpeg?q=70&crop=false "
+},
+{
+      "id":332 ,
+      "price":379990 ,
+      "category": "Asus Laptops ",
+      "name":"ASUS ROG Zephyrus Duo 16 with 90WHr Battery AMD Ryzen 9 16 Core 7945HX - (32 GB/2 TB SSD/Windows 11 Home/16 GB Graphics/NVIDIA GeForce RTX 4090/240 HZ/175 TGP) GX650PY-NM052WS Gaming Laptop  (16 Inch, Black, 2.67 Kg, With MS Office) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/computer/z/c/p/-original-imagz42ugkyzeaez.jpeg?q=70&crop=false "
+},
+{
+      "id":333 ,
+      "price":179990 ,
+      "category": "Asus Laptops ",
+      "name":"ASUS ROG Strix G16 (2023) with 90WHr Battery Intel HX-Series Intel Core i9 13th Gen 13980HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce RTX 4070/240 HZ/140 TGP) G614JI-N4151WS Gaming Laptop  (16 Inch, Volt Green, 2.50 Kg, With MS Office) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/computer/4/g/4/-original-imagqfxrqgffngth.jpeg?q=70&crop=false "
+},
+{
+      "id":334 ,
+      "price": 85181,
+      "category": "Asus Laptops ",
+      "name":"ASUS AMD Ryzen 7 Octa Core - (16 GB/1 TB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX 4GB NVIDIA GeForce RTX 3050) G513RC-HN085WS Gaming Laptop  (15.6 inch, Electro Punk, With MS Office) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/computer/b/n/m/rog-strix-g15-gaming-laptop-asus-original-imagpvy2yrujnwge.jpeg?q=70&crop=false "
+},
+{
+      "id":335 ,
+      "price":50990 ,
+      "category": "Asus Laptops ",
+      "name":"ASUS Vivobook Pro 15 For Creator, AMD Ryzen 5 Hexa Core 5600HS - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX 2050/144 Hz/50 TGP) M6500QF-HN521WS Gaming Laptop  (15.6 Inch, Blue, 1.80 Kg, With MS Office) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/computer/d/k/k/-original-imagqkqnb2fpbhyb.jpeg?q=70&crop=false "
+},
+{
+      "id":336 ,
+      "price":47990 ,
+      "category": "Asus Laptops ",
+      "name":"ASUS TUF Gaming F15 - AI Powered Gaming Intel Core i5 11th Gen 11260H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX 2050/144 Hz/70 TGP) FX506HF-HN075W Gaming Laptop  (15.6 Inch, Graphite Black, 2.30 kg) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/computer/v/y/z/-original-imagtucnqsqpbvk6.jpeg?q=70&crop=false "
+},
+{
+      "id":337 ,
+      "price":84990 ,
+      "category": "Asus Laptops ",
+      "name":"ASUS Vivobook 16X (2023) For Creator, Intel H-Series Intel Core i7 12th Gen 12650H - (16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RTX 4050/120 Hz/50 TGP) K3605ZU-MB741WS Gaming Laptop  (16 Inch, Indie Black, 1.80 Kg, With MS Office) ",
+      "image":" https://rukminim2.flixcart.com/image/832/832/xif0q/computer/d/t/c/-original-imagsz6yn8qzwvsn.jpeg?q=70&crop=false"
+},
+{
+      "id":338 ,
+      "price":68990 ,
+      "category": "Asus Laptops ",
+      "name":"ASUS Vivobook Pro 15 For Creator, AMD Ryzen 7 Octa Core 5800HS - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX 3050/144 Hz/50 TGP) M6500QC-HN741WS Gaming Laptop  (15.6 Inch, Quiet Blue, 1.8 Kg, With MS Office) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/computer/d/k/k/-original-imagqkqnb2fpbhyb.jpeg?q=70&crop=false "
+},
+{
+      "id":339 ,
+      "price":71990 ,
+      "category": "Dell Laptops ",
+      "name":"DELL G15 Intel Core i5 12th Gen 12500H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX 3050/120 Hz) Gaming Gaming Laptop  (38 cm, Dark Shadow Grey, 2.57 kg, With MS Office) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/l26hdow0/computer/d/r/a/g15-5521-se-gaming-laptop-dell-original-imagdktezaswjvsk.jpeg?q=70&crop=false "
+},
+{
+      "id":340 ,
+      "price":104990 ,
+      "category": "Dell Laptops ",
+      "name":"DELL G15 Intel Core i7 12th Gen 12700H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX 3050 Ti/120 Hz) G15-5520 Gaming Laptop  (15.6 Inch, Dark Shadow Grey, 2.57 kg, With MS Office) ",
+      "image":" https://rukminim2.flixcart.com/image/832/832/l26hdow0/computer/d/r/a/g15-5521-se-gaming-laptop-dell-original-imagdktezaswjvsk.jpeg?q=70&crop=false"
+},
+{
+      "id":341 ,
+      "price":76990 ,
+      "category": "Dell Laptops ",
+      "name":"DELL G15-5530 Intel Core i5 13th Gen 13450HX - (16 GB/512 GB SSD/Windows 11 Pro/6 GB Graphics/NVIDIA GeForce RTX GEFORCE RTX 3050/120 Hz) G15-5530 Gaming Laptop  (15.6 inch, Dark Shadow Gray With Black Thermal Shelf, 2.65 kg, With MS Office) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/computer/d/5/q/g15-gaming-laptop-gaming-laptop-dell-original-imagxf36wzgmkzbd.jpeg?q=70&crop=false "
+},
+{
+      "id":342 ,
+      "price": 389990,
+      "category": "Dell Laptops ",
+      "name":"DELL Intel Core i9 13th Gen 13th Gen. Intel(R) Core( TM) i9 13900HK - (32 GB/1 TB SSD/Windows 11 Home/12 GB Graphics/NVIDIA GeForce RTX 4080 GDDR6/240 Hz) X16 R1 Gaming Laptop  (16 inch, Lunar Silver, 2.720 kg, With MS Office) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/computer/c/a/p/alienware-x16-r1-gaming-laptop-dell-original-imagrhhucty4gyfu.jpeg?q=70&crop=false "
+},
+{
+      "id":343 ,
+      "price":139990 ,
+      "category": "Dell Laptops ",
+      "name":"DELL G15-5530 Intel Core i7 13th Gen - (16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RTX 4050/120 Hz) 5530 Gaming Laptop  (15.6 inch, Dark Shadow Gray With Black Thermal Shelf, 2.81 kg, With MS Office) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/computer/s/x/z/g15-gaming-laptop-dell-original-imagqzfysgpzsjuc.jpeg?q=70&crop=false "
+},
+{
+      "id":345 ,
+      "price":109471 ,
+      "category": "Dell Laptops ",
+      "name":"DELL AMD Ryzen 9 Octa Core 6900HX - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RTX 3060/165 Hz) New Gaming G15 Ryzen Edition Gaming Laptop  (38 cm, Phantom Grey With Speckles, 2.51 Kg, With MS Office) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/l45xea80/computer/7/5/r/g15-5525-gaming-laptop-dell-original-imagf4haxvzux68z.jpeg?q=70&crop=false "
+},
+{
+      "id":346 ,
+      "price":67990 ,
+      "category": "Dell Laptops ",
+      "name":"DELL Intel Core i5 12th Gen 12500H - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX 3050) G15 Gaming Laptop  (15.6 Inch, Shadow Grey, 2.81 Kg, With MS Office) ",
+      "image":" https://rukminim2.flixcart.com/image/832/832/xif0q/computer/u/i/0/gaming-5520-gaming-laptop-dell-original-imagpa35hk76hvxh.jpeg?q=70&crop=false"
+},
+{
+      "id":347 ,
+      "price":89649 ,
+      "category": "Dell Laptops ",
+      "name":" DELL Intel Core i5 13450HX - (16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RTX 3050) G15 5530 Gaming Laptop  (15.6 Inch, Dark Shadow Grey, 3.31 Kg, With MS Office)",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/computer/d/s/r/gaming-5530-gaming-laptop-dell-original-imagr4pwg388ncxs.jpeg?q=70&crop=false "
+},
+{
+      "id":348 ,
+      "price":73990 ,
+      "category": "Dell Laptops ",
+      "name":"DELL G15 AMD Ryzen 5 Hexa Core 5600H - (16 GB/512 GB SSD/Windows 10/4 GB Graphics/NVIDIA GeForce RTX 3050) G15-5515 Gaming Laptop  (15.6 inch, Phantom Grey, 2.4 kg, With MS Office) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/ku5ufm80/computer/x/4/j/g15-5515-gaming-laptop-dell-original-imag7chqvu3veeaz.jpeg?q=70&crop=false "
+},
+{
+      "id":349 ,
+      "price":43190 ,
+      "category": "Fully Automatic Front Load Washing Machines ",
+      "name":" SAMSUNG 8 kg 5 Star, AI Ecobubble,  Wi-Fi, Hygiene Steam,Digital Inverter Fully Automatic Front Load Washing Machine with In-built Heater Black  (WW80T504DAB1TL) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/washing-machine-new/l/k/u/-original-imagx8sgegk3fsq9.jpeg?q=70&crop=false "
+},
+{
+      "id":350 ,
+      "price":32990 ,
+      "category": "Fully Automatic Front Load Washing Machines ",
+      "name":"SAMSUNG 8 kg 5 Star, Inverter, Hygiene Steam Digital Inverter Fully Automatic Front Load Washing Machine with In-built Heater White  (WW80T4040CE1TL)  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/washing-machine-new/s/o/l/-original-imagx8sgkwzzbhj5.jpeg?q=70&crop=false "
+},
+{
+      "id":351 ,
+      "price":28990 ,
+      "category": "Fully Automatic Front Load Washing Machines ",
+      "name":" LG 7 kg 5 Star with Steam, Inverter Direct Drive Technology, 6 Motion DD, Touch Panel and 1200 RPM Fully Automatic Front Load Washing Machine with In-built Heater Black, Grey  (FHM1207SDM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/washing-machine-new/m/r/e/-original-imagx7qmg7cmycjr.jpeg?q=70&crop=false "
+},
+{
+      "id":352 ,
+      "price":28990 ,
+      "category": "Fully Automatic Front Load Washing Machines ",
+      "name":" BLACK+DECKER 8 kg Fully Automatic Front Load Washing Machine with In-built Heater Black, White  (BXWD01280IN) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/washing-machine-new/f/c/k/8-52-bxwd01280in-5-1950-59-5-58-black-decker-85-original-imagv9dmmukkghjf.jpeg?q=70&crop=false "
+},
+{
+      "id":353 ,
+      "price": 25990,
+      "category": "Fully Automatic Front Load Washing Machines ",
+      "name":" Motorola 10.5 kg 5 Star Smart Wi-Fi Enabled Inverter Technology Fully Automatic Front Load with In-built Heater Grey  (105FLIWBM5DG) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/kgl5ua80/washing-machine-new/k/w/s/105fliwbm5dg-motorola-original-imafwse6knmbgy48.jpeg?q=70&crop=false "
+},
+{
+      "id":354 ,
+      "price": 18990,
+      "category": "Fully Automatic Front Load Washing Machines ",
+      "name":" realme TechLife 6 kg 5 Star Power Clean Fully Automatic Front Load Washing Machine with In-built Heater White  (RMFL605NHNAW) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/washing-machine-new/e/y/w/-original-imagrepc7dazgcbz.jpeg?q=70&crop=false "
+},
+{
+      "id":355 ,
+      "price": 24990,
+      "category": "Fully Automatic Front Load Washing Machines ",
+      "name":" LG 6.5 kg 5 Star with Steam, Inverter Direct Drive, 6 Motion Direct Drive, Touch Panel, 1000 RPM Fully Automatic Front Load Washing Machine with In-built Heater White  (FHM1065SDW) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/washing-machine-new/v/9/p/-original-imagvg7vghxfexat.jpeg?q=70&crop=false "
+},
+{
+      "id":356 ,
+      "price":37999 ,
+      "category": "Fully Automatic Front Load Washing Machines ",
+      "name":" LG 8 kg 5 Star with Steam, Inverter Direct Drive, 6 Motion Direct Drive, Touch Panel and 1400 RPM Fully Automatic Front Load Washing Machine with In-built Heater Black, Grey  (FHM1408BDM) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/washing-machine-new/u/l/x/-original-imagx7qhwyfqea6y.jpeg?q=70&crop=false "
+},
+{
+      "id": 357,
+      "price":22990 ,
+      "category": "Fully Automatic Front Load Washing Machines ",
+      "name":" SAMSUNG 6 kg Inverter 5 Star Hygiene Steam Fully Automatic Front Load Washing Machine with In-built Heater White  (WW60R20GLMA/TL) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/washing-machine-new/u/y/x/-original-imagvc2zvu97vgqs.jpeg?q=70&crop=false "
+},
+{
+      "id":358 ,
+      "price":30490 ,
+      "category": "Fully Automatic Front Load Washing Machines ",
+      "name":" BOSCH 7 kg with Steam Fully Automatic Front Load Washing Machine with In-built Heater Black, Grey  (WAJ20069IN) ",
+      "image":" https://rukminim2.flixcart.com/image/832/832/xif0q/washing-machine-new/n/o/n/-original-imagu2rtzvqhrgpa.jpeg?q=70&crop=false"
+},
+{
+      "id":359 ,
+      "price":11490 ,
+      "category": "Semi Automatic Top Load Washing Machines ",
+      "name":"LG 7 kg 5 Star with Wind Jet Dry, Collar Scrubber and Rust Free Plastic Base Semi Automatic Top Load Washing Machine Grey, White  (P7020NGAZ)  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/washing-machine-new/b/c/g/-original-imagvrbhcwuwz7j7.jpeg?q=70&crop=false "
+},
+{
+      "id":360 ,
+      "price":13990 ,
+      "category": "Semi Automatic Top Load Washing Machines ",
+      "name":" SAMSUNG 8.5 kg 5 star, Air Turbo Drying Semi Automatic Top Load Washing Machine Black, Grey  (WT85B4200GG/TL) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/washing-machine-new/b/n/h/-original-imagx8sgpctsmrnt.jpeg?q=70&crop=false "
+},
+{
+      "id":361 ,
+      "price":7990 ,
+      "category": "Semi Automatic Top Load Washing Machines ",
+      "name":"realme TechLife 7 kg 5 Star rating Semi Automatic Top Load Washing Machine White, Black  (RMSA705NNNDW)  ",
+      "image":" https://rukminim2.flixcart.com/image/832/832/xif0q/washing-machine-new/0/q/e/-original-imags7pzrywzxc2z.jpeg?q=70&crop=false"
+},
+{
+      "id": 362,
+      "price":8990 ,
+      "category": "Semi Automatic Top Load Washing Machines ",
+      "name":" MOTOROLA 7.5 kg 5 star rating Semi Automatic Top Load Washing Machine Black  (MTSA755NNNDB) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/washing-machine-new/g/r/2/-original-imaguxgzxytb5qsp.jpeg?q=70&crop=false "
+},
+{
+      "id":363 ,
+      "price": 7990,
+      "category": "Semi Automatic Top Load Washing Machines ",
+      "name":" Thomson 7.5 kg 5 Star Aqua Magic Semi Automatic Top Load Washing Machine Black, Grey  (TSA7500SP) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/washing-machine-new/z/b/q/-original-imagxbywcadw6gpa.jpeg?q=70&crop=false "
+},
+{
+      "id":364 ,
+      "price":14990 ,
+      "category": "Semi Automatic Top Load Washing Machines ",
+      "name":"LG 8.5 kg 5 Star with Roller Jet Pulsator with Soak, Wind Jet Dry and Collar Scrubber Semi Automatic Top Load Washing Machine Maroon, White  (P8530SRAZ) ",
+      "image":" https://rukminim2.flixcart.com/image/832/832/xif0q/washing-machine-new/2/6/m/-original-imagx7qhyteggfcb.jpeg?q=70&crop=false"
+},
+{
+      "id":365 ,
+      "price":12990 ,
+      "category": "Semi Automatic Top Load Washing Machines ",
+      "name":" Thomson 12 kg 5 Star Aqua Magic Toughen Glass with soft closure and Double Waterfall Semi Automatic Top Load Washing Machine Black, Grey  (TSA1200SP) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/washing-machine-new/i/t/i/-original-imagt9eg9aavc6uh.jpeg?q=70&crop=false "
+},
+{
+      "id":366 ,
+      "price": 7590,
+      "category": "Semi Automatic Top Load Washing Machines ",
+      "name":" Thomson 7 kg 5 Star Aqua Magic Semi Automatic Top Load Washing Machine Blue, White  (TSA7000SP) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/washing-machine-new/h/r/z/-original-imagtvnhsqgtyfmg.jpeg?q=70&crop=false "
+},
+{
+      "id":367 ,
+      "price":12690 ,
+      "category": "Semi Automatic Top Load Washing Machines ",
+      "name":" SAMSUNG 7 kg 5 star,Air Turbo Drying, Semi Automatic Top Load Washing Machine White, Grey, Purple  (WT70M3200HL/TL) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/kg8avm80/washing-machine-new/h/f/h/wt70m3200hl-tl-samsung-original-imafwgjgewrxajyx.jpeg?q=70&crop=false "
+},
+{
+      "id":368 ,
+      "price":24990 ,
+      "category": "Fully Automatic Top Load Washing Machines ",
+      "name":" SAMSUNG 9 kg 5 star, Ecobubble, Wi-Fi, Digital Inverter, Fully Automatic Top Load Washing Machine Grey  (WA90BG4542BDTL) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/washing-machine-new/n/f/t/-original-imagh74bpytxghbc.jpeg?q=70&crop=false "
+},
+{
+      "id":369 ,
+      "price":18990 ,
+      "category": "Fully Automatic Top Load Washing Machines ",
+      "name":" LG 8 kg 5 Star with Smart Inverter Technology, TurboDrum and Smart Diagnosis Fully Automatic Top Load Washing Machine Silver  (T80SKSF1Z) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/washing-machine-new/2/b/h/-original-imagx7qh8qzppe3s.jpeg?q=70&crop=false "
+},
+{
+      "id":370 ,
+      "price": 17490,
+      "category": "Fully Automatic Top Load Washing Machines ",
+      "name":" LG 7 kg 5 Star with Smart Inverter Technology, TurboDrum and Smart Diagnosis Fully Automatic Top Load Washing Machine Silver  (T70SKSF1Z) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/washing-machine-new/k/c/l/-original-imagx7qhzg4f3bca.jpeg?q=70&crop=false "
+},
+{
+      "id":371 ,
+      "price":15390 ,
+      "category": "Fully Automatic Top Load Washing Machines ",
+      "name":" Whirlpool 7 kg Magic Clean 5 Star Fully Automatic Top Load Washing Machine Grey  (MAGIC CLEAN 7.0 GENX GREY 5YMW) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/washing-machine-new/p/1/g/-original-imagr5pa4shznqyh.jpeg?q=70&crop=false "
+},
+{
+      "id":372 ,
+      "price": 12490,
+      "category": "Fully Automatic Top Load Washing Machines ",
+      "name":"realme TechLife 7.5 kg 5 Star Rating Fabric Safe Wash Fully Automatic Top Load Washing Machine Grey  (RMFA75A5G)  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/washing-machine-new/z/l/l/-original-imags7tpwaxawghz.jpeg?q=70&crop=false "
+},
+{
+      "id":373 ,
+      "price":14990 ,
+      "category": "Fully Automatic Top Load Washing Machines ",
+      "name":"Panasonic 7 kg 12 Wash Programs Active Foam Wash Fully Automatic Top Load Washing Machine Silver  (NA-F70LF2)  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/washing-machine-new/j/z/w/-original-imagzs4c9gtgezjy.jpeg?q=70&crop=false "
+},
+{
+      "id":374 ,
+      "price":18490 ,
+      "category": "Fully Automatic Top Load Washing Machines ",
+      "name":"Whirlpool 7.5 kg 5 Star Stainwash Pro Fully Automatic Top Load Washing Machine with In-built Heater Grey  (STAINWASH PRO H 7.5 KG GREY 10YMW)  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/washing-machine-new/n/6/r/-original-imagt88fb7wjgfbg.jpeg?q=70&crop=false "
+},
+{
+      "id":375 ,
+      "price": 17790,
+      "category": "Fully Automatic Top Load Washing Machines ",
+      "name":"IFB 7 kg 5 Star Aqua Conserve Hard Water Wash, Smart Sense 4 years Comprehensive Warranty Fully Automatic Top Load Washing Machine Grey, White  (TL-R1WH 7.0KG AQUA)  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/washing-machine-new/z/q/6/-original-imagkd23qgdp8ghn.jpeg?q=70&crop=false "
+},
+{
+      "id":376 ,
+      "price":12490 ,
+      "category": "Fully Automatic Top Load Washing Machines ",
+      "name":" Thomson 7.5 kg PureWash Fully Automatic Top Load Washing Machine Grey  (TTL7500S) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/washing-machine-new/o/f/v/-original-imagxbywqbnewcdf.jpeg?q=70&crop=false "
+},
+
+{
+      "id":377 ,
+      "price":34990 ,
+      "category": "LG Air Conditioners ",
+      "name":" Panasonic Convertible 7-in-1 with Additional AI Mode Cooling 2023 Model 1 Ton 4 Star Split Inverter with 4 Way Swing, PM 0.1 Air Purification Filter AC with Wi-fi Connect - White  (CS/CU-NU12YKY4W, Copper Condenser) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/air-conditioner-new/7/p/v/-original-imagmm9amhhwymeg.jpeg?q=70&crop=false "
+},
+{
+      "id":378 ,
+      "price":40490 ,
+      "category": "LG Air Conditioners ",
+      "name":" Panasonic Convertible 7-in-1 with Additional AI Mode Cooling 2023 Model 1.5 Ton 4 Star Split Inverter with 4 Way Swing, PM 0.1 Air Purification Filter AC with Wi-fi Connect - White  (CS/CU-NU18YKY4W, Copper Condenser) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/air-conditioner-new/n/h/p/-original-imagmxwtz9kspfwu.jpeg?q=70&crop=false "
+},
+{
+      "id":379 ,
+      "price": 43490,
+      "category": "LG Air Conditioners ",
+      "name":"LG AI Convertible 6-in-1 Cooling 2023 Model 1.5 Ton 5 Star Split Inverter 4 Way Swing, HD Filter with Anti-Virus Protection AC - White  (RS-Q19ENZE, Copper Condenser)  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/air-conditioner-new/y/h/r/-original-imagpzgfth3hsvyj.jpeg?q=70&crop=false "
+},
+{
+      "id":380 ,
+      "price":72990 ,
+      "category": "LG Air Conditioners ",
+      "name":" LG AI Convertible 6-in-1 Cooling 2023 Model 1.5 Ton 5 Star Split Inverter 4 Way Swing, HD Filter with Anti-Virus Protection AC - Silver Deco  (RS-Q19RNZE, Copper Condenser) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/air-conditioner-new/o/c/n/-original-imagmptfzaejnzwd.jpeg?q=70&crop=false "
+},
+{
+      "id":381 ,
+      "price":65990 ,
+      "category": "LG Air Conditioners ",
+      "name":"LG AI Convertible 6-in-1 Cooling 2023 Model 1.5 Ton 3 Star Split Inverter 2 Way Swing, HD Filter with Anti-Virus Protection AC - White  (RS-Q19ENXE, Copper Condenser)  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/air-conditioner-new/w/x/2/-original-imagn42ywxwzszxp.jpeg?q=70&crop=false "
+},
+{
+      "id":382 ,
+      "price":34990 ,
+      "category": "LG Air Conditioners ",
+      "name":" LG 1 Ton 3 Star Split Inverter AC - White  (TS-Q12CNXE, Copper Condenser) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/air-conditioner-new/d/z/l/-original-imagwyky2zukwdzv.jpeg?q=70&crop=false "
+},
+{
+      "id":383 ,
+      "price":35990 ,
+      "category": "LG Air Conditioners ",
+      "name":" LG 1.5 Ton Window Inverter AC - White  (PW-Q18WUXA) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/air-conditioner-new/y/k/b/pw-q18wuxa-1-5-2022-window-inverter-lg-original-imaghkjggzzfztsg.jpeg?q=70&crop=false "
+},
+{
+      "id":384 ,
+      "price":76990 ,
+      "category": "LG Air Conditioners ",
+      "name":"LG Super Convertible 5-in-1 Cooling 2023 Model 1.5 Ton 3 Star Hot and Cold Split Inverter 4 Way Swing, HD Filter with Anti-Virus Protection AC - White  (RS-H19VNXE, Copper Condenser)",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/air-conditioner-new/v/w/e/-original-imagmpszjkffvyzx.jpeg?q=70&crop=false "
+},
+{
+      "id":385 ,
+      "price": 45490,
+      "category": "LG Air Conditioners ",
+      "name":" LG 2023 Model 1.5 Ton 5 Star Split Inverter AC with Wi-fi Connect - White  (RS-Q20GWZE, Copper Condenser) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/air-conditioner-new/i/r/z/-original-imagpbf2gjms2mrn.jpeg?q=70&crop=false "
+},
+{
+      "id":386 ,
+      "price":35990 ,
+      "category": "Hitachi Air Conditioners ",
+      "name":"SAMSUNG Convertible 5-in-1 Cooling 2023 Model 1.5 Ton 3 Star Split Inverter AC - White  (AR18CYLZABE/AR18CYLZABENNA/AR18CYLZABEXNA, Copper Condenser)  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/air-conditioner-new/l/w/g/-original-imagvr92khtacz4f.jpeg?q=70&crop=false "
+},
+{
+      "id":387 ,
+      "price":38999 ,
+      "category": "Hitachi Air Conditioners ",
+      "name":" SAMSUNG Convertible 5-in-1 Cooling Mode 2023 Model 1.5 Ton 4 Star Split Inverter AC - White  (AR18CY4ZAGD/AR18CY4ZAGDNNA/AR18CY4ZAGDXNA, Copper Condenser) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/air-conditioner-new/a/w/z/-original-imagvr92gfymkx4p.jpeg?q=70&crop=false "
+},
+{
+      "id":388 ,
+      "price":35670 ,
+      "category": "Hitachi Air Conditioners ",
+      "name":" Hitachi 1.5 Ton 3 Star Split Inverter AC - White  (RSQG318HEEA, Copper Condenser) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/ktvucnk0/air-conditioner-new/r/l/y/rsqg318heea-split-hitachi-inverter-original-imag74rmmahszsfd.jpeg?q=70&crop=false "
+},
+{
+      "id":389 ,
+      "price":45100 ,
+      "category": "Hitachi Air Conditioners ",
+      "name":"Hitachi 2023 Model 1.5 Ton 5 Star Split Inverter AC - White  (RAS.G518PCAISF, Copper Condenser)  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/air-conditioner-new/x/z/v/-original-imagzkeqgjsytyfu.jpeg?q=70&crop=false "
+},
+{
+      "id":390 ,
+      "price":33999 ,
+      "category": "Hitachi Air Conditioners ",
+      "name":" Hitachi Ice Clean Frost Wash Technology 2023 Model 1.5 Ton 3 Star Split Inverter Xpandable plus Ambience Light R 32 AC - White  (RAS.G318PCAIBFE (RAK.G318PCAIBFE / RAC.318WCAIE), Copper Condenser) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/air-conditioner-new/a/p/y/-original-imagmv4wc4hm6vgc.jpeg?q=70&crop=false "
+},
+{
+      "id":391 ,
+      "price": 44999,
+      "category": "Hitachi Air Conditioners ",
+      "name":" Hitachi 1.5 Ton 5 Star Split Inverter AC with Wi-fi Connect - White, Gold  (RSRG518FFEO/ ESRG518FFEO/ CSRG518FFEO, Copper Condenser) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/l2dmky80/air-conditioner-new/a/w/2/-original-imagdqdt3gfmevzy.jpeg?q=70&crop=false "
+},
+{
+      "id": 392,
+      "price":60500 ,
+      "category": "Hitachi Air Conditioners ",
+      "name":" Hitachi 1.5 Ton 5 Star Split Inverter Expandable AC - Gold  (RSOG518HEEA/ESOG518HEEA/CSOG518HEEA, Copper Condenser) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/kmqn3bk0/air-conditioner-new/f/n/l/rsog518heea-split-hitachi-inverter-original-imagfkksbkrxykjk.jpeg?q=70&crop=false "
+},
+{
+      "id":393 ,
+      "price":32490 ,
+      "category": "Hitachi Air Conditioners ",
+      "name":" SAMSUNG Convertible 5-in-1 Cooling 2023 Model 1 Ton 3 Star Split Inverter AC with Wi-fi Connect - White  (AR12CYLZAGE/AR12CYLZAGENNA/AR12CYLZAGEXNA, Copper Condenser) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/air-conditioner-new/u/b/f/-original-imagx7r3gbvwazcs.jpeg?q=70&crop=false "
+},
+{
+      "id":394 ,
+      "price":33490 ,
+      "category": "Hitachi Air Conditioners ",
+      "name":" SAMSUNG Convertible 5-in-1 Cooling 2023 Model 1 Ton 3 Star Split Inverter Wind Free AC - White  (AR12CYLAMWK/AR12CYLAMWKNNA/AR12CYLAMWKXNA, Copper Condenser) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/air-conditioner-new/f/1/r/-original-imagnhu5hj74qcp4.jpeg?q=70&crop=false "
+},
+{
+      "id":395 ,
+      "price":33949 ,
+      "category": "Carrier Air Conditioners ",
+      "name":" CARRIER 2023 Model HD Filteration 1.5 Ton 3 Star Split AI Flexicool Inverter With Auto Cleanser AC - White  (18K EMPERIA LXi INV R32 3S (IN)_CAI18EL3R32F0, Copper Condenser) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/air-conditioner-new/w/g/p/-original-imagm7syyhgxxdhx.jpeg?q=70&crop=false "
+},
+{
+      "id":396 ,
+      "price": 47300,
+      "category": "Carrier Air Conditioners ",
+      "name":"CARRIER 1.5 Ton 5 Star Split Inverter AC with Wi-fi Connect - Beige, Black  (18K 5 Star Indus CXi Smart AC Hybrid Jet Inverter R32 Split AC/CAI18IN5R31W1, Copper Condenser)  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/l29c9e80/air-conditioner-new/r/c/p/-original-imagdmzfvqathheq.jpeg?q=70&crop=false "
+},
+{
+      "id":397 ,
+      "price": 34549,
+      "category": "Carrier Air Conditioners ",
+      "name":" CARRIER 1.5 Ton Split AC - White  (18K DURAWHITE PRO+DX) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/air-conditioner-new/r/d/4/18k-durawhite-pro-dx-1-5-2023-split-fixed-speed-carrier-original-imagu6qkkx9d9qbn.jpeg?q=70&crop=false "
+},
+{
+      "id":398 ,
+      "price":42000 ,
+      "category": "Carrier Air Conditioners ",
+      "name":"CARRIER 1.5 Ton 3 Star Split Inverter AC - White  (18k Kurve Rxi_CAI18KU3R33F0, Copper Condenser)  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/air-conditioner-new/l/9/w/-original-imaguf5fgebtxhxa.jpeg?q=70&crop=false "
+},
+{
+      "id":399 ,
+      "price":36999 ,
+      "category": "Carrier Air Conditioners ",
+      "name":" CARRIER 4-in-1 Flexicool 2023 Model 1.5 Ton 3 Star Split Inverter with Anti-Viral Guard & Smart Energy Display AC - Beige  (18K INDUS DXi HYBRIDJET INVERTER R32 (BEIGE) SPLIT AC_CAI18IN3R32F0, Copper Condenser) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/air-conditioner-new/f/i/e/-original-imagnyzqbrtygm8y.jpeg?q=70&crop=false "
+},
+{
+      "id":400 ,
+      "price":43899 ,
+      "category": "Carrier Air Conditioners ",
+      "name":" CARRIER 1.5 Ton 5 Star Split Inverter AC - White  (18K 5 STAR DURAFRESH CXI INV, Copper Condenser) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/l31x2fk0/air-conditioner-new/r/x/k/-original-image99vxq52yzab.jpeg?q=70&crop=false "
+},
+{
+      "id":401 ,
+      "price":69999 ,
+      "category": "Carrier Air Conditioners ",
+      "name":"CARRIER 2023 Model 1.5 Ton 4 Star Split Inverter AC - White  (18K ESTER EXi INVERTER R32 SPLIT AC, Copper Condenser)  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/air-conditioner-new/5/7/2/-original-imagzgf85wbzethb.jpeg?q=70&crop=false "
+},
+{
+      "id":402 ,
+      "price":86890 ,
+      "category": "Carrier Air Conditioners ",
+      "name":" CARRIER 6-in-1 Flexicool 2023 Model 1.5 Ton 5 Star Split Inverter with Anti-Viral Guard & Smart Energy Display AC with Wi-fi Connect - Beige  (18K INDUS DXi SMART AC HYBRIDJET INVERTER R32 (BEIGE) SPLIT AC_CAI18IN5R32W0, Copper Condenser) ",
+      "image":" https://rukminim2.flixcart.com/image/832/832/xif0q/air-conditioner-new/f/i/e/-original-imagnyzqbrtygm8y.jpeg?q=70&crop=false"
+},
+{
+      "id":403 ,
+      "price":75999 ,
+      "category": "Carrier Air Conditioners ",
+      "name":" CARRIER Convertible 6-in-1 Cooling 2023 Model 1.5 Ton 5 Star Split AI Flexicool Inverter Dual Filtration with HD & PM 2.5 Filter AC - White  (18K ESTER EXi INVERTER R32 SPLIT AC_CAI18ES5R33F0, Copper Condenser) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/air-conditioner-new/5/7/2/-original-imagzgf85wbzethb.jpeg?q=70&crop=false "
+},
+{
+      "id":404 ,
+      "price":13690 ,
+      "category": "Single Door Refrigerators ",
+      "name":"Whirlpool 184 L Direct Cool Single Door 2 Star Refrigerator  (Sapphire, 205 WDE PRM 2S SAPPHIRE BLOOM-Z)  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/refrigerator-new/v/j/s/-original-imagpn7gnhwrnmaz.jpeg?q=70&crop=false "
+},
+{
+      "id":405 ,
+      "price":13990,
+      "category": "Single Door Refrigerators ",
+      "name":"Godrej 180 L Direct Cool Single Door 3 Star Refrigerator  (Floral Blue, RD R190C THF FR BL)  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/refrigerator-new/u/t/8/-original-imagw4ufjwuyjgxj.jpeg?q=70&crop=false "
+},
+{
+      "id":406 ,
+      "price":11890 ,
+      "category": "Single Door Refrigerators ",
+      "name":" ONIDA 190 L Direct Cool Single Door 3 Star Refrigerator  (FLORAL RED, RDS1903R) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/kbb49zk0/refrigerator-new/w/w/8/rds1903r-3-onida-original-imafszkrxfkngdfj.jpeg?q=70&crop=false "
+},
+{
+      "id":407 ,
+      "price":16390 ,
+      "category": "Single Door Refrigerators ",
+      "name":" SAMSUNG 183 L Direct Cool Single Door 4 Star Refrigerator with Base Drawer with Digital Inverter  (Camellia Blue, RR20C1824CU/HL) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/refrigerator-new/q/q/v/-original-imagwnkf8hamvbhu.jpeg?q=70&crop=false "
+},
+{
+      "id":408 ,
+      "price":15490 ,
+      "category": "Single Door Refrigerators ",
+      "name":" Haier 190 L Direct Cool Single Door 4 Star Refrigerator with Base Drawer  (MARINE PEONY, HED-204MFB-P) ",
+      "image":" https://rukminim2.flixcart.com/image/832/832/xif0q/refrigerator-new/7/t/g/-original-imagrt58ahjdmdwm.jpeg?q=70&crop=false"
+},
+{
+      "id":409 ,
+      "price":11676 ,
+      "category": "Single Door Refrigerators ",
+      "name":" Haier 175 L Direct Cool Single Door 2 Star Refrigerator  (Marine Erica, HED-182ME-N) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/refrigerator-new/g/z/v/-original-imagrt57y4whhesj.jpeg?q=70&crop=false "
+},
+{
+      "id":410 ,
+      "price":12590 ,
+      "category": "Single Door Refrigerators ",
+      "name":" Godrej 180 L Direct Cool Single Door 2 Star Refrigerator  (Pep Blue, RD EDGE 205B WRF PP BL) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/refrigerator-new/9/o/q/-original-imagsjwrgev8eabq.jpeg?q=70&crop=false "
+},
+{
+      "id":411 ,
+      "price":17890 ,
+      "category": "Single Door Refrigerators ",
+      "name":"SAMSUNG 189 L Direct Cool Single Door 5 Star Refrigerator with Base Drawer with Digital Inverter  (Camellia Blue, RR21C2H25CU/HL)  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/refrigerator-new/b/2/h/-original-imagwnjnnghcdyyu.jpeg?q=70&crop=false "
+},
+{
+      "id":412 ,
+      "price": 19999,
+      "category": "Single Door Refrigerators ",
+      "name":"LG 185 L Direct Cool Single Door 4 Star Refrigerator with Base Drawer with Smart Inverter Compressor  (Blue Euphoria, GL-D199OBEY)  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/refrigerator-new/7/6/b/-original-imagszgcghzrhhxv.jpeg?q=70&crop=false "
+},
+{
+      "id":413 ,
+      "price":20990 ,
+      "category": "Double Door Refrigerators ",
+      "name":" Haier 240 L Frost Free Double Door 2 Star Refrigerator  (Moon Silver, HEF-252EGS-P) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/refrigerator-new/m/a/h/-original-imagpgzcnh2heh3z.jpeg?q=70&crop=false "
+},
+{
+      "id":414 ,
+      "price":23990 ,
+      "category": "Double Door Refrigerators ",
+      "name":" Haier 240 L Frost Free Double Door 3 Star Convertible Refrigerator  (Moon Silver, HEF-253GS-P) ",
+      "image":" https://rukminim2.flixcart.com/image/832/832/xif0q/refrigerator-new/c/a/l/-original-imagrt57mtym2jzx.jpeg?q=70&crop=false"
+},
+{
+      "id":415 ,
+      "price":25990 ,
+      "category": "Double Door Refrigerators ",
+      "name":" LG 242 L Frost Free Double Door 3 Star Refrigerator with Smart Inverter  (Shiny Steel, GL-I292RPZX) ",
+      "image":" https://rukminim2.flixcart.com/image/832/832/xif0q/refrigerator-new/s/l/c/-original-imagxfgzkpgzu43f.jpeg?q=70&crop=false"
+},
+{
+      "id":416 ,
+      "price":19990 ,
+      "category": "Double Door Refrigerators ",
+      "name":"Godrej 223 L Frost Free Double Door 2 Star Refrigerator  (Steel Glow, RF EON 244B RI ST GL)  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/refrigerator-new/b/n/a/-original-imagpy9zh7dpxnvx.jpeg?q=70&crop=false "
+},
+{
+      "id": 417,
+      "price":23290 ,
+      "category": "Double Door Refrigerators ",
+      "name":" Whirlpool 235 L Frost Free Double Door 2 Star Refrigerator  (Magnum Steel, IF INV ELT DF278 Magnum Steel(2S)TL) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/refrigerator-new/f/h/y/-original-imagsuszv7uycfve.jpeg?q=70&crop=false "
+},
+{
+      "id": 418,
+      "price":26990 ,
+      "category": "Double Door Refrigerators ",
+      "name":"SAMSUNG 236 L Frost Free Double Door 3 Star Convertible Refrigerator with Digital Inverter with Display  (Elegant Inox, RT28C3733S8/HL)  ",
+      "image":" https://rukminim2.flixcart.com/image/832/832/xif0q/refrigerator-new/6/r/h/-original-imagw4snfvq3uqyc.jpeg?q=70&crop=false"
+},
+{
+      "id":419,
+      "price": 18490,
+      "category": "Double Door Refrigerators ",
+      "name":" CANDY 240 L Frost Free Double Door 2 Star Refrigerator  (Moonsilver, CDD2652MS) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/refrigerator-new/l/n/r/-original-imagtujpk9ezca9j.jpeg?q=70&crop=false "
+},
+{
+      "id":420 ,
+      "price":366490 ,
+      "category": "Double Door Refrigerators ",
+      "name":" Haier 358 L Frost Free Double Door 3 Star Convertible Refrigerator  (Inox Steel, HEF-363TS-P) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/refrigerator-new/y/8/5/-original-imagrt58egz9bybm.jpeg?q=70&crop=false "
+},
+{
+      "id":421 ,
+      "price":21990 ,
+      "category": "Double Door Refrigerators ",
+      "name":" Godrej 223 L Frost Free Double Door 3 Star Convertible Refrigerator  (Steel Rush, RT EONVALOR 260C RCIF ST RH) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/refrigerator-new/f/e/5/-original-imagvkkb3xteags3.jpeg?q=70&crop=false "
+},
+{
+      "id": 422,
+      "price":31490 ,
+      "category": "Triple Door Refrigerators ",
+      "name":" Whirlpool 300 L Frost Free Triple Door Refrigerator  (Alpha Steel (N), FP 313D PROTTON ROY Alpha Steel (N)) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/refrigerator-new/9/j/y/-original-imagt76kk4e2gq3j.jpeg?q=70&crop=false "
+},
+{
+      "id":423 ,
+      "price": 27890,
+      "category": "Triple Door Refrigerators ",
+      "name":"Whirlpool 260 L Frost Free Triple Door Refrigerator  (Alpha Steel (N), FP 283D PROTTON ROY ALPHA STEEL (N))  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/refrigerator-new/9/j/y/-original-imagt76kk4e2gq3j.jpeg?q=70&crop=false "
+},
+{
+      "id":424 ,
+      "price": 26190,
+      "category": "Triple Door Refrigerators ",
+      "name":" Whirlpool 240 L Frost Free Triple Door Refrigerator  (Magnum Steel, FP 263D PROTTON ROY MAGNUM STEEL(N)) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/refrigerator-new/9/j/y/-original-imagt76kk4e2gq3j.jpeg?q=70&crop=false "
+},
+{
+      "id":425 ,
+      "price":43600 ,
+      "category": "Triple Door Refrigerators ",
+      "name":" Whirlpool 300 L Frost Free Triple Door Refrigerator  (Steel Onyx, FP 313D PROTTON ROY STEEL ONYX (N)) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/refrigerator-new/w/a/1/-original-imaghgzayh3hhgrf.jpeg?q=70&crop=false "
+},
+{
+      "id":426 ,
+      "price":31305 ,
+      "category": "Triple Door Refrigerators ",
+      "name":" Whirlpool 260 L Frost Free Triple Door Refrigerator  (Wine Stream, FP 283D PROTTON ROY WINE STRM-21447) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/refrigerator-new/w/z/j/fp-283d-protton-roy-wine-strm-21447-1700-na-2023-60-whirlpool-original-imags3f6neh5wtnd.jpeg?q=70&crop=false "
+},
+{
+      "id":427 ,
+      "price":54990 ,
+      "category": "Triple Door Refrigerators ",
+      "name":" Godrej 564 L Frost Free Side by Side Refrigerator  (Platinum Steel, RS EONVELVET 579 RFD PL ST) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/refrigerator-new/f/m/a/-original-imagvjyunrqfzgve.jpeg?q=70&crop=false "
+},
+{
+      "id":428 ,
+      "price":26199 ,
+      "category": "Triple Door Refrigerators ",
+      "name":" Whirlpool 240 L Frost Free Triple Door Refrigerator  (Steel Onyx, FP 263D Protton Roy Steel Onyx (N)) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/refrigerator-new/w/a/1/-original-imaghgzayh3hhgrf.jpeg?q=70&crop=false "
+},
+
+{
+      "id":429,
+      "price":469 ,
+      "category": "Mens Men’s Sports Shoes ",
+      "name":" Fashion Lightweight Lace Up Mesh Sneaker Casual Walking Men Sports Running Shoes Running Shoes For Men  (Multicolor, Grey) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/c/i/b/9-get-arivo-multicolor-original-imagqvrb5bm9ggzy.jpeg?q=70&crop=false "
+},
+{
+      "id":430 ,
+      "price":749 ,
+      "category": "Mens Men’s Sports Shoes ",
+      "name":" Thar-01 Blue Sneakers,Sports,Training,Gym,Walking,Stylish Running Shoes For Men  (Blue, Orange) ",
+      "image":" https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/5/b/i/-original-imags8uswyx6bvg9.jpeg?q=70&crop=false"
+},
+{
+      "id":431 ,
+      "price":566 ,
+      "category": "Mens Men’s Sports Shoes ",
+      "name":"Premium Comfortable Regular Wear Walking Shoes For Men  (Black)  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/l/a/a/8-na-brd-979-8-birde-black-original-imagzh3mgeh7ygda.jpeg?q=70&crop=false "
+},
+{
+      "id":432 ,
+      "price": 369,
+      "category": "Mens Men’s Sports Shoes ",
+      "name":" Trendy Running Shoes Running Shoes For Men  (Blue) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/r/e/m/-original-imagsfdvuffvqx4x.jpeg?q=70&crop=false "
+},
+{
+      "id":433 ,
+      "price":2300 ,
+      "category": "Mens Men’s Sports Shoes ",
+      "name":" Cricket Power Cricket Shoes For Men  (Blue) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/t/j/l/-original-imagqe2zyaszdqwd.jpeg?q=70&crop=false "
+},
+{
+      "id":434 ,
+      "price":1099 ,
+      "category": "Mens Men’s Sports Shoes ",
+      "name":" ABACUS Running Shoes For Men  (Multicolor) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/p/x/n/6-abacus-6-density-c-green-original-imaghe5jw7zcq5gp.jpeg?q=70&crop=false "
+},
+{
+      "id":435 ,
+      "price":1829 ,
+      "category": "Mens Men’s Sports Shoes ",
+      "name":" Sports Athleisure Shoes for Men | Soft Cushioned Insole, Slip-Resistance Walking Shoes For Men  (Blue) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/b/x/i/9-rso3844-red-tape-metallic-blue-original-imagwegtxc88hqby.jpeg?q=70&crop=false "
+},
+{
+      "id":436 ,
+      "price":901 ,
+      "category": "Mens Men’s Sports Shoes ",
+      "name":" ROYCE-2 Running Shoes For Men  (Grey) ",
+      "image":" https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/8/a/7/-original-imagsn6pmxggwvtf.jpeg?q=70&crop=false"
+},
+{
+      "id":437 ,
+      "price":1935 ,
+      "category": "Mens Men’s Sports Shoes ",
+      "name":"Wired Run Walking Shoes For Men  (Black)  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/d/d/v/-original-imagg3a7gszzvub3.jpeg?q=70&crop=false "
+},
+{
+      "id":438 ,
+      "price":1310 ,
+      "category": "Mens Men’s Sports Shoes ",
+      "name":" ABACUS Running Shoes For Men  (Multicolor) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/3/t/d/-original-imagqfwch3sz4gbt.jpeg?q=70&crop=false "
+},
+{
+      "id":439 ,
+      "price": 999,
+      "category": "Mens Men’s Sports Shoes ",
+      "name":"CAMP KARL Training & Gym Shoes For Men  (White)  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/h/t/r/7-22g-148-campus-wht-blk-original-imaghxhbeympvxgp.jpeg?q=70&crop=false "
+},
+{
+      "id":440 ,
+      "price":279 ,
+      "category": "Men’s Casual Shoes ",
+      "name":" FK- MXO Premium Slip On Sneakers For Men  (Black) ",
+      "image":" https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/c/u/u/-original-imagg4kpz6ehhxfg.jpeg?q=70&crop=false"
+},
+{
+      "id":441 ,
+      "price":299 ,
+      "category": "Men’s Casual Shoes ",
+      "name":" Trending Stylish Casual Outdoor Sneakers Shoes For Men Sneakers For Men  (White, Black) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/7/z/r/8-white-leaf-8-urbanbox-white-black-original-imagvgf4cuzs2hrw.jpeg?q=70&crop=false "
+},
+{
+      "id":442 ,
+      "price": 319,
+      "category": "Men’s Casual Shoes ",
+      "name":" Sneakers For Men  (White) ",
+      "image":" https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/t/8/t/6-grey-6-roaster-grey-original-imagwfzwyq3wyfch.jpeg?q=70&crop=false"
+},
+{
+      "id":443 ,
+      "price":449 ,
+      "category": "Men’s Casual Shoes ",
+      "name":" High Tops For Men  (White) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/n/i/5/10-jimny-white-10-sfr-white-original-imagnq8hrmt8a9zs.jpeg?q=70&crop=false "
+},
+{
+      "id":444 ,
+      "price":449 ,
+      "category": "Men’s Casual Shoes ",
+      "name":" Casual Sneakers Colour Blocked Shoes For Boys And Men Sneakers For Men  (Blue, White) ",
+      "image":" https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/f/h/s/6-787-labbin-blue-original-imagngj4ycr5m9vz.jpeg?q=70&crop=false"
+},
+{
+      "id":445 ,
+      "price":449 ,
+      "category": "Men’s Casual Shoes ",
+      "name":" Casual Sneakers Colour Blocked Shoes For Boys And Men Sneakers For Men  (Brown, White) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/t/h/o/6-786-labbin-brown-original-imagngj44gw4mzvd.jpeg?q=70&crop=false "
+},
+{
+      "id":446 ,
+      "price":5036 ,
+      "category": "Men’s Casual Shoes ",
+      "name":"Court Borough Mid Sneakers For Men  (White)  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/5/r/e/-original-imagx9kx9zkbhrvr.jpeg?q=70&crop=false "
+},
+{
+      "id":447 ,
+      "price":2070 ,
+      "category": "Men’s Casual Shoes ",
+      "name":" ST Runner v3 Mesh Sneakers For Men  (Grey) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/s/0/n/6-384640-6-puma-silver-mist-white-club-navy-for-all-time-red-original-imagw5w4etgeyxkg.jpeg?q=70&crop=false "
+},
+{
+      "id":448 ,
+      "price":799 ,
+      "category": "Men’s Casual Shoes ",
+      "name":" Casual Sneaker Shoes For Men | Enhanced Comfort with Cushioned Insole High Tops For Men  (White, Blue) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/o/t/i/-original-imagt73g8uzfstcw.jpeg?q=70&crop=false "
+},
+{
+      "id":449 ,
+      "price": 390,
+      "category": "Men’s Formal Shoes ",
+      "name":" lestest Formal shoes/Comfortable shoes black/Stylish shoes/Party wear shoes/synthetic leather shoes/formal black shoes/light weight shoes/shoes for men/shoes/black shoes for men/official shoes for men black/black shoes for men(BLACK) Derby For Men  (Black) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/2/1/u/-original-imagg3a7zebhan9f.jpeg?q=70&crop=false "
+},
+{
+      "id":450 ,
+      "price":2989 ,
+      "category": "Men’s Formal Shoes ",
+      "name":" Oxford For Men  (Tan) ",
+      "image":" https://rukminim2.flixcart.com/image/832/832/l1mh7rk0/shoe/r/w/u/8-lpsccrgil220014-42-louis-philippe-tan-original-imagd5fhtrhhygws.jpeg?q=70&crop=false"
+},
+{
+      "id":451 ,
+      "price":645 ,
+      "category": "Men’s Formal Shoes ",
+      "name":"Aaeshu Men and boys stylish and comfortable black color formal shoe Lace Up For Men  (Black)  ",
+      "image":" https://rukminim2.flixcart.com/image/832/832/kcw9w280/shoe/a/t/5/a-a-25002-formal-shoe-43-aaeshu-black-original-imaftwsvnzqhwvhy.jpeg?q=70&crop=false"
+},
+{
+      "id":452 ,
+      "price":508 ,
+      "category": "Men’s Formal Shoes ",
+      "name":"Slip On For Men  (Black)  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/9/0/c/10-holli-301-10-aadi-black-original-imagdzrqbusb2vxy-bb.jpeg?q=70&crop=false "
+},
+{
+      "id":453 ,
+      "price":950 ,
+      "category": "Men’s Formal Shoes ",
+      "name":" Grip-Remo M1 Slip On For Men  (Black) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/k/v/t/-original-imaggcewy9wwhmhr.jpeg?q=70&crop=false "
+},
+{
+      "id": 454,
+      "price":390 ,
+      "category": "Men’s Formal Shoes ",
+      "name":" lestest Formal shoes/Comfortable shoes black/Stylish shoes/Party wear shoes/synthetic leather shoes/formal black shoes/light weight shoes/shoes for men/shoes/black shoes for men/official shoes for men black/black shoes for men(BLACK) Derby For Men  (Black) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/8/a/g/-original-imaghvbbuutyqjjc.jpeg?q=70&crop=false "
+},
+{
+      "id":455 ,
+      "price":669 ,
+      "category": "Men’s Formal Shoes ",
+      "name":" Derby For Men  (Brown) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/z/z/i/6-pg-fm106-provogue-brown-original-imagrfhdbphnk4xy.jpeg?q=70&crop=false "
+},
+{
+      "id":456 ,
+      "price": 1019,
+      "category": "Men’s Formal Shoes ",
+      "name":" For Men  (Black) ",
+      "image":" https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/g/k/h/-original-imaggdy8vpknnsjg.jpeg?q=70&crop=false"
+},
+{
+      "id":457 ,
+      "price":1661 ,
+      "category": "Men’s Formal Shoes ",
+      "name":" New Premium formal leather derby shoes for men Derby For Men  (Black) ",
+      "image":" https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/n/e/f/9-ht6011athens-black-hautton-black-original-imaghhrffm52x9rt.jpeg?q=70&crop=false"
+},
+{
+      "id":458 ,
+      "price":5036 ,
+      "category": "Men’s Sandals & Floaters ",
+      "name":"Men Canyon Black Sandal  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/sandal/0/t/e/-original-imagxe2tdj2gvudq.jpeg?q=70&crop=false "
+},
+{
+      "id": 459,
+      "price":249 ,
+      "category": "Men’s Sandals & Floaters ",
+      "name":" Men Black Sandal ",
+      "image":" https://rukminim2.flixcart.com/image/832/832/xif0q/sandal/i/b/b/6-192-sndl-black-40-bruton-black-original-image3x2hha3cjuz-bb.jpeg?q=70&crop=false"
+},
+{
+      "id":460 ,
+      "price":169 ,
+      "category": "Men’s Sandals & Floaters ",
+      "name":" Men White Clogs Sandal ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/sandal/y/t/y/8-kc140-white-k-footlance-white-original-imagg7gggethqv7k.jpeg?q=70&crop=false "
+},
+{
+      "id":461 ,
+      "price": 747,
+      "category": "Men’s Sandals & Floaters ",
+      "name":"Men Olive Clogs Sandal  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/sandal/n/9/8/9-rover-men-red-tape-navy-blue-original-imagzjusmhu6pkvv.jpeg?q=70&crop=false "
+},
+{
+      "id":462 ,
+      "price":299 ,
+      "category": "Men’s Sandals & Floaters ",
+      "name":" Men Black Sandal ",
+      "image":" https://rukminim2.flixcart.com/image/832/832/xif0q/sandal/g/o/b/6-mrj1627-6-aadi-black-original-imagfd3cpcz4uyjk-bb.jpeg?q=70&crop=false"
+},
+{
+      "id":463 ,
+      "price":509 ,
+      "category": "Men’s Sandals & Floaters ",
+      "name":" Men ART Black Sports Sandal ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/sandal/z/f/f/-original-imaggcb6e4jpgk9h.jpeg?q=70&crop=false "
+},
+{
+      "id":464 ,
+      "price":1035 ,
+      "category": "Men’s Sandals & Floaters ",
+      "name":"Men Zeal Black Sports Sandal  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/kzrbiq80/sandal/7/s/k/9-381396-9-puma-black-silver-original-imagbzu3rvuygspx.jpeg?q=70&crop=false "
+},
+{
+      "id":465 ,
+      "price":839 ,
+      "category": "Men’s Sandals & Floaters ",
+      "name":" Men Grey Casual Sandal ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/sandal/d/s/v/6-gc-22110-campus-d-gry-blk-original-imaggm3djeuepg5w.jpeg?q=70&crop=false "
+},
+{
+      "id":466 ,
+      "price":799 ,
+      "category": "Men’s Sandals & Floaters ",
+      "name":"Men Comfort, Anti-Skid Navy Clogs Sandal  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/sandal/o/b/k/6-mneo2155g-6-aqualite-nbnb-original-imagqtnrpktjw6gd.jpeg?q=70&crop=false "
+},
+{
+      "id":467 ,
+      "price":429 ,
+      "category": "Men’s Slippers & Flip Flops ",
+      "name":" 4 Pairs|EVA|Ultralightweight|Premium|Comfort|All Seasons|Trendy|Slippers Men Slippers  (Multicolor 9) ",
+      "image":" https://rukminim2.flixcart.com/image/832/832/xif0q/slipper-flip-flop/p/i/h/10-375bg-375bk-375gr-375gry-footup-beige-black-green-grey-original-imagsna6kh4phabg.jpeg?q=70&crop=false"
+},
+{
+      "id":468 ,
+      "price":899 ,
+      "category": "Men’s Slippers & Flip Flops ",
+      "name":"Men Slides  (Grey, Navy 6)  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/slipper-flip-flop/m/y/n/8-rds0131-redtape-light-grey-navy-original-imagwejmatqrxjvy.jpeg?q=70&crop=false "
+},
+{
+      "id":469 ,
+      "price":159 ,
+      "category": "Men’s Slippers & Flip Flops ",
+      "name":" Mens extra soft & stylish slippers lightweight & Durable flip flops Trending Men Slippers  (Black 6) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/slipper-flip-flop/x/j/s/10-black-art-02-hambler-black-original-imagrzkkejnfvqar.jpeg?q=70&crop=false "
+},
+{
+      "id":470 ,
+      "price":127 ,
+      "category": "Men’s Slippers & Flip Flops ",
+      "name":"Men's Premium Quality Light Weight Flipflops & Men Slippers  (Red 10)  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/slipper-flip-flop/n/s/3/-original-imagg4zh9kr7wasa.jpeg?q=70&crop=false "
+},
+{
+      "id":471 ,
+      "price":1436 ,
+      "category": "Men’s Slippers & Flip Flops ",
+      "name":"Victori One Next Nature Men Slides  (Black 11)  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/slipper-flip-flop/2/w/7/-original-imagtehhrngqergr.jpeg?q=70&crop=false "
+},
+{
+      "id": 472,
+      "price": 929,
+      "category": "Men’s Slippers & Flip Flops ",
+      "name":"Purecat Men Slides  (White 9)  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/slipper-flip-flop/m/s/t/3-360262-puma-black-white-original-imaggzf3stgfhdxz.jpeg?q=70&crop=false "
+},
+{
+      "id":473 ,
+      "price":127 ,
+      "category": "Men’s Slippers & Flip Flops ",
+      "name":" Men's Premium Quality Light Weight Flipflops & Men Slippers  (Grey 7) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/kyrlifk0/slipper-flip-flop/d/w/n/9-bg-128-grey-mediwalk-grey-original-imagaxgmcfptevre.jpeg?q=70&crop=false "
+},
+{
+      "id": 474,
+      "price":289 ,
+      "category": "Men’s Slippers & Flip Flops ",
+      "name":" Men Slippers  (Blue 9) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/slipper-flip-flop/z/f/0/8-wg5002-walkaroo-blue-original-imagxa7x8ynnhgzk.jpeg?q=70&crop=false "
+},
+{
+      "id":475 ,
+      "price":999 ,
+      "category": "Men’s Slippers & Flip Flops ",
+      "name":" Leadcat 2.0 Men Slides  (Black 7) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/slipper-flip-flop/j/r/a/3-395229-puma-black-white-original-imaguw722edtur25.jpeg?q=70&crop=false "
+},
+{
+      "id":476 ,
+      "price":1082 ,
+      "category": "Boots Men’s Casual Shoes ",
+      "name":" Sneaker Casual Shoes for Men | Soft Cushioned Boots For Men  (Grey) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/t/h/c/9-xt362gery-xtreamfeet-grey-original-imagvqeqyudyyxcz.jpeg?q=70&crop=false "
+},
+{
+      "id":477 ,
+      "price":999 ,
+      "category": "Boots Men’s Casual Shoes ",
+      "name":"Boots For Men  (Brown)  ",
+      "image":" https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/k/9/o/9-ld5278-9-layasa-brown-original-imagqq2pzfejrmab.jpeg?q=70&crop=false"
+},
+{
+      "id":478 ,
+      "price":322 ,
+      "category": "Boots Men’s Casual Shoes ",
+      "name":"Boxer Boots For Men  (Blue)  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/n/x/g/-original-imagq64byyug9ang.jpeg?q=70&crop=false "
+},
+{
+      "id":479 ,
+      "price":2553 ,
+      "category": "Boots Men’s Casual Shoes ",
+      "name":" Men Boots For Men  (Black, Grey) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/s/l/x/-original-imagsbx47zfwqgzy.jpeg?q=70&crop=false "
+},
+{
+      "id":480 ,
+      "price":2081 ,
+      "category": "Boots Men’s Casual Shoes ",
+      "name":" Delize Derby Boots For Men  (Black) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/n/m/5/7-6643-7-delize-black-original-imagt5ucrzjfhrch.jpeg?q=70&crop=false "
+},
+{
+      "id":481 ,
+      "price": 549,
+      "category": "Boots Men’s Casual Shoes ",
+      "name":"DMS Police/NCC Black Boots For Men  (Black)  ",
+      "image":" https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/1/3/c/-original-imagr6wnyhvqyudq.jpeg?q=70&crop=false"
+},
+{
+      "id":482 ,
+      "price":2482 ,
+      "category": "Boots Men’s Casual Shoes ",
+      "name":"Boots For Men  (Grey)  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/d/n/a/-original-imagsc2pvvhjsg49.jpeg?q=70&crop=false "
+},
+{
+      "id":483 ,
+      "price":1274 ,
+      "category": "Boots Men’s Casual Shoes ",
+      "name":"Silver plain cool chain detailed Black Ankle Boots For Women & Girls Boots For Men  (Black)  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/u/v/m/7-bt-60-shoetopia-black-original-imagvvymuzubqjyz.jpeg?q=70&crop=false "
+},
+{
+      "id":484 ,
+      "price":1499 ,
+      "category": "Boots Men’s Casual Shoes ",
+      "name":" EVEREST High Ankle 6 inches Riding Boots for Mountaineering Hiking & Trekking Boots For Men  (Grey) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/u/w/z/-original-imagtbtgsyk27zqn.jpeg?q=70&crop=false "
+},
+{
+      "id":485 ,
+      "price":349 ,
+      "category": "Men's T Shirts ",
+      "name":" Men Solid Round Neck Cotton Blend Black T-Shirt ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/w/5/e/xl-tsh1277-1283-shienzy-original-imagszezvfzdupvx.jpeg?q=70&crop=false "
+},
+{
+      "id":486 ,
+      "price":503 ,
+      "category": "Men's T Shirts ",
+      "name":" Army Comfort Fit Men Printed Round Neck Cotton Blend Black T-Shirt ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/e/1/h/-original-imagu97c74w3et8e.jpeg?q=70&crop=false "
+},
+{
+      "id": 487,
+      "price":389 ,
+      "category": "Men's T Shirts ",
+      "name":" Pack of 2 Men Printed Round Neck Polyester Pink, Dark Green T-Shirt ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/p/f/f/s-tsrt-catalog-03-kajaru-original-imagqktmfsngyvsg.jpeg?q=70&crop=false "
+},
+{
+      "id":488 ,
+      "price":306 ,
+      "category": "Men's T Shirts ",
+      "name":"Men Colorblock Round Neck Pure Cotton Light Blue T-Shirt  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/shopsy-t-shirt/4/x/x/l-krop-t-shopsy-colorblock-0702-kroptee-original-imagkrjz3zhqd8nx.jpeg?q=70&crop=false "
+},
+{
+      "id":489 ,
+      "price":279 ,
+      "category": "Men's T Shirts ",
+      "name":" Men Printed, Typography Round Neck Cotton Blend Light Blue T-Shirt ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/sweatshirt/n/f/3/l-ausk9085-ausk-original-imaguh9yur459mgr.jpeg?q=70&crop=false "
+},
+{
+      "id":490 ,
+      "price":334 ,
+      "category": "Men's T Shirts ",
+      "name":" Men Printed, Typography Round Neck Pure Cotton Blue T-Shirt ",
+      "image":" https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/q/f/o/xxl-urm006031p-urgear-original-imagn9vxbrz4ntur.jpeg?q=70&crop=false"
+},
+{
+      "id":491 ,
+      "price":299 ,
+      "category": "Men's T Shirts ",
+      "name":" Men Printed Round Neck Pure Cotton Multicolor T-Shirt ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/k/t/e/s-urm001741p-urgear-original-imagr998fk7aebux.jpeg?q=70&crop=false "
+},
+{
+      "id":492 ,
+      "price":299 ,
+      "category": "Men's T Shirts ",
+      "name":"Men Colorblock Round Neck Cotton Blend Multicolor T-Shirt  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/z/a/s/s-t653-blphwh-eyebogler-original-imaghyjvbnhuguzh.jpeg?q=70&crop=false "
+},
+{
+      "id":493 ,
+      "price":439 ,
+      "category": "Men's T Shirts ",
+      "name":" Pack of 4 Men Solid Round Neck Polyester Silver, Light Blue, Blue, Black T-Shirt ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/n/g/t/l-723-2-3-5-7-ftx-original-imagtyp84nrhjbru.jpeg?q=70&crop=false "
+},
+{
+      "id":494 ,
+      "price":439 ,
+      "category": "Men's Formal Shirts ",
+      "name":"Men Regular Fit Solid Cut Away Collar Formal Shirt  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/shopsy-shirt/u/c/k/m-ps-black-perun-original-imaggpbhuv6nd8kf.jpeg?q=70&crop=false "
+},
+{
+      "id":495 ,
+      "price":299 ,
+      "category": "Men's Formal Shirts ",
+      "name":" Men Regular Fit Solid Spread Collar Formal Shirt ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/b/d/f/3xl-13-lstr-wine-vtexx-original-imagnzbummhkgr7p.jpeg?q=70&crop=false "
+},
+{
+      "id":496 ,
+      "price":299 ,
+      "category": "Men's Formal Shirts ",
+      "name":"Men Regular Fit Solid Spread Collar Formal Shirt  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/kwzap3k0/shirt/g/q/9/m-lstr-grey-p-v-creations-original-imag9jggsvfcgpp4.jpeg?q=70&crop=false "
+},
+{
+      "id":497 ,
+      "price":339 ,
+      "category": "Men's Formal Shirts ",
+      "name":" Men Regular Fit Solid Button Down Collar Formal Shirt ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/u/g/h/s-frml-st2-vebnor-original-imagtyvbawmgmbwr.jpeg?q=70&crop=false "
+},
+{
+      "id":498 ,
+      "price": 344,
+      "category": "Men's Formal Shirts ",
+      "name":" Men Regular Fit Solid Formal Shirt ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/p/1/q/m-upper1-s-k-casual-original-imagu7psug4fgtjy.jpeg?q=70&crop=false "
+},
+{
+      "id":499 ,
+      "price":349 ,
+      "category": "Men's Formal Shirts ",
+      "name":" Men Slim Fit Solid Spread Collar Formal Shirt ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/e/i/h/xxl-men-regular-slim-fit-solid-button-down-collar-formal-shirt-original-imaggvvnywmgthyq.jpeg?q=70&crop=false "
+},
+{
+      "id":500 ,
+      "price":319 ,
+      "category": "Men's Formal Shirts ",
+      "name":"Men Regular Fit Solid Button Down Collar Formal Shirt  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/1/e/f/xxl-frml-st2-vebnor-original-imagqwxhfzftdupb.jpeg?q=70&crop=false "
+},
+{
+      "id":501 ,
+      "price":349 ,
+      "category": "Men's Formal Shirts ",
+      "name":" Men Slim Fit Solid Spread Collar Formal Shirt ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/v/g/u/s-r-stbrg-stoneberg-original-imaghf7mfydfgfxg.jpeg?q=70&crop=false "
+},
+{
+      "id":502 ,
+      "price":339 ,
+      "category": "Men's Formal Shirts ",
+      "name":" Men Regular Fit Solid Button Down Collar Formal Shirt ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/m/m/o/m-frml-st2-vebnor-original-imagqwwjegahb84t.jpeg?q=70&crop=false "
+},
+{
+      "id":503 ,
+      "price":498 ,
+      "category": "Men's Casual Shirts ",
+      "name":" Men Regular Fit Checkered Spread Collar Casual Shirt  (Pack of 2) ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/o/h/p/l-brwonbigbluecheck-youth-first-original-imaghy7hrkuhjtfh.jpeg?q=70&crop=false "
+},
+{
+      "id":504 ,
+      "price":389 ,
+      "category": "Men's Casual Shirts ",
+      "name":"Men Regular Fit Solid Spread Collar Casual Shirt  ",
+      "image":" https://rukminim2.flixcart.com/image/832/832/kzn17680/shirt/0/q/o/l-logo-shirt-infinity-choice-original-imagbhwczbphzk5f.jpeg?q=70&crop=false"
+},
+{
+      "id":505 ,
+      "price": 498,
+      "category": "Men's Casual Shirts ",
+      "name":"Men Regular Fit Checkered Spread Collar Casual Shirt  (Pack of 2)  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/s/w/d/l-blackcheck-whitecheck-youth-first-original-imaghy7kx93whnar.jpeg?q=70&crop=false "
+},
+{
+      "id":506 ,
+      "price":390 ,
+      "category": "Men's Casual Shirts ",
+      "name":" Men Regular Fit Checkered Casual Shirt ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/r/o/2/-original-imagfaekzudfuhvd-bb.jpeg?q=70&crop=false "
+},
+{
+      "id":507 ,
+      "price": 249,
+      "category": "Men's Casual Shirts ",
+      "name":"Men Regular Fit Printed Spread Collar Casual Shirt  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/c/o/e/s-st10-vebnor-original-imagzdsu8hkehz8f.jpeg?q=70&crop=false "
+},
+{
+      "id":508 ,
+      "price": 1169,
+      "category": "Men's Casual Shirts ",
+      "name":" Men Regular Fit Checkered Cut Away Collar Casual Shirt ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/a/e/r/xxl-1122-shcccpyd-07-01-the-indian-garage-co-original-imagmzgfnta4abej.jpeg?q=70&crop=false "
+},
+{
+      "id":509 ,
+      "price":1007 ,
+      "category": "Men's Casual Shirts ",
+      "name":" Men Slim Fit Printed Spread Collar Casual Shirt ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/u/0/0/4xl-mfs-13254-p-05-navy-mufti-original-imaggz4du4wh3mqu.jpeg?q=70&crop=false "
+},
+{
+      "id":510 ,
+      "price":1072 ,
+      "category": "Men's Casual Shirts ",
+      "name":" Men Slim Fit Checkered Button Down Collar Casual Shirt ",
+      "image":" https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/p/q/x/xl-tbh-tally-bk-the-bear-house-original-imagtjezg5rjhpuu.jpeg?q=70&crop=false"
+},
+{
+      "id":511 ,
+      "price":1199 ,
+      "category": "Men's Casual Shirts ",
+      "name":" Men Regular Fit Checkered Casual Shirt ",
+      "image":" https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/e/3/m/40-assfmmofw95706-allen-solly-original-imagupvaezyu2pcx.jpeg?q=70&crop=false"
+},
+{
+      "id": 512,
+      "price":415 ,
+      "category": "Men's Jeans ",
+      "name":"Men Slim Mid Rise Black Jeans  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/jean/u/q/o/30-pgmj-014-podge-original-imag49dmktkm8ckh-bb.jpeg?q=70&crop=false "
+},
+{
+      "id":513 ,
+      "price":399 ,
+      "category": "Men's Jeans ",
+      "name":" Men Tapered Fit Mid Rise Black Jeans ",
+      "image":" https://rukminim2.flixcart.com/image/832/832/xif0q/jean/u/e/o/30-g2-mj-gr-103-comfits-original-imagrquh8vqz9znc.jpeg?q=70&crop=false"
+},
+{
+      "id":514 ,
+      "price":269 ,
+      "category": "Men's Jeans ",
+      "name":"Men Slim Mid Rise Black Jeans  ",
+      "image":" https://rukminim2.flixcart.com/image/832/832/kqgyhe80/jean/u/j/d/34-knee-black-jeans-creatywitty-original-imag4guynzg2fgqt.jpeg?q=70&crop=false"
+},
+{
+      "id":515 ,
+      "price":429 ,
+      "category": "Men's Jeans ",
+      "name":"Men Regular Mid Rise Dark Blue Jeans  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/jean/l/7/q/34-jeans-metronaut-original-imags5ab2xhbbx9y.jpeg?q=70&crop=false "
+},
+{
+      "id": 516,
+      "price": 369,
+      "category": "Men's Jeans ",
+      "name":"Men Slim Mid Rise White Jeans  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/krgohow0/jean/6/x/h/28-mx-rpwht-cut-28-getstyle4you-original-imag59akca42hr4t.jpeg?q=70&crop=false "
+},
+{
+      "id": 517,
+      "price":399 ,
+      "category": "Men's Jeans ",
+      "name":" Men Slim Mid Rise Grey Jeans ",
+      "image":" https://rukminim2.flixcart.com/image/832/832/xif0q/jean/l/l/u/34-r1101ha-rasso-original-imaghfshkfafzjde.jpeg?q=70&crop=false"
+},
+{
+      "id":518 ,
+      "price":769 ,
+      "category": "Men's Jeans ",
+      "name":" Men Slim Mid Rise Light Blue Jeans ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/jean/c/x/l/38-epsrustsprcrs-lblue-urbano-fashion-original-imaftzru2pwn2hyd-bb.jpeg?q=70&crop=false "
+},
+{
+      "id":519 ,
+      "price":569 ,
+      "category": "Men's Jeans ",
+      "name":"Men Skinny Mid Rise Dark Blue Jeans  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/jean/r/b/g/30-10092105-roadster-original-imafm65xmvwf4b4f-bb.jpeg?q=70&crop=false "
+},
+{
+      "id":520 ,
+      "price": 450,
+      "category": "Men's Jeans ",
+      "name":" Men Skinny Mid Rise Blue Jeans ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/kflftzk0-0/jean/9/e/x/28-8962325-roadster-original-imafwyesxwvcawmd.jpeg?q=70&crop=false "
+},
+{
+      "id": 521,
+      "price":720 ,
+      "category": "Men's Casual Trousers ",
+      "name":" Men Slim Fit Blue Cotton Blend Trousers ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/trouser/r/v/0/-original-imaghhubv7gcnytz.jpeg?q=70&crop=false "
+},
+{
+      "id": 522,
+      "price":566 ,
+      "category": "Men's Casual Trousers ",
+      "name":" Men Regular Fit Light Green Pure Cotton Trousers ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/l47cu4w0/trouser/p/h/j/32-khtr000304-ketch-original-imagf5hfmyjvrve9.jpeg?q=70&crop=false "
+},
+{
+      "id": 523,
+      "price":299 ,
+      "category": "Men's Casual Trousers ",
+      "name":"Men Slim Fit Black Lycra Blend Trousers  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/trouser/j/e/3/28-singlebutton-black-combraided-original-imagwk4zjqztntxk.jpeg?q=70&crop=false "
+},
+{
+      "id":524 ,
+      "price":479 ,
+      "category": "Men's Casual Trousers ",
+      "name":"Men Regular Fit Light Green Cotton Blend Trousers  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/klscivk0/trouser/q/q/k/28-sktr-4242-olv-fubar-original-imagyuff8uq6cxny.jpeg?q=70&crop=false "
+},
+{
+      "id":525 ,
+      "price":780 ,
+      "category": "Men's Casual Trousers ",
+      "name":"Men Regular Fit Green Cotton Blend Trousers  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/trouser/8/k/b/-original-imaghhwzfaq6w7wt.jpeg?q=70&crop=false "
+},
+{
+      "id":526 ,
+      "price":800 ,
+      "category": "Men's Casual Trousers ",
+      "name":"Men Slim Fit Green Cotton Blend Trousers  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/jvtujrk0/trouser/t/h/w/32-2145329-roadster-original-imafgmqzkgpzmcwp.jpeg?q=70&crop=false "
+},
+{
+      "id":527 ,
+      "price":349 ,
+      "category": "Men's Casual Trousers ",
+      "name":"Men Slim Fit Cream Linen Blend Trousers  ",
+      "image":" https://rukminim2.flixcart.com/image/832/832/xif0q/trouser/e/a/v/36-pic-pt190e051-indiclub-original-imagtyu5zekmdkvy.jpeg?q=70&crop=false"
+},
+{
+      "id": 528,
+      "price":941 ,
+      "category": "Men's Casual Trousers ",
+      "name":" Men Slim Fit Green Cotton Blend Trousers ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/trouser/s/v/n/30-hltr005159-highlander-original-imagzzxzcjknqacd.jpeg?q=70&crop=false "
+},
+{
+      "id":529 ,
+      "price": 549,
+      "category": "Men's Casual Trousers ",
+      "name":" Men Slim Fit Light Blue Cotton Blend Trousers ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/trouser/m/i/w/32-hltr003910-highlander-original-imafw2ju6uhhbkhc-bb.jpeg?q=70&crop=false "
+},
+{
+      "id":530 ,
+      "price":480 ,
+      "category": "Men's Formal Trousers ",
+      "name":"Men Slim Fit Black Cotton Blend Trousers  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/trouser/z/y/6/28-black230150-pesado-original-imaguy9yevuyvpzf.jpeg?q=70&crop=false "
+},
+{
+      "id":531 ,
+      "price":449 ,
+      "category": "Men's Formal Trousers ",
+      "name":"Men Slim Fit Dark Green Polycotton Trousers  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/trouser/v/l/8/30-pro-st-mg-provogue-original-imagm7hhhszwzypp.jpeg?q=70&crop=false "
+},
+{
+      "id":532 ,
+      "price":338 ,
+      "category": "Men's Formal Trousers ",
+      "name":" Men Slim Fit Light Green Lycra Blend Trousers ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/trouser/l/y/8/30-ic-pt190f047-indiclub-original-imagsycssysrhdac.jpeg?q=70&crop=false "
+},
+{
+      "id":533 ,
+      "price": 1689,
+      "category": "Men's Formal Trousers ",
+      "name":"Men Slim Fit Grey Pure Cotton Trousers  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/trouser/y/0/w/-original-imagtamfhxevjyjx.jpeg?q=70&crop=false "
+},
+{
+      "id":534 ,
+      "price":349 ,
+      "category": "Men's Formal Trousers ",
+      "name":" Men Slim Fit Brown Lycra Blend Trousers ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/trouser/m/h/l/36-ic-pt190f050-indiclub-original-imagsz5tpaatb6gh.jpeg?q=70&crop=false "
+},
+{
+      "id": 535,
+      "price":389 ,
+      "category": "Men's Formal Trousers ",
+      "name":" Men Slim Fit White Polycotton Trousers ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/trouser/e/m/v/32-non-den-trouser-35-32-kundan-original-imafw2jxgap25gnr-bb.jpeg?q=70&crop=false "
+},
+{
+      "id": 536,
+      "price": 1081,
+      "category": "Men's Formal Trousers ",
+      "name":" Men Slim Fit Grey Polyester Trousers ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/trouser/s/w/x/-original-imagu6zpyrfrxj2g.jpeg?q=70&crop=false "
+},
+{
+      "id": 537,
+      "price":399 ,
+      "category": "Men's Formal Trousers ",
+      "name":"Men Slim Fit Grey Viscose Rayon Trousers  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/trouser/q/o/y/40-cypv-f-cyphus-original-imagqezarctsrydm.jpeg?q=70&crop=false "
+},
+{
+      "id":538 ,
+      "price":369 ,
+      "category": "Men's Formal Trousers ",
+      "name":"Men Slim Fit Dark Blue Lycra Blend Trousers  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/trouser/b/u/0/32-ic-pt19045-indiclub-original-imagsycjj7yym2aq.jpeg?q=70&crop=false "
+},
+{
+      "id": 539,
+      "price":199 ,
+      "category": "Men's Track Pants ",
+      "name":" Men Striped Grey Track Pants ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/track-pant/a/8/e/m-tr-81-foxter-original-imagnjtsuheubybc.jpeg?q=70&crop=false "
+},
+{
+      "id":540 ,
+      "price":719 ,
+      "category": "Men's Track Pants ",
+      "name":"Pack of 2 Men Solid Grey, Black Track Pants  ",
+      "image":" https://rukminim2.flixcart.com/image/832/832/xif0q/track-pant/7/e/o/m-2-vs-combo-zurich-addiz-original-imagwegrrrcgsgev.jpeg?q=70&crop=false"
+},
+{
+      "id":541 ,
+      "price":399 ,
+      "category": "Men's Track Pants ",
+      "name":"Pack of 2 Men Printed Black, Grey Track Pants  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/track-pant/h/r/k/5xl-tbljogj36-gyjogj37-tripr-original-imagmenprhxpmjzy.jpeg?q=70&crop=false "
+},
+{
+      "id":542 ,
+      "price":299 ,
+      "category": "Men's Track Pants ",
+      "name":"Pack of 2 Men Solid Black, Grey Track Pants  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/track-pant/r/c/y/l-p2-grey-203-202-henzila-original-imagzmrywdemg6ns.jpeg?q=70&crop=false "
+},
+{
+      "id":543 ,
+      "price":879 ,
+      "category": "Men's Track Pants ",
+      "name":"Men Solid Black Track Pants  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/l4yi7bk0/track-pant/n/r/n/-original-imagfryjzye7t5a3.jpeg?q=70&crop=false "
+},
+{
+      "id":544 ,
+      "price":2012 ,
+      "category": "Men's Track Pants ",
+      "name":" Men Solid Black Track Pants ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/track-pant/s/r/j/l-dq6615-010-nike-original-imagtnyjwczmmpar.jpeg?q=70&crop=false "
+},
+{
+      "id":545 ,
+      "price":286 ,
+      "category": "Men's Track Pants ",
+      "name":"Men Solid Black Track Pants  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/track-pant/m/d/f/m-1-vrma-original-imafwnfhseffnwuh-bb.jpeg?q=70&crop=false "
+},
+{
+      "id":546 ,
+      "price":386 ,
+      "category": "Men's Track Pants ",
+      "name":"Men Solid Grey Track Pants  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/track-pant/j/d/9/s-tp-10-lgdg-lemona-original-imaghs5h2c3rfypn.jpeg?q=70&crop=false "
+},
+{
+      "id":547 ,
+      "price":399 ,
+      "category": "Men's Track Pants ",
+      "name":"Pack of 2 Men Striped Multicolor Track Pants  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/track-pant/l/s/i/s-solid-men-track-pants-pack-of-2-foxter-original-imagzvpkgaayqxqv.jpeg?q=70&crop=false "
+},
+{
+      "id":548 ,
+      "price":299 ,
+      "category": "Men's Shorts ",
+      "name":"Pack of 2 Solid Men Black, Grey Basic Shorts, Beach Shorts, Baggy Shorts, Gym Shorts, Cycling Shorts  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/l1zc6fk0/short/k/8/b/l-solid-men-black-light-grey-sports-short-adrenex-original-imagdf9hrdjeuevj.jpeg?q=70&crop=false "
+},
+{
+      "id":549 ,
+      "price":149 ,
+      "category": "Men's Shorts ",
+      "name":"Solid Men Multicolor Regular Shorts  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/short/f/d/v/m-ic-moq3-n444549-indiclub-original-imagw2zuybkhejzh.jpeg?q=70&crop=false "
+},
+{
+      "id":550 ,
+      "price":1449 ,
+      "category": "Men's Shorts ",
+      "name":"Striped Men Blue Sports Shorts  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/short/i/a/g/-original-imags9v7hfejjemh.jpeg?q=70&crop=false "
+},
+{
+      "id":551 ,
+      "price":395 ,
+      "category": "Men's Shorts ",
+      "name":"Pack of 3 Solid Men Multicolor Bermuda Shorts  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/short/l/o/f/xxl-shorts-po3-black-grey-navy-subhashini-garments-original-imag8x84xxfpupxk-bb.jpeg?q=70&crop=false "
+},
+{
+      "id":552 ,
+      "price": 149,
+      "category": "Men's Shorts ",
+      "name":" Solid Men Dark Blue Regular Shorts, Sports Shorts, Beach Shorts ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/short/d/d/9/6xl-pic-2045-indiclub-original-imag6uxwxjfmnnz6-bb.jpeg?q=70&crop=false "
+},
+{
+      "id":553 ,
+      "price":141 ,
+      "category": "Men's Shorts ",
+      "name":" Solid Men Grey Sports Shorts ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/short/u/q/f/xl-ic-2046-indiclub-original-imafubw5h4tjuhfh-bb.jpeg?q=70&crop=false "
+},
+{
+      "id":554 ,
+      "price":1244 ,
+      "category": "Men's Shorts ",
+      "name":"Solid Men Black Sports Shorts  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/short/7/m/d/xl-dq1161-010-nike-original-imagrwfuxb3ncw87.jpeg?q=70&crop=false "
+},
+{
+      "id":555 ,
+      "price":276 ,
+      "category": "Men's Shorts ",
+      "name":" Solid Men Black Sports Shorts ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/short/l/2/p/l-premium-fabric-sport-short-yazole-original-imaggwuutwfjy4sg.jpeg?q=70&crop=false "
+},
+{
+      "id":556 ,
+      "price":141 ,
+      "category": "Men's Shorts ",
+      "name":" Solid Men Black Sports Shorts ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/short/y/d/a/xl-ic-2044-indiclub-original-imafubw5tpvycg4b-bb.jpeg?q=70&crop=false "
+},
+{
+      "id":557 ,
+      "price":449 ,
+      "category": "Men's Sweatshirts ",
+      "name":" Men Full Sleeve Printed Hooded Sweatshirt ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/sweatshirt/w/y/3/s-hood1-do-life-line-n-fashion-and-youth-original-imaghj46cttzumzr.jpeg?q=70&crop=false "
+},
+{
+      "id":558 ,
+      "price":900 ,
+      "category": "Men's Sweatshirts ",
+      "name":"Men Full Sleeve Solid Hooded Sweatshirt  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/jthjki80/sweatshirt/8/j/j/s-4453348-hrx-by-hrithik-roshan-original-imafesq5qbc8pxhf.jpeg?q=70&crop=false "
+},
+{
+      "id":559 ,
+      "price":429 ,
+      "category": "Men's Sweatshirts ",
+      "name":"Men Full Sleeve Printed Hooded Sweatshirt  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/sweatshirt/l/h/p/m-grey-avenger-boys-huddy-shazam-mart-original-imaggwc63zgtcvka.jpeg?q=70&crop=false "
+},
+{
+      "id":560 ,
+      "price": 2589,
+      "category": "Men's Sweatshirts ",
+      "name":"Men Full Sleeve Solid Hooded Sweatshirt  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/sweatshirt/r/k/w/-original-imagvyp5zcjxszbj.jpeg?q=70&crop=false "
+},
+{
+      "id":561 ,
+      "price":2012 ,
+      "category": "Men's Sweatshirts ",
+      "name":"Men Full Sleeve Solid Hooded Sweatshirt  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/sweatshirt/z/s/2/xxl-dq5153-010-nike-original-imagtmu23yxzqfhe.jpeg?q=70&crop=false "
+},
+{
+      "id":562 ,
+      "price":1124 ,
+      "category": "Men's Sweatshirts ",
+      "name":"Men Full Sleeve Printed Hooded Sweatshirt  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/sweatshirt/x/r/y/xxl-prabhubhakti-mhb-5501-prabhubhakti-original-imagv64vbg2zbppd.jpeg?q=70&crop=false "
+},
+{
+      "id":563 ,
+      "price":1199 ,
+      "category": "Men's Sweatshirts ",
+      "name":"Men Full Sleeve Solid Sweatshirt  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/sweatshirt/y/k/d/m-84738417-puma-original-imaghbaq5uxf58gh.jpeg?q=70&crop=false "
+},
+{
+      "id": 564,
+      "price":1399 ,
+      "category": "Men's Sweatshirts ",
+      "name":"Men Full Sleeve Printed Hooded Sweatshirt  ",
+      "image":" https://rukminim2.flixcart.com/image/832/832/xif0q/sweatshirt/2/n/v/xl-sw10231190-rigo-original-imagv9gd6nhbysjp.jpeg?q=70&crop=false"
+},
+{
+      "id":565 ,
+      "price":1169 ,
+      "category": "Men's Sweatshirts ",
+      "name":"Men Full Sleeve Self Design Sweatshirt  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/kx9as280/sweatshirt/f/r/x/l-atstcurgf632829-allen-solly-original-imag9r8jnhkvsvsc.jpeg?q=70&crop=false "
+},
+{
+      "id":566 ,
+      "price":1379 ,
+      "category": "Men's Sweatshirts ",
+      "name":" Men Full Sleeve Printed Hooded Sweatshirt ",
+      "image":" https://rukminim2.flixcart.com/image/832/832/xif0q/sweatshirt/l/i/2/3xl-22a3p19j3007gmb5-united-colors-of-benetton-original-imaggbueega8thzt.jpeg?q=70&crop=false"
+},
+{
+      "id":567 ,
+      "price":1199 ,
+      "category": "Men's Sweatshirts ",
+      "name":"Men Full Sleeve Printed Sweatshirt  ",
+      "image":" https://rukminim2.flixcart.com/image/832/832/kwzap3k0/sweatshirt/c/x/8/3xl-atstcrgfx66354-allen-solly-original-imag9jgtztmrytqf.jpeg?q=70&crop=false"
+},
+{
+      "id":568 ,
+      "price":799 ,
+      "category": "Men's Jackets",
+      "name":"Men Colorblock Casual Jacket  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/jacket/h/o/e/m-1-no-multicolor-part-3-azmani-original-imaguubfzcf8ne7m.jpeg?q=70&crop=false "
+},
+{
+      "id":569 ,
+      "price":499 ,
+      "category": "Men's Jackets",
+      "name":" Men Washed Jacket ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/jacket/a/h/i/xl-mnt-7025-montrez-original-imag5hb93udpfs4q-bb.jpeg?q=70&crop=false "
+},
+{
+      "id": 570,
+      "price":449 ,
+      "category": "Men's Jackets",
+      "name":"Men Solid Bomber Jacket  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/jacket/5/q/f/xxl-1-no-jkt-02-black-c3-leotude-original-imagvrdnjus2zpzn.jpeg?q=70&crop=false "
+},
+{
+      "id":571 ,
+      "price":399 ,
+      "category": "Men's Jackets",
+      "name":" Men Solid Casual Jacket ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/jacket/h/m/d/xl-no-tblrnfuljacket-k39-tripr-original-imaguazgve23pmvg.jpeg?q=70&crop=false "
+},
+{
+      "id":572 ,
+      "price":699 ,
+      "category": "Men's Jackets",
+      "name":"Men Printed, Colorblock Casual Jacket  ",
+      "image":" https://rukminim2.flixcart.com/image/832/832/xif0q/jacket/y/t/q/l-no-v1-jkt-wind-c-mynot-black-verticals-original-imagwj8fdxsd6nr5.jpeg?q=70&crop=false"
+},
+{
+      "id": 573,
+      "price":1140 ,
+      "category": "Men's Jackets",
+      "name":"Men Solid Bomber Jacket  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/kj8wccw0-0/jacket/y/g/8/xxl-12645820-here-now-original-imafyurmdnnj5wby.jpeg?q=70&crop=false "
+},
+{
+      "id": 574,
+      "price":349 ,
+      "category": "Men's Jackets",
+      "name":" Men Solid Sports Jacket ",
+      "image":" https://rukminim2.flixcart.com/image/832/832/xif0q/jacket/t/q/e/xxl-1-no-jkt1-vebnor-original-imagt8cf3nykvnes.jpeg?q=70&crop=false"
+},
+{
+      "id": 575,
+      "price": 1575,
+      "category": "Men's Jackets",
+      "name":" Men Colorblock Casual Jacket ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/l1l1rww0/jacket/i/g/2/m-no-fmjcko1062-flying-machine-original-imagd4ccaeuzja6f.jpeg?q=70&crop=false "
+},
+{
+      "id":576 ,
+      "price":1039 ,
+      "category": "Men's Jackets",
+      "name":"Men Colorblock Bomber Jacket  ",
+      "image":" https://rukminim2.flixcart.com/image/832/832/xif0q/jacket/n/f/k/-original-imagwnzzg2ymnj3m.jpeg?q=70&crop=false"
+},
+{
+
+      "id":577 ,
+      "price":279 ,
+      "category": "Men's Sweaters",
+      "name":" Men Solid High Neck Black Sweater ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/b/s/a/s-high-neck-01-black-s-crystalrevenue-original-imagjhmzgjzzfhsa.jpeg?q=70&crop=false "
+},
+{
+
+      "id":578 ,
+      "price":899 ,
+      "category": "Men's Sweaters",
+      "name":" Men Solid V Neck Grey Sweater ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/ktuewsw0/t-shirt/a/c/5/m-2026626002-magnet-jack-jones-original-imag73rf6atqyrme.jpeg?q=70&crop=false "
+},
+{
+
+      "id":579 ,
+      "price":510 ,
+      "category": "Men's Sweaters",
+      "name":" Men Self Design Turtle Neck Black Sweater ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/sweater/x/h/c/843412-roadster-l-original-imaecxkz8vafg5ug.jpeg?q=70&crop=false "
+},
+{
+
+      "id":580 ,
+      "price":902 ,
+      "category": "Men's Sweaters",
+      "name":"Men Woven Round Neck Multicolor Sweater  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/sweater/3/d/o/m-kmswfc57-dusty-pink-off-white-numero-uno-original-imagg7zjwpapvmvz.jpeg?q=70&crop=false "
+},
+{
+
+      "id": 581,
+      "price":1374 ,
+      "category": "Men's Sweaters",
+      "name":"Men Solid Round Neck Multicolor Sweater  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/sweater/m/8/7/-original-imagk5k4ggkmnymv.jpeg?q=70&crop=false "
+},
+{
+
+      "id":582 ,
+      "price":645 ,
+      "category": "Men's Sweaters",
+      "name":"Men Woven High Neck Multicolor Sweater  ",
+      "image":" https://rukminim2.flixcart.com/image/832/832/xif0q/sweater/x/0/9/l-hzp-airforce-kvetoo-original-imaggggxvff8p5gn.jpeg?q=70&crop=false"
+},
+{
+
+      "id":583 ,
+      "price":378 ,
+      "category": "Men's Sweaters",
+      "name":" Men Striped Round Neck Brown Sweater ",
+      "image":" https://rukminim2.flixcart.com/image/832/832/xif0q/sweater/m/u/z/-original-imagvqbt429jtffk.jpeg?q=70&crop=false"
+},
+{
+
+      "id":584 ,
+      "price":570 ,
+      "category": "Men's Sweaters",
+      "name":"Men Self Design V Neck Black Sweater  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/sweater/q/d/k/xl-18337488-roadster-original-imaghjzraqzxjjxh.jpeg?q=70&crop=false "
+},
+{
+
+      "id":585 ,
+      "price":488 ,
+      "category": "Men's Sweaters",
+      "name":" Men Colorblock Round Neck Black Sweater ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/sweater/i/s/2/l-men-round-swtr-myles-original-imagg4eewppfsnvm.jpeg?q=70&crop=false "
+},
+{
+      "id":586 ,
+      "price":399 ,
+      "category": "Men's Tracksuits",
+      "name":" Printed Men Track Suit ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/track-suit/m/3/z/xxl-border-tracksuit-m7-by-metronaut-original-imagr3jftwxcxyqc.jpeg?q=70&crop=false "
+},
+{
+      "id":587 ,
+      "price":409 ,
+      "category": "Men's Tracksuits",
+      "name":" Printed Men Track Suit ",
+      "image":" https://rukminim2.flixcart.com/image/832/832/xif0q/track-suit/h/p/o/xxl-bblrnful-z117-tbljog-j36tracksuit-blive-original-imagse5rphxhagew.jpeg?q=70&crop=false"
+},
+{
+      "id": 588,
+      "price":329 ,
+      "category": "Men's Tracksuits",
+      "name":"Colorblock Men Track Suit  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/track-suit/w/c/w/xxl-colorblock-m7-by-metronaut-original-imagpxdgdhnashdh.jpeg?q=70&crop=false "
+},
+{
+      "id":589 ,
+      "price":499 ,
+      "category": "Men's Tracksuits",
+      "name":" Solid Men Track Suit ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/track-suit/9/n/s/xxl-cor-6023-triptee-original-imagtf5shvzpzxhh.jpeg?q=70&crop=false "
+},
+{
+      "id":590 ,
+      "price":499 ,
+      "category": "Men's Tracksuits",
+      "name":"Striped Men Track Suit  ",
+      "image":" https://rukminim2.flixcart.com/image/832/832/xif0q/track-suit/f/f/v/xxl-code-25-navy-blue-yuvraah-original-imagqth9yhgtgyky.jpeg?q=70&crop=false"
+},
+{
+      "id":591 ,
+      "price":499 ,
+      "category": "Men's Tracksuits",
+      "name":"Printed Men Track Suit  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/track-suit/y/i/3/m-tblrnfuljacketk39-tbljogj36tracksuit-tripr-original-imaguxjwe6uurcgz.jpeg?q=70&crop=false "
+},
+{
+      "id":592 ,
+      "price":3649 ,
+      "category": "Men's Tracksuits",
+      "name":" Solid Men Track Suit ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/track-suit/r/5/g/-original-imagtaerxh2antey.jpeg?q=70&crop=false "
+},
+{
+      "id": 593,
+      "price":2547 ,
+      "category": "Men's Tracksuits",
+      "name":" Solid Men Track Suit ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/track-suit/n/j/1/-original-imagvg8tzghzhrgh.jpeg?q=70&crop=false "
+},
+{
+      "id":594 ,
+      "price":2507 ,
+      "category": "Men's Tracksuits",
+      "name":"Solid Men Track Suit  ",
+      "image":"https://rukminim2.flixcart.com/image/832/832/xif0q/track-suit/h/e/7/-original-imagtz9ver3ghv2u.jpeg?q=70&crop=false "
+}
+
+
+
+
+    ]
+}
