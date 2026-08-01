@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import './App.css';
 import axios from 'axios';
 import { useNavigate } from 'react-router-dom';
+import api from './api';
 
 
 export default function Otp({OnOtp}) {
@@ -14,7 +15,7 @@ export default function Otp({OnOtp}) {
   const submission = (e) => {
     e.preventDefault();
     // Handle OTP submission logic
-     axios.post("https://9de2-2409-408c-8697-8242-3151-836b-c2ba-8a4d.ngrok-free.app/otp",{otp,username})
+     api.post("/otp",{otp,username})
      .then((response)=>{
         if(response.status === 200)
         {
@@ -90,7 +91,7 @@ export default function Otp({OnOtp}) {
               <p>OTP expires in {Math.floor(timer / 60)}:{timer % 60}</p>
               <input type="button" className='btn btn-primary' value="Generate OTP"  onClick={()=>{
                 startTimer();
-                axios.post("https://9de2-2409-408c-8697-8242-3151-836b-c2ba-8a4d.ngrok-free.app/forget_Password", { username })
+                api.post("/forget_Password", { username })
                 .then((response) => {
                   if (response.status === 200) {
                     console.log("New Otp Has genarated");

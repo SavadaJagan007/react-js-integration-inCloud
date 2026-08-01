@@ -2,6 +2,7 @@ import React,{useState} from 'react'
 import './App.css'; 
 import axios from 'axios';
 import { Link, useNavigate } from 'react-router-dom';
+import api from './api';
 
 export default function Login({ onLogin, isAuthenticated }) {
     const [name, setName] = useState({
@@ -24,7 +25,7 @@ export default function Login({ onLogin, isAuthenticated }) {
     
         
     
-        axios.post("https://9de2-2409-408c-8697-8242-3151-836b-c2ba-8a4d.ngrok-free.app/Connect", name)
+        api.post("/Connect", name)
           .then((response) => {
             if (response.status === 200) {
               sessionStorage.setItem('username',username)

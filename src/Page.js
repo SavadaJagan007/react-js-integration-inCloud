@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import './App.css';
 import axios from 'axios';
 import { useNavigate } from 'react-router-dom';
+import api from './api';
 
 export default function Page({OnPage}) {
   const [username, setUser] = useState('');
@@ -11,7 +12,7 @@ export default function Page({OnPage}) {
   const submission = (e) => {
     e.preventDefault();
 
-    axios.post("https://9de2-2409-408c-8697-8242-3151-836b-c2ba-8a4d.ngrok-free.app/forget_Password", { username })
+    api.post("/forget_Password", { username })
       .then((response) => {
         if (response.status === 200) {
           console.log("Email verified");

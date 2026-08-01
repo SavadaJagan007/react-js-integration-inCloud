@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import './App.css';
 import axios from 'axios';
 import { useNavigate } from 'react-router-dom';
+import api from './api';
 
 export default function Register({onLogin}) {
   const [fullname, setFullName] = useState('');
@@ -32,7 +33,7 @@ export default function Register({onLogin}) {
   
 
   const updateData = async() => {
-     await axios.put(`https://9de2-2409-408c-8697-8242-3151-836b-c2ba-8a4d.ngrok-free.app/${username}`, {
+     await api.put(`/updateRegisteredDetails/${username}`, {
         password,
         fullname,
         mobile,
@@ -114,7 +115,7 @@ export default function Register({onLogin}) {
             
             async()=>{
               if(username.length >= 11){
-              await axios.post("https://9de2-2409-408c-8697-8242-3151-836b-c2ba-8a4d.ngrok-free.app/register/email",{username})
+              await api.post("/register/email",{username})
                     .then((response)=>{
                       if(response.status === 200)
                       {
@@ -214,7 +215,7 @@ export default function Register({onLogin}) {
                     
                     if(eblue === true ){
                     
-                    axios.post("https://9de2-2409-408c-8697-8242-3151-836b-c2ba-8a4d.ngrok-free.app/registration", { username })
+                    api.post("/registration", { username })
                     .then((response) => {
                      if (response.status === 200) {
                      console.log("Otp sent ");
@@ -253,7 +254,7 @@ export default function Register({onLogin}) {
 
             <input type="submit" className="btn btn-primary " value="Register" onClick={()=>{
              
-             axios.post("https://9de2-2409-408c-8697-8242-3151-836b-c2ba-8a4d.ngrok-free.app/otp",{otp,username})
+             api.post("/otp",{otp,username})
               .then((response)=>{
                if(response.status === 200)
                {

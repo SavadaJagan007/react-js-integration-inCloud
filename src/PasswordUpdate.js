@@ -2,6 +2,7 @@ import React, { useState } from 'react'
 import './App.css';
 import axios from 'axios';
 import { useNavigate } from 'react-router-dom';
+import api from './api';
 
 
 export default function PasswordUpdate({OnPassUp}) {
@@ -16,7 +17,7 @@ export default function PasswordUpdate({OnPassUp}) {
           red(false);
           return;
         }
-        axios.put(`https://9de2-2409-408c-8697-8242-3151-836b-c2ba-8a4d.ngrok-free.app/${username}`,{password})
+        api.put(`/updatePassword/${username}`,{password})
         .then((response)=>{
             if(response.status === 200)
             {

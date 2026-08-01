@@ -3,6 +3,7 @@ import { useSelector,useDispatch } from 'react-redux';
 import axios from 'axios';
 import { useNavigate } from 'react-router-dom';
 import { removeItem } from './cartSlice';
+import api from './api';
 
 export default function Shipping() {
 const [name,setName]=useState('');
@@ -20,7 +21,7 @@ const dispatch = useDispatch();
 const username=sessionStorage.getItem('username');
 const createInvoice = async () => {
   try {
-    const response = await axios.post('https://9de2-2409-408c-8697-8242-3151-836b-c2ba-8a4d.ngrok-free.app/invoice',{
+    const response = await api.post('/invoice',{
       email:email,items:buy.cart.items,fullname:name,contact:phone,line1:line1,line2:line2,username:username,zipcode:zipcode,city:city,state:state,country:country});
     const data = response.data;
      // Assuming your response contains the invoice ID

@@ -7,6 +7,7 @@ import axios from 'axios';
 import { LogOut, ShoppingBag, ShoppingCart, Search } from 'react-feather';
 import { User } from 'react-feather';
 import Store from './Store.json';
+import api from './api';
 
 export default function Background({xyz}) {
   const count = useSelector((state) => state.cart.items.length);
@@ -37,7 +38,7 @@ export default function Background({xyz}) {
   xyz(ac)
   
 
-  axios.get(`http://localhost:8080/user-fullname/${customer}`)
+   api.get(`/user-fullname/${customer}`)
     .then(response => {
       SetFullname(response.data);
 
